@@ -14,5 +14,8 @@ for i,v in pairs(dkp) do
 end
 table.sort(names)
 for i,v in ipairs(names) do
-  print(v .. ": " .. dkp[v].total)
+  -- Don't print out alt names
+  if BidER_Aliases[v] == nil then
+    print(v .. ": " .. dkp[v].total)
+  end
 end
