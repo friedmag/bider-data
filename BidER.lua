@@ -752,11 +752,6 @@ BidER_Raids = {
 						["item"] = "|cffa335ee|Hitem:45142:0:0:0:0:0:0:-1614360448:80|h[Remorse]|h|r",
 						["who"] = "Withal",
 					}, -- [2]
-					{
-						["amount"] = 3,
-						["item"] = "|cffa335ee|Hitem:45140:0:0:0:0:0:0:-1882795904:80|h[Razorscale Shoulderguards]|h|r",
-						["who"] = "Valore",
-					}, -- [3]
 				},
 				["attempts"] = {
 					1247623591, -- [1]
