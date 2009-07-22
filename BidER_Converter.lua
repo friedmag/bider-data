@@ -18,6 +18,15 @@ end
 
 GRSS_Initialize_Data()
 
+local function GetNames(tab)
+  local out = ""
+  for i,name in pairs(tab) do
+    if out == "" then out = name
+    else out = out .. ", " .. name end
+  end
+  return out
+end
+
 local dkp = BidER_DKP[dkpset]
 local names = {}
 for i,v in pairs(dkp) do
@@ -53,12 +62,17 @@ for i,raid in pairs(BidER_Raids) do
     end
 
     local counts = {}
+    local killed = {}
     for j,attempt in ipairs(event.attempts) do
       for k,name in ipairs(attempt.attendance) do
         if counts[name] == nil then counts[name] = 0 end
         counts[name] = counts[name] + 1
+        if attempt.killed then
+          table.insert(killed, name)
+        end
       end
     end
+    table.sort(killed)
 
     for name,count in pairs(counts) do
       table.insert(names[count], name)
@@ -67,18 +81,13 @@ for i,raid in pairs(BidER_Raids) do
 
     local out = ""
     file:write(boss .. ":\n")
+    if #killed > 0 then
+      file:write("    KILL - " .. GetNames(killed) .. " (" .. #killed .. ")\n")
+    end
     for j=#names, 1, -1 do
       if #names[j] > 0 then
-        out = ""
-        for k,name in ipairs(names[j]) do
-          if out == "" then out = name
-          else out = out .. ", " .. name end
-        end
-        file:write("    " .. j .. "x fight - " .. out .. " (" .. #names[j] .. ")\n")
+        file:write("    " .. j .. "x fight - " .. GetNames(names[j]) .. " (" .. #names[j] .. ")\n")
       end
-    end
-    if event.killed then
-      file:write("    KILLED!\n")
     end
     file:write("\n")
     if event.loots then
