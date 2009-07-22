@@ -1,6 +1,7 @@
 #!/usr/bin/env lua
 
 require('BidER')
+require('GRSS_Data')
 
 local dkpset = "official"
 local pointfile = "points.txt"
@@ -15,6 +16,8 @@ if arg[3] ~= nil then
   dkpset = arg[3]
 end
 
+GRSS_Initialize_Data()
+
 local dkp = BidER_DKP[dkpset]
 local names = {}
 for i,v in pairs(dkp) do
@@ -25,7 +28,7 @@ table.sort(names)
 file = io.open(pointfile, 'w+')
 for i,v in ipairs(names) do
   -- Don't print out alt names
-  if BidER_Aliases[v] == nil then
+  if GRSS_Alts[v:lower()] == nil then
     file:write(v .. ": " .. dkp[v].total .. "\n")
   end
 end
@@ -39,26 +42,43 @@ for i,raid in pairs(BidER_Raids) do
   local bosses = {}
   for boss,event in pairs(raid.events) do table.insert(bosses, boss) end
   table.sort(bosses, function(left, right)
-    return raid.events[left].attempts[1] < raid.events[right].attempts[1]
+    return raid.events[left].attempts[1].time < raid.events[right].attempts[1].time
   end)
   for j,boss in pairs(bosses) do
     local event = raid.events[boss]
+
     local names = {}
-    for j,name in ipairs(event.attendance) do
-      table.insert(names, name)
+    for j=1, #event.attempts do
+      names[j] = {}
     end
-    table.sort(names)
-    local out = ""
-    for j,name in pairs(names) do
-      if out == "" then out = name
-      else out = out .. ", " .. name end
-    end
-    file:write(boss .. ": " .. out .. " (" .. #names .. ")\n")
+
+    local counts = {}
     for j,attempt in ipairs(event.attempts) do
-      file:write("     " .. os.date(nil, attempt) .. "\n")
+      for k,name in ipairs(attempt.attendance) do
+        if counts[name] == nil then counts[name] = 0 end
+        counts[name] = counts[name] + 1
+      end
+    end
+
+    for name,count in pairs(counts) do
+      table.insert(names[count], name)
+      table.sort(names[count])
+    end
+
+    local out = ""
+    file:write(boss .. ":\n")
+    for j=#names, 1, -1 do
+      if #names[j] > 0 then
+        out = ""
+        for k,name in ipairs(names[j]) do
+          if out == "" then out = name
+          else out = out .. ", " .. name end
+        end
+        file:write("    " .. j .. "x fight - " .. out .. " (" .. #names[j] .. ")\n")
+      end
     end
     if event.killed then
-      file:write("     KILLED\n")
+      file:write("    KILLED!\n")
     end
     file:write("\n")
     if event.loots then
