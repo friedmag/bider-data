@@ -93,7 +93,11 @@ for i,raid in pairs(BidER_Raids) do
     if event.loots then
       for j,loot in pairs(event.loots) do
         local item = loot.item:match("%[([^%]]+)%]")
-        file:write("     " .. loot.who .. ": [item]" .. item .. "[/item] (" .. loot.amount .. ")\n")
+        if loot.amount then
+          file:write("     " .. loot.who .. ": [item]" .. item .. "[/item] (" .. loot.amount .. ")\n")
+        else
+          file:write("     DE: [item]" .. item .. "[/item]\n")
+        end
       end
       file:write("\n")
     end
