@@ -930,31 +930,6 @@ BidER_Raids = {
 						["time"] = 1248407636,
 						["killed"] = false,
 					}, -- [3]
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Keeneyes", -- [2]
-							"Gylan", -- [3]
-							"Silvanara", -- [4]
-							"Riverblade", -- [5]
-							"Valsarius", -- [6]
-							"Wiltavian", -- [7]
-							"Valore", -- [8]
-							"Scornhorn", -- [9]
-							"Morvien", -- [10]
-							"Locofwar", -- [11]
-							"Jukaszor", -- [12]
-							"Vrisha", -- [13]
-							"Rumbler", -- [14]
-							"Dook", -- [15]
-							"Embrr", -- [16]
-							"Elaini", -- [17]
-							"Midknyte", -- [18]
-							"Quilderaumo", -- [19]
-						},
-						["time"] = 1248407895,
-						["killed"] = false,
-					}, -- [4]
 				},
 			},
 		},
