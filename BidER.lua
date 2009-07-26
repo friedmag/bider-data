@@ -8,28 +8,28 @@ BidER_DKP = {
 			["total"] = 3,
 		},
 		["Elaini"] = {
-			["total"] = 12,
+			["total"] = 14,
 		},
 		["Marugar"] = {
 			["total"] = "1",
 		},
 		["Bukthyn"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Whiskeydeath"] = {
 			["total"] = "5",
 		},
 		["Niewen"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Midknyte"] = {
-			["total"] = 2,
+			["total"] = 4,
 		},
 		["Sheemie"] = {
 			["total"] = "4",
 		},
 		["Knytemare"] = {
-			["total"] = 2,
+			["total"] = 3,
 		},
 		["Esjuggernaut"] = {
 			["total"] = "0",
@@ -53,22 +53,22 @@ BidER_DKP = {
 			["total"] = 4,
 		},
 		["Wiltavian"] = {
-			["total"] = 10,
+			["total"] = 12,
 		},
 		["Knyte"] = {
-			["total"] = 2,
+			["total"] = 3,
 		},
 		["Liquideath"] = {
 			["total"] = 2,
 		},
 		["Vhelx"] = {
-			["total"] = 17,
+			["total"] = 18,
 		},
 		["Bukthan"] = {
-			["total"] = 6,
+			["total"] = 8,
 		},
 		["Rumbler"] = {
-			["total"] = 26,
+			["total"] = 28,
 		},
 		["Bradac"] = {
 			["total"] = 6,
@@ -83,7 +83,7 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Nantucket"] = {
-			["total"] = 17,
+			["total"] = 19,
 		},
 		["Artein"] = {
 			["total"] = "2",
@@ -91,17 +91,20 @@ BidER_DKP = {
 		["Rubyfalls"] = {
 			["total"] = "2",
 		},
+		["Deminaris"] = {
+			["total"] = 3,
+		},
 		["Pachetaurs"] = {
 			["total"] = "2",
 		},
 		["Gehzry"] = {
-			["total"] = 17,
+			["total"] = 18,
 		},
 		["Baffic"] = {
 			["total"] = "86",
 		},
 		["Dook"] = {
-			["total"] = 11,
+			["total"] = 13,
 		},
 		["Konahta"] = {
 			["total"] = "15",
@@ -110,7 +113,7 @@ BidER_DKP = {
 			["total"] = "6",
 		},
 		["Gylak"] = {
-			["total"] = 23,
+			["total"] = 24,
 		},
 		["Vintarius"] = {
 			["total"] = "11",
@@ -119,28 +122,28 @@ BidER_DKP = {
 			["total"] = "13",
 		},
 		["Ravenwood"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Quilderaumo"] = {
-			["total"] = 17,
+			["total"] = 19,
 		},
 		["Namefear"] = {
 			["total"] = "10",
 		},
 		["Selidar"] = {
-			["total"] = 57,
+			["total"] = 59,
 		},
 		["Bukthun"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Thudd"] = {
 			["total"] = "86",
 		},
 		["Scorndog"] = {
-			["total"] = 7,
+			["total"] = 8,
 		},
 		["Thurmia"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Pyriall"] = {
 			["total"] = "2",
@@ -155,10 +158,10 @@ BidER_DKP = {
 			["total"] = "17",
 		},
 		["Scornmage"] = {
-			["total"] = 7,
+			["total"] = 8,
 		},
 		["Kriptohr"] = {
-			["total"] = 17,
+			["total"] = 18,
 		},
 		["Tairy"] = {
 			["total"] = 21,
@@ -167,13 +170,13 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Scorncat"] = {
-			["total"] = 7,
+			["total"] = 8,
 		},
 		["Testiclitus"] = {
 			["total"] = "15",
 		},
 		["Sledge"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Irshul"] = {
 			["total"] = "0",
@@ -182,7 +185,7 @@ BidER_DKP = {
 			["total"] = "16",
 		},
 		["Bukthin"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Apocyloth"] = {
 			["total"] = "0",
@@ -191,7 +194,7 @@ BidER_DKP = {
 			["total"] = "4",
 		},
 		["Shyzyhra"] = {
-			["total"] = 2,
+			["total"] = 4,
 		},
 		["Melbindi"] = {
 			["total"] = 5,
@@ -218,7 +221,7 @@ BidER_DKP = {
 			["total"] = "20",
 		},
 		["Visslik"] = {
-			["total"] = 2,
+			["total"] = 3,
 		},
 		["Dacar"] = {
 			["total"] = "7",
@@ -233,7 +236,7 @@ BidER_DKP = {
 			["total"] = "1",
 		},
 		["Jukaszor"] = {
-			["total"] = 38,
+			["total"] = 40,
 		},
 		["Reallyaguy"] = {
 			["total"] = 19,
@@ -242,13 +245,22 @@ BidER_DKP = {
 			["total"] = "15",
 		},
 		["Morier"] = {
-			["total"] = 2,
+			["total"] = 3,
 		},
 		["Eydolon"] = {
 			["total"] = "0",
 		},
 		["Andrewid"] = {
 			["total"] = "1",
+		},
+		["Mabd"] = {
+			["total"] = 16,
+		},
+		["Mourngrym"] = {
+			["total"] = 3,
+		},
+		["Kahlee"] = {
+			["total"] = 16,
 		},
 		["Bildo"] = {
 			["total"] = "0",
@@ -260,7 +272,7 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Vrisha"] = {
-			["total"] = 15,
+			["total"] = 17,
 		},
 		["Banq"] = {
 			["total"] = 0,
@@ -268,8 +280,14 @@ BidER_DKP = {
 		["Jillien"] = {
 			["total"] = "0",
 		},
+		["Battletoad"] = {
+			["total"] = 0,
+		},
 		["Supressor"] = {
 			["total"] = "57",
+		},
+		["Moorgain"] = {
+			["total"] = 16,
 		},
 		["Coolleen"] = {
 			["total"] = 10,
@@ -277,47 +295,47 @@ BidER_DKP = {
 		["Twonynd"] = {
 			["total"] = "2",
 		},
-		["Aenorn"] = {
-			["total"] = 1,
+		["Valsarius"] = {
+			["total"] = 12,
 		},
 		["Cleophus"] = {
 			["total"] = 19,
 		},
-		["Enaru"] = {
-			["total"] = "4",
+		["Numfar"] = {
+			["total"] = 18,
 		},
 		["Gnasha"] = {
 			["total"] = "0",
 		},
-		["Rarebird"] = {
-			["total"] = 11,
-		},
-		["Keeneyes"] = {
-			["total"] = 6,
+		["Soulrez"] = {
+			["total"] = 21,
 		},
 		["Cheval"] = {
-			["total"] = 6,
-		},
-		["Karcuss"] = {
-			["total"] = "86",
-		},
-		["Astoy"] = {
-			["total"] = "0",
+			["total"] = 7,
 		},
 		["Digitalchaos"] = {
 			["total"] = "10",
 		},
+		["Karcuss"] = {
+			["total"] = "86",
+		},
+		["Gennosukei"] = {
+			["total"] = "3",
+		},
+		["Keeneyes"] = {
+			["total"] = 8,
+		},
 		["Allev"] = {
 			["total"] = "86",
 		},
-		["Dessecrate"] = {
-			["total"] = "9",
+		["Locofwar"] = {
+			["total"] = 13,
 		},
 		["Alessan"] = {
 			["total"] = "2",
 		},
 		["Doriana"] = {
-			["total"] = 12,
+			["total"] = 13,
 		},
 		["Aanelorn"] = {
 			["total"] = "2",
@@ -329,13 +347,13 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Morvien"] = {
-			["total"] = 2,
+			["total"] = 4,
 		},
 		["Simii"] = {
 			["total"] = "50",
 		},
-		["Kuurus"] = {
-			["total"] = "72",
+		["Darkarts"] = {
+			["total"] = 7,
 		},
 		["Lynliss"] = {
 			["total"] = "0",
@@ -346,89 +364,89 @@ BidER_DKP = {
 		["Mikaylyn"] = {
 			["total"] = "3",
 		},
-		["Cochata"] = {
-			["total"] = 4,
+		["Sagiv"] = {
+			["total"] = "15",
 		},
 		["Zytha"] = {
 			["total"] = "0",
 		},
-		["Pulgas"] = {
-			["total"] = "7",
+		["Alihra"] = {
+			["total"] = 3,
 		},
 		["Thakigg"] = {
 			["total"] = 29,
 		},
 		["Highplains"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
-		["Blyte"] = {
-			["total"] = "86",
+		["Rocknrolla"] = {
+			["total"] = 0,
 		},
-		["Sagiv"] = {
-			["total"] = "15",
+		["Kuurus"] = {
+			["total"] = "72",
 		},
 		["Knytephal"] = {
-			["total"] = 2,
+			["total"] = 3,
 		},
-		["Infyrno"] = {
-			["total"] = 11,
+		["Pokit"] = {
+			["total"] = 6,
 		},
-		["Bruujo"] = {
-			["total"] = "15",
+		["Valore"] = {
+			["total"] = 7,
 		},
-		["Palytank"] = {
-			["total"] = "0",
+		["Morgain"] = {
+			["total"] = 16,
 		},
 		["Tredruid"] = {
 			["total"] = 19,
 		},
-		["Syrenna"] = {
-			["total"] = "2",
+		["Morniel"] = {
+			["total"] = 3,
 		},
 		["Lakajira"] = {
 			["total"] = "8",
 		},
 		["Ariaxx"] = {
-			["total"] = 6,
+			["total"] = 8,
 		},
-		["Strumpet"] = {
-			["total"] = "10",
+		["Kinu"] = {
+			["total"] = 0,
 		},
-		["Jurion"] = {
-			["total"] = "1",
+		["Feralz"] = {
+			["total"] = 4,
 		},
-		["Bellassiel"] = {
-			["total"] = 2,
+		["Kalestra"] = {
+			["total"] = 3,
 		},
-		["Hellswolf"] = {
-			["total"] = "2",
+		["Scorndeath"] = {
+			["total"] = 8,
 		},
 		["Borialis"] = {
 			["total"] = "5",
 		},
-		["Orlanth"] = {
-			["total"] = "0",
+		["Liketobubble"] = {
+			["total"] = 19,
 		},
 		["Vannd"] = {
 			["total"] = "4",
 		},
-		["Epsilon"] = {
-			["total"] = "0",
-		},
-		["Pirojil"] = {
-			["total"] = 15,
-		},
-		["Tradora"] = {
-			["total"] = 12,
-		},
-		["Maliana"] = {
-			["total"] = 12,
-		},
-		["Gylan"] = {
-			["total"] = 23,
+		["Hepher"] = {
+			["total"] = 6,
 		},
 		["Hyduken"] = {
-			["total"] = 11,
+			["total"] = 12,
+		},
+		["Tradora"] = {
+			["total"] = 13,
+		},
+		["Maliana"] = {
+			["total"] = 13,
+		},
+		["Gylan"] = {
+			["total"] = 25,
+		},
+		["Sodaman"] = {
+			["total"] = "22",
 		},
 		["Lenadin"] = {
 			["total"] = "14",
@@ -436,29 +454,29 @@ BidER_DKP = {
 		["Mzammer"] = {
 			["total"] = 1,
 		},
-		["Sodaman"] = {
-			["total"] = "22",
-		},
-		["Badon"] = {
-			["total"] = 15,
+		["Hachu"] = {
+			["total"] = "86",
 		},
 		["Butherface"] = {
 			["total"] = "3",
 		},
-		["Zub"] = {
-			["total"] = "1",
+		["Moriden"] = {
+			["total"] = 6,
 		},
-		["Targo"] = {
-			["total"] = 11,
+		["Clariti"] = {
+			["total"] = "5",
 		},
-		["Lien"] = {
-			["total"] = "2",
+		["Kriptik"] = {
+			["total"] = "19",
+		},
+		["Riçkkëz"] = {
+			["total"] = 14,
 		},
 		["Scornpally"] = {
-			["total"] = 7,
+			["total"] = 8,
 		},
-		["Vorejr"] = {
-			["total"] = "10",
+		["Yelgrun"] = {
+			["total"] = 5,
 		},
 		["Murmullo"] = {
 			["total"] = 4,
@@ -472,56 +490,56 @@ BidER_DKP = {
 		["Intermission"] = {
 			["total"] = 21,
 		},
-		["Yelgrun"] = {
-			["total"] = 4,
+		["Vorejr"] = {
+			["total"] = "10",
 		},
 		["Ilie"] = {
 			["total"] = "21",
 		},
-		["Gelnon"] = {
-			["total"] = 4,
-		},
-		["Gorajai"] = {
+		["Ahzidahaka"] = {
 			["total"] = "0",
-		},
-		["Riverblade"] = {
-			["total"] = 4,
-		},
-		["Embrr"] = {
-			["total"] = 6,
-		},
-		["Blairak"] = {
-			["total"] = "2",
-		},
-		["Dayka"] = {
-			["total"] = "28",
 		},
 		["Japen"] = {
 			["total"] = "13",
 		},
-		["Ahzidahaka"] = {
+		["Dayka"] = {
+			["total"] = "28",
+		},
+		["Embrr"] = {
+			["total"] = 8,
+		},
+		["Blairak"] = {
+			["total"] = "2",
+		},
+		["Riverblade"] = {
+			["total"] = 6,
+		},
+		["Gorajai"] = {
 			["total"] = "0",
+		},
+		["Gelnon"] = {
+			["total"] = 5,
 		},
 		["Jestine"] = {
 			["total"] = "0",
 		},
-		["Riçkkëz"] = {
-			["total"] = 14,
+		["Lien"] = {
+			["total"] = "2",
 		},
-		["Kriptik"] = {
-			["total"] = "19",
+		["Targo"] = {
+			["total"] = 12,
 		},
-		["Clariti"] = {
-			["total"] = "5",
+		["Strumpet"] = {
+			["total"] = "10",
 		},
-		["Moriden"] = {
-			["total"] = 6,
+		["Zub"] = {
+			["total"] = "1",
 		},
 		["Pawmane"] = {
 			["total"] = "15",
 		},
-		["Hachu"] = {
-			["total"] = "86",
+		["Badon"] = {
+			["total"] = 15,
 		},
 		["Jetfiz"] = {
 			["total"] = "5",
@@ -529,86 +547,86 @@ BidER_DKP = {
 		["Agisha"] = {
 			["total"] = "5",
 		},
-		["Hepher"] = {
-			["total"] = 6,
+		["Pirojil"] = {
+			["total"] = 16,
 		},
-		["Liketobubble"] = {
-			["total"] = 19,
+		["Epsilon"] = {
+			["total"] = "0",
 		},
-		["Scorndeath"] = {
-			["total"] = 7,
+		["Orlanth"] = {
+			["total"] = "0",
 		},
-		["Kalestra"] = {
-			["total"] = 2,
+		["Hellswolf"] = {
+			["total"] = "2",
 		},
-		["Feralz"] = {
-			["total"] = 4,
+		["Bellassiel"] = {
+			["total"] = 3,
 		},
-		["Kinu"] = {
-			["total"] = 0,
+		["Jurion"] = {
+			["total"] = "1",
 		},
-		["Morniel"] = {
-			["total"] = 2,
+		["Syrenna"] = {
+			["total"] = "2",
 		},
-		["Battletoad"] = {
-			["total"] = 0,
+		["Palytank"] = {
+			["total"] = "0",
 		},
-		["Valore"] = {
-			["total"] = 5,
+		["Bruujo"] = {
+			["total"] = "15",
 		},
-		["Pokit"] = {
-			["total"] = 4,
+		["Infyrno"] = {
+			["total"] = 11,
 		},
 		["Scornhorn"] = {
-			["total"] = 7,
+			["total"] = 9,
 		},
-		["Rocknrolla"] = {
-			["total"] = 0,
+		["Blyte"] = {
+			["total"] = "86",
 		},
-		["Alihra"] = {
-			["total"] = 2,
+		["Pulgas"] = {
+			["total"] = "7",
 		},
 		["Lunastra"] = {
 			["total"] = 23,
 		},
-		["Darkarts"] = {
-			["total"] = 6,
+		["Cochata"] = {
+			["total"] = 5,
 		},
 		["Rahz"] = {
 			["total"] = 4,
 		},
 		["Blunuk"] = {
-			["total"] = 17,
+			["total"] = 18,
 		},
 		["Eldamando"] = {
-			["total"] = 17,
+			["total"] = 18,
 		},
-		["Locofwar"] = {
-			["total"] = 11,
+		["Dessecrate"] = {
+			["total"] = "9",
 		},
 		["Fishhawk"] = {
 			["total"] = 19,
 		},
-		["Gennosukei"] = {
-			["total"] = "3",
+		["Astoy"] = {
+			["total"] = "0",
 		},
 		["Darkember"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Pallystra"] = {
 			["total"] = "3",
 		},
-		["Soulrez"] = {
-			["total"] = 20,
+		["Rarebird"] = {
+			["total"] = 11,
 		},
-		["Numfar"] = {
-			["total"] = 17,
+		["Enaru"] = {
+			["total"] = "4",
 		},
-		["Valsarius"] = {
-			["total"] = 10,
+		["Aenorn"] = {
+			["total"] = 1,
 		},
 		["Silvanara"] = {
-			["total"] = 3,
+			["total"] = 5,
 		},
 	},
 }
@@ -645,8 +663,8 @@ BidER_DKPResets = {
 BidER_Settings = {
 	["threshold"] = 4,
 	["enchanter"] = "Shyzyhra",
-	["dkp"] = "official",
 	["channel"] = "none",
+	["dkp"] = "official",
 }
 BidER_MinimumBids = {
 	[239] = 20,
@@ -655,419 +673,288 @@ BidER_MinimumBids = {
 	[232] = 15,
 }
 BidER_Raids = {
-	[1248224575] = {
-		["start_time"] = 1248224575,
-		["end_time"] = 1248235111,
+	[1248398351] = {
+		["start_time"] = 1248398351,
 		["events"] = {
-			["Flame Leviathan"] = {
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Infyrno", -- [4]
-							"Alok", -- [5]
-							"Valsarius", -- [6]
-							"Tairy", -- [7]
-							"Gylan", -- [8]
-							"Vrisha", -- [9]
-							"Rahz", -- [10]
-							"Wiltavian", -- [11]
-							"Silvanara", -- [12]
-							"Cleophus", -- [13]
-							"Mzammer", -- [14]
-							"Midknyte", -- [15]
-							"Keeneyes", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Valore", -- [22]
-							"Quilderaumo", -- [23]
-						},
-						["time"] = 1248224723,
-						["killed"] = true,
-					}, -- [1]
-				},
+			["Freya"] = {
 				["loots"] = {
-					{
-						["who"] = "Valore",
-						["item"] = "|cffa335ee|Hitem:45118:0:0:0:0:0:0:907036648:80|h[Steamworker's Goggles]|h|r",
-						["amount"] = 10,
-					}, -- [1]
-					{
-						["who"] = "Morvien",
-						["item"] = "|cffa335ee|Hitem:45110:0:0:0:0:0:0:638601192:80|h[Titanguard]|h|r",
-						["amount"] = 2,
-					}, -- [2]
-					{
-						["who"] = "Rahz",
-						["item"] = "|cffa335ee|Hitem:45108:0:0:0:0:0:0:370165736:80|h[Mechanist's Bindings]|h|r",
-						["amount"] = 9,
-					}, -- [3]
 				},
-			},
-			["Kologarn"] = {
 				["attempts"] = {
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Rumbler", -- [4]
-							"Infyrno", -- [5]
-							"Valsarius", -- [6]
-							"Tairy", -- [7]
-							"Gylan", -- [8]
-							"Vrisha", -- [9]
-							"Rahz", -- [10]
-							"Wiltavian", -- [11]
-							"Silvanara", -- [12]
-							"Cleophus", -- [13]
-							"Mzammer", -- [14]
-							"Midknyte", -- [15]
-							"Keeneyes", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Valore", -- [22]
-							"Alok", -- [23]
-							"Quilderaumo", -- [24]
+							"Keeneyes", -- [2]
+							"Gylan", -- [3]
+							"Shyzyhra", -- [4]
+							"Silvanara", -- [5]
+							"Riverblade", -- [6]
+							"Valsarius", -- [7]
+							"Wiltavian", -- [8]
+							"Valore", -- [9]
+							"Midknyte", -- [10]
+							"Nantucket", -- [11]
+							"Selidar", -- [12]
+							"Ariaxx", -- [13]
+							"Jukaszor", -- [14]
+							"Morvien", -- [15]
+							"Vrisha", -- [16]
+							"Pokit", -- [17]
+							"Rumbler", -- [18]
+							"Dook", -- [19]
+							"Embrr", -- [20]
+							"Elaini", -- [21]
+							"Soulrez", -- [22]
+							"Locofwar", -- [23]
+							"Scornhorn", -- [24]
+							"Quilderaumo", -- [25]
 						},
-						["time"] = 1248227618,
+						["time"] = 1248402153,
 						["killed"] = false,
 					}, -- [1]
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Rumbler", -- [4]
-							"Infyrno", -- [5]
-							"Valsarius", -- [6]
-							"Tairy", -- [7]
-							"Gylan", -- [8]
-							"Vrisha", -- [9]
-							"Rahz", -- [10]
-							"Wiltavian", -- [11]
-							"Silvanara", -- [12]
-							"Cleophus", -- [13]
-							"Mzammer", -- [14]
-							"Midknyte", -- [15]
-							"Keeneyes", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Valore", -- [22]
-							"Alok", -- [23]
-							"Quilderaumo", -- [24]
+							"Keeneyes", -- [2]
+							"Gylan", -- [3]
+							"Shyzyhra", -- [4]
+							"Silvanara", -- [5]
+							"Riverblade", -- [6]
+							"Valsarius", -- [7]
+							"Wiltavian", -- [8]
+							"Valore", -- [9]
+							"Midknyte", -- [10]
+							"Nantucket", -- [11]
+							"Selidar", -- [12]
+							"Ariaxx", -- [13]
+							"Jukaszor", -- [14]
+							"Morvien", -- [15]
+							"Vrisha", -- [16]
+							"Pokit", -- [17]
+							"Rumbler", -- [18]
+							"Dook", -- [19]
+							"Embrr", -- [20]
+							"Elaini", -- [21]
+							"Soulrez", -- [22]
+							"Locofwar", -- [23]
+							"Scornhorn", -- [24]
+							"Quilderaumo", -- [25]
 						},
-						["time"] = 1248228343,
+						["time"] = 1248402827,
 						["killed"] = false,
 					}, -- [2]
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Rumbler", -- [4]
-							"Infyrno", -- [5]
-							"Valsarius", -- [6]
-							"Tairy", -- [7]
-							"Gylan", -- [8]
-							"Vrisha", -- [9]
-							"Rahz", -- [10]
-							"Wiltavian", -- [11]
-							"Silvanara", -- [12]
-							"Cleophus", -- [13]
-							"Mzammer", -- [14]
-							"Midknyte", -- [15]
-							"Keeneyes", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Valore", -- [22]
-							"Alok", -- [23]
-							"Quilderaumo", -- [24]
+							"Keeneyes", -- [2]
+							"Gylan", -- [3]
+							"Shyzyhra", -- [4]
+							"Silvanara", -- [5]
+							"Riverblade", -- [6]
+							"Valsarius", -- [7]
+							"Wiltavian", -- [8]
+							"Valore", -- [9]
+							"Midknyte", -- [10]
+							"Nantucket", -- [11]
+							"Selidar", -- [12]
+							"Ariaxx", -- [13]
+							"Jukaszor", -- [14]
+							"Morvien", -- [15]
+							"Vrisha", -- [16]
+							"Pokit", -- [17]
+							"Rumbler", -- [18]
+							"Dook", -- [19]
+							"Embrr", -- [20]
+							"Elaini", -- [21]
+							"Soulrez", -- [22]
+							"Locofwar", -- [23]
+							"Scornhorn", -- [24]
+							"Quilderaumo", -- [25]
 						},
-						["time"] = 1248228905,
-						["killed"] = true,
-					}, -- [3]
-				},
-				["loots"] = {
-					{
-						["who"] = "Morvien",
-						["item"] = "|cffa335ee|Hitem:45267:0:0:0:0:0:0:2102611072:80|h[Saronite Plated Legguards]|h|r",
-						["amount"] = 2,
-					}, -- [1]
-					{
-						["who"] = "Shyzyhra",
-						["item"] = "|cffa335ee|Hitem:45275:0:0:0:0:0:0:-1923920768:80|h[Bracers of Unleashed Magic]|h|r",
-						["amount"] = 10,
-					}, -- [2]
-					{
-						["who"] = "Riverblade",
-						["item"] = "|cffa335ee|Hitem:45261:0:0:0:0:0:0:1834175616:80|h[Giant's Bane]|h|r",
-						["amount"] = 15,
-					}, -- [3]
-				},
-			},
-			["XT-002 Deconstructor"] = {
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Infyrno", -- [4]
-							"Valsarius", -- [5]
-							"Tairy", -- [6]
-							"Gylan", -- [7]
-							"Vrisha", -- [8]
-							"Rahz", -- [9]
-							"Wiltavian", -- [10]
-							"Silvanara", -- [11]
-							"Cleophus", -- [12]
-							"Mzammer", -- [13]
-							"Midknyte", -- [14]
-							"Keeneyes", -- [15]
-							"Riçkkëz", -- [16]
-							"Shyzyhra", -- [17]
-							"Elaini", -- [18]
-							"Selidar", -- [19]
-							"Soulrez", -- [20]
-							"Valore", -- [21]
-							"Alok", -- [22]
-							"Quilderaumo", -- [23]
-						},
-						["time"] = 1248226120,
-						["killed"] = true,
-					}, -- [1]
-				},
-				["loots"] = {
-					{
-						["who"] = "Silvanara",
-						["item"] = "|cffa335ee|Hitem:45253:0:0:0:0:0:0:1341987904:80|h[Mantle of Wavering Calm]|h|r",
-						["amount"] = 7,
-					}, -- [1]
-					{
-						["who"] = "Mzammer",
-						["item"] = "|cffa335ee|Hitem:45258:0:0:0:0:0:0:1610423360:80|h[Sandals of Rash Temperament]|h|r",
-						["amount"] = 2,
-					}, -- [2]
-					{
-						["who"] = "Alok",
-						["item"] = "|cffa335ee|Hitem:45249:0:0:0:0:0:0:1073552448:80|h[Brass-lined Boots]|h|r",
-						["amount"] = 15,
-					}, -- [3]
-				},
-			},
-			["Auriaya"] = {
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Rumbler", -- [4]
-							"Infyrno", -- [5]
-							"Valsarius", -- [6]
-							"Tairy", -- [7]
-							"Gylan", -- [8]
-							"Vrisha", -- [9]
-							"Scornhorn", -- [10]
-							"Rahz", -- [11]
-							"Wiltavian", -- [12]
-							"Silvanara", -- [13]
-							"Cleophus", -- [14]
-							"Midknyte", -- [15]
-							"Keeneyes", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Valore", -- [22]
-							"Alok", -- [23]
-							"Quilderaumo", -- [24]
-						},
-						["time"] = 1248230010,
+						["time"] = 1248403456,
 						["killed"] = false,
-					}, -- [1]
+					}, -- [3]
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Rumbler", -- [4]
-							"Infyrno", -- [5]
-							"Valsarius", -- [6]
-							"Tairy", -- [7]
-							"Gylan", -- [8]
-							"Vrisha", -- [9]
-							"Scornhorn", -- [10]
-							"Rahz", -- [11]
-							"Wiltavian", -- [12]
-							"Silvanara", -- [13]
-							"Cleophus", -- [14]
-							"Midknyte", -- [15]
-							"Keeneyes", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Valore", -- [22]
-							"Alok", -- [23]
-							"Quilderaumo", -- [24]
+							"Keeneyes", -- [2]
+							"Gylan", -- [3]
+							"Shyzyhra", -- [4]
+							"Silvanara", -- [5]
+							"Riverblade", -- [6]
+							"Valsarius", -- [7]
+							"Wiltavian", -- [8]
+							"Valore", -- [9]
+							"Midknyte", -- [10]
+							"Nantucket", -- [11]
+							"Selidar", -- [12]
+							"Ariaxx", -- [13]
+							"Jukaszor", -- [14]
+							"Morvien", -- [15]
+							"Vrisha", -- [16]
+							"Pokit", -- [17]
+							"Rumbler", -- [18]
+							"Dook", -- [19]
+							"Embrr", -- [20]
+							"Elaini", -- [21]
+							"Soulrez", -- [22]
+							"Locofwar", -- [23]
+							"Scornhorn", -- [24]
+							"Quilderaumo", -- [25]
 						},
-						["time"] = 1248230906,
+						["time"] = 1248403971,
 						["killed"] = false,
-					}, -- [2]
+					}, -- [4]
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Rumbler", -- [4]
-							"Infyrno", -- [5]
-							"Valsarius", -- [6]
-							"Tairy", -- [7]
-							"Gylan", -- [8]
-							"Vrisha", -- [9]
-							"Scornhorn", -- [10]
-							"Rahz", -- [11]
-							"Wiltavian", -- [12]
-							"Silvanara", -- [13]
-							"Cleophus", -- [14]
-							"Midknyte", -- [15]
-							"Keeneyes", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Valore", -- [22]
-							"Alok", -- [23]
-							"Quilderaumo", -- [24]
+							"Keeneyes", -- [2]
+							"Gylan", -- [3]
+							"Shyzyhra", -- [4]
+							"Silvanara", -- [5]
+							"Riverblade", -- [6]
+							"Valsarius", -- [7]
+							"Wiltavian", -- [8]
+							"Valore", -- [9]
+							"Midknyte", -- [10]
+							"Nantucket", -- [11]
+							"Selidar", -- [12]
+							"Ariaxx", -- [13]
+							"Jukaszor", -- [14]
+							"Morvien", -- [15]
+							"Vrisha", -- [16]
+							"Pokit", -- [17]
+							"Rumbler", -- [18]
+							"Dook", -- [19]
+							"Embrr", -- [20]
+							"Elaini", -- [21]
+							"Soulrez", -- [22]
+							"Locofwar", -- [23]
+							"Scornhorn", -- [24]
+							"Quilderaumo", -- [25]
 						},
-						["time"] = 1248231682,
-						["killed"] = true,
-					}, -- [3]
-				},
-				["loots"] = {
-					{
-						["item"] = "|cffa335ee|Hitem:45440:0:0:0:0:0:0:1579785984:80|h[Amice of the Stoic Watch]|h|r",
-					}, -- [1]
-					{
-						["who"] = "Midknyte",
-						["item"] = "|cffa335ee|Hitem:45319:0:0:0:0:0:0:1042915072:80|h[Cloak of the Makers]|h|r",
-						["amount"] = 10,
-					}, -- [2]
-					{
-						["item"] = "|cffa335ee|Hitem:45435:0:0:0:0:0:0:1311350528:80|h[Cowl of the Absolute]|h|r",
-					}, -- [3]
+						["time"] = 1248404689,
+						["killed"] = false,
+					}, -- [5]
 				},
 			},
 			["Hodir"] = {
+				["loots"] = {
+				},
 				["attempts"] = {
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Rumbler", -- [4]
-							"Valsarius", -- [5]
-							"Tairy", -- [6]
-							"Gylan", -- [7]
-							"Keeneyes", -- [8]
-							"Vrisha", -- [9]
-							"Scornhorn", -- [10]
-							"Rahz", -- [11]
-							"Wiltavian", -- [12]
-							"Silvanara", -- [13]
-							"Cleophus", -- [14]
-							"Midknyte", -- [15]
-							"Valore", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Alok", -- [22]
-							"Quilderaumo", -- [23]
+							"Keeneyes", -- [2]
+							"Gylan", -- [3]
+							"Shyzyhra", -- [4]
+							"Silvanara", -- [5]
+							"Riverblade", -- [6]
+							"Valsarius", -- [7]
+							"Wiltavian", -- [8]
+							"Valore", -- [9]
+							"Midknyte", -- [10]
+							"Nantucket", -- [11]
+							"Selidar", -- [12]
+							"Ariaxx", -- [13]
+							"Jukaszor", -- [14]
+							"Morvien", -- [15]
+							"Vrisha", -- [16]
+							"Pokit", -- [17]
+							"Rumbler", -- [18]
+							"Dook", -- [19]
+							"Embrr", -- [20]
+							"Elaini", -- [21]
+							"Soulrez", -- [22]
+							"Locofwar", -- [23]
+							"Scornhorn", -- [24]
+							"Quilderaumo", -- [25]
 						},
-						["time"] = 1248233254,
+						["time"] = 1248406294,
 						["killed"] = false,
 					}, -- [1]
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Rumbler", -- [4]
-							"Valsarius", -- [5]
-							"Tairy", -- [6]
-							"Gylan", -- [7]
-							"Keeneyes", -- [8]
-							"Vrisha", -- [9]
-							"Scornhorn", -- [10]
-							"Rahz", -- [11]
-							"Wiltavian", -- [12]
-							"Silvanara", -- [13]
-							"Cleophus", -- [14]
-							"Midknyte", -- [15]
-							"Valore", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Alok", -- [22]
-							"Quilderaumo", -- [23]
+							"Keeneyes", -- [2]
+							"Gylan", -- [3]
+							"Shyzyhra", -- [4]
+							"Silvanara", -- [5]
+							"Riverblade", -- [6]
+							"Valsarius", -- [7]
+							"Wiltavian", -- [8]
+							"Valore", -- [9]
+							"Midknyte", -- [10]
+							"Nantucket", -- [11]
+							"Selidar", -- [12]
+							"Locofwar", -- [13]
+							"Jukaszor", -- [14]
+							"Morvien", -- [15]
+							"Vrisha", -- [16]
+							"Pokit", -- [17]
+							"Rumbler", -- [18]
+							"Dook", -- [19]
+							"Embrr", -- [20]
+							"Elaini", -- [21]
+							"Soulrez", -- [22]
+							"Scornhorn", -- [23]
+							"Quilderaumo", -- [24]
 						},
-						["time"] = 1248234022,
+						["time"] = 1248406966,
 						["killed"] = false,
 					}, -- [2]
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Riverblade", -- [2]
-							"Morvien", -- [3]
-							"Rumbler", -- [4]
-							"Valsarius", -- [5]
-							"Tairy", -- [6]
-							"Gylan", -- [7]
-							"Keeneyes", -- [8]
-							"Vrisha", -- [9]
+							"Keeneyes", -- [2]
+							"Gylan", -- [3]
+							"Shyzyhra", -- [4]
+							"Silvanara", -- [5]
+							"Riverblade", -- [6]
+							"Valsarius", -- [7]
+							"Wiltavian", -- [8]
+							"Valore", -- [9]
 							"Scornhorn", -- [10]
-							"Rahz", -- [11]
-							"Wiltavian", -- [12]
-							"Silvanara", -- [13]
-							"Cleophus", -- [14]
-							"Midknyte", -- [15]
-							"Valore", -- [16]
-							"Riçkkëz", -- [17]
-							"Shyzyhra", -- [18]
-							"Elaini", -- [19]
-							"Selidar", -- [20]
-							"Soulrez", -- [21]
-							"Alok", -- [22]
-							"Quilderaumo", -- [23]
+							"Selidar", -- [11]
+							"Locofwar", -- [12]
+							"Jukaszor", -- [13]
+							"Morvien", -- [14]
+							"Vrisha", -- [15]
+							"Pokit", -- [16]
+							"Rumbler", -- [17]
+							"Dook", -- [18]
+							"Embrr", -- [19]
+							"Elaini", -- [20]
+							"Midknyte", -- [21]
+							"Quilderaumo", -- [22]
 						},
-						["time"] = 1248234571,
+						["time"] = 1248407636,
 						["killed"] = false,
 					}, -- [3]
-				},
-				["loots"] = {
+					{
+						["attendance"] = {
+							"Bukthan", -- [1]
+							"Keeneyes", -- [2]
+							"Gylan", -- [3]
+							"Silvanara", -- [4]
+							"Riverblade", -- [5]
+							"Valsarius", -- [6]
+							"Wiltavian", -- [7]
+							"Valore", -- [8]
+							"Scornhorn", -- [9]
+							"Morvien", -- [10]
+							"Locofwar", -- [11]
+							"Jukaszor", -- [12]
+							"Vrisha", -- [13]
+							"Rumbler", -- [14]
+							"Dook", -- [15]
+							"Embrr", -- [16]
+							"Elaini", -- [17]
+							"Midknyte", -- [18]
+							"Quilderaumo", -- [19]
+						},
+						["time"] = 1248407895,
+						["killed"] = false,
+					}, -- [4]
 				},
 			},
 		},
@@ -1075,200 +962,78 @@ BidER_Raids = {
 	},
 }
 GuildRaidSnapShot_SnapShots = {
-	["Auriaya 2009-07-21 23:01:22"] = {
+	["Freya 2009-07-23 22:44:16"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Bukthan:Ulduar, Cleophus:Ulduar, Elaini:Ulduar, Gnasha:Sholazar Basin, Gylan:Ulduar, Infyrno:Ulduar, Keeneyes:Ulduar, Knyte:The Storm Peaks, Midknyte:Ulduar, Morvien:Ulduar, Quilderaumo:Ulduar, Rahz:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar, Tairy:Ulduar, Valore:Ulduar, Valsarius:Ulduar",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:Ulduar, Morvien:Ulduar, Rumbler:Ulduar, Infyrno:Ulduar, Valsarius:Ulduar, Tairy:Ulduar, Gylan:Ulduar, Vrisha:Ulduar, Scornhorn:Ulduar, Rahz:Ulduar, Wiltavian:Ulduar, Silvanara:Ulduar, Cleophus:Ulduar, Midknyte:Ulduar, Keeneyes:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Elaini:Ulduar, Selidar:Ulduar, Soulrez:Ulduar, Valore:Ulduar, Alok:Ulduar, Quilderaumo:Ulduar",
+		["Guild"] = "Ariaxx:Ulduar, Bukthan:Ulduar, Dook:Ulduar, Elaini:Ulduar, Embrr:The Storm Peaks, Gnasha:The Storm Peaks, Gylan:Ulduar, Jukaszor:Ulduar, Keeneyes:Ulduar, Knytephal:Icecrown, Locofwar:Ulduar, Loveday:Sholazar Basin, Midknyte:Ulduar, Morvien:Ulduar, Nantucket:Ulduar, Pokit:Ulduar, Quilderaumo:The Storm Peaks, Riverblade:Ulduar, Rocknrolla:The Barrens, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:The Storm Peaks, Shyzyhra:The Storm Peaks, Silvanara:Ulduar, Soulrez:Ulduar",
 		["RealmName"] = "Draka",
-		["points"] = 1,
-		["system"] = "ER DKP",
-	},
-	["Auriaya 2009-07-21 22:33:30"] = {
-		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Bukthan:The Storm Peaks, Cleophus:Ulduar, Elaini:Ulduar, Gnasha:Sholazar Basin, Gylan:Ulduar, Infyrno:Ulduar, Inque:Orgrimmar, Keeneyes:Ulduar, Knyte:The Storm Peaks, Midknyte:Ulduar, Morvien:Ulduar, Quilderaumo:Ulduar, Rahz:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar, Tairy:Ulduar, Valore:Ulduar",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:Ulduar, Morvien:Ulduar, Rumbler:Ulduar, Infyrno:Ulduar, Valsarius:Ulduar, Tairy:Ulduar, Gylan:Ulduar, Vrisha:Ulduar, Scornhorn:Ulduar, Rahz:Ulduar, Wiltavian:Ulduar, Silvanara:Ulduar, Cleophus:Ulduar, Midknyte:Ulduar, Keeneyes:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Elaini:Ulduar, Selidar:Ulduar, Soulrez:Ulduar, Valore:Ulduar, Alok:Ulduar, Quilderaumo:The Storm Peaks",
-		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:The Conservatory of Life, Keeneyes:The Conservatory of Life, Gylan:The Conservatory of Life, Shyzyhra:The Storm Peaks, Silvanara:The Conservatory of Life, Riverblade:The Conservatory of Life, Valsarius:The Conservatory of Life, Wiltavian:The Conservatory of Life, Valore:The Conservatory of Life, Midknyte:The Conservatory of Life, Nantucket:The Conservatory of Life, Selidar:Ulduar, Ariaxx:The Conservatory of Life, Jukaszor:The Conservatory of Life, Morvien:The Conservatory of Life, Vrisha:The Conservatory of Life, Pokit:The Conservatory of Life, Rumbler:The Conservatory of Life, Dook:The Conservatory of Life, Embrr:The Storm Peaks, Elaini:The Conservatory of Life, Soulrez:The Conservatory of Life, Locofwar:The Conservatory of Life, Scornhorn:The Conservatory of Life, Quilderaumo:The Storm Peaks",
 		["points"] = 0,
 		["system"] = "ER DKP",
 	},
-	["Kologarn 2009-07-21 22:15:05"] = {
+	["Freya 2009-07-23 23:04:49"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Bukthan:Ulduar, Cleophus:Ulduar, Elaini:Ulduar, Gylan:Ulduar, Infyrno:Ulduar, Inque:Sholazar Basin, Keeneyes:Ulduar, Knyte:The Storm Peaks, Midknyte:Ulduar, Morvien:Ulduar, Mzammer:Ulduar, Quilderaumo:Ulduar, Rahz:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Rumbler:Ulduar, Scornhorn:Icecrown, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar, Tairy:Ulduar, Valore:Ulduar",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:Ulduar, Morvien:Ulduar, Rumbler:Ulduar, Infyrno:Ulduar, Valsarius:Ulduar, Tairy:Ulduar, Gylan:Ulduar, Vrisha:Ulduar, Rahz:Ulduar, Wiltavian:Ulduar, Silvanara:Ulduar, Cleophus:Ulduar, Mzammer:Ulduar, Midknyte:Ulduar, Keeneyes:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Elaini:Ulduar, Selidar:Ulduar, Soulrez:Ulduar, Valore:Ulduar, Alok:Ulduar, Quilderaumo:Ulduar",
+		["Guild"] = "Ariaxx:Ulduar, Bukthan:Ulduar, Dook:Ulduar, Elaini:Ulduar, Embrr:Ulduar, Gnasha:The Storm Peaks, Gylan:Ulduar, Jukaszor:Ulduar, Keeneyes:Ulduar, Knytephal:Icecrown, Locofwar:Ulduar, Loveday:Sholazar Basin, Midknyte:Ulduar, Morvien:Ulduar, Nantucket:Ulduar, Pokit:The Storm Peaks, Quilderaumo:Ulduar, Riverblade:Ulduar, Rocknrolla:The Barrens, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar",
 		["RealmName"] = "Draka",
-		["points"] = 1,
-		["system"] = "ER DKP",
-	},
-	["Auriaya 2009-07-21 22:48:26"] = {
-		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Bukthan:The Storm Peaks, Cleophus:The Storm Peaks, Elaini:Ulduar, Gnasha:Sholazar Basin, Gylan:Ulduar, Infyrno:Ulduar, Keeneyes:Ulduar, Knyte:The Storm Peaks, Midknyte:Ulduar, Morvien:Ulduar, Quilderaumo:Ulduar, Rahz:The Storm Peaks, Riverblade:The Storm Peaks, Riçkkëz:Ulduar, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar, Tairy:Ulduar, Valore:Ulduar, Valsarius:Ulduar",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:The Storm Peaks, Morvien:Ulduar, Rumbler:Ulduar, Infyrno:The Storm Peaks, Valsarius:Ulduar, Tairy:Ulduar, Gylan:Ulduar, Vrisha:Ulduar, Scornhorn:Ulduar, Rahz:Ulduar, Wiltavian:Ulduar, Silvanara:The Storm Peaks, Cleophus:The Storm Peaks, Midknyte:Ulduar, Keeneyes:The Storm Peaks, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Elaini:The Storm Peaks, Selidar:The Storm Peaks, Soulrez:The Storm Peaks, Valore:The Storm Peaks, Alok:Ulduar, Quilderaumo:The Storm Peaks",
-		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:The Conservatory of Life, Keeneyes:The Conservatory of Life, Gylan:The Conservatory of Life, Shyzyhra:The Conservatory of Life, Silvanara:The Conservatory of Life, Riverblade:The Conservatory of Life, Valsarius:The Conservatory of Life, Wiltavian:The Conservatory of Life, Valore:The Conservatory of Life, Midknyte:The Conservatory of Life, Nantucket:The Conservatory of Life, Selidar:The Conservatory of Life, Ariaxx:The Conservatory of Life, Jukaszor:The Conservatory of Life, Morvien:The Conservatory of Life, Vrisha:The Conservatory of Life, Pokit:The Storm Peaks, Rumbler:The Conservatory of Life, Dook:The Conservatory of Life, Embrr:The Conservatory of Life, Elaini:The Conservatory of Life, Soulrez:The Conservatory of Life, Locofwar:The Conservatory of Life, Scornhorn:The Conservatory of Life, Quilderaumo:The Storm Peaks",
 		["points"] = 0,
 		["system"] = "ER DKP",
 	},
-	["Kologarn 2009-07-21 21:53:38"] = {
+	["Hodir 2009-07-23 23:58:15"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Bukthan:The Storm Peaks, Cleophus:Ulduar, Elaini:Ulduar, Gylan:The Storm Peaks, Infyrno:Ulduar, Inque:Dalaran, Keeneyes:Ulduar, Knyte:Dalaran, Midknyte:Ulduar, Morvien:Ulduar, Mzammer:Ulduar, Quilderaumo:The Storm Peaks, Rahz:The Storm Peaks, Riverblade:Ulduar, Riçkkëz:The Storm Peaks, Rumbler:Ulduar, Scornhorn:Dalaran, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar, Tairy:Ulduar, Traak:Tirisfal Glades",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:The Storm Peaks, Morvien:Ulduar, Rumbler:Ulduar, Infyrno:Ulduar, Valsarius:The Storm Peaks, Tairy:Ulduar, Gylan:The Storm Peaks, Vrisha:Ulduar, Rahz:The Storm Peaks, Wiltavian:Ulduar, Silvanara:Ulduar, Cleophus:Ulduar, Mzammer:Ulduar, Midknyte:Ulduar, Keeneyes:Ulduar, Riçkkëz:The Storm Peaks, Shyzyhra:Ulduar, Elaini:Ulduar, Selidar:The Storm Peaks, Soulrez:Ulduar, Valore:Ulduar, Alok:Ulduar, Quilderaumo:The Storm Peaks",
+		["Guild"] = "Bukthan:Ulduar, Dook:Ulduar, Elaini:Ulduar, Embrr:Ulduar, Gylan:Ulduar, Jukaszor:Ulduar, Keeneyes:Dalaran, Knytephal:Icecrown, Locofwar:Ulduar, Loveday:Sholazar Basin, Midknyte:Ulduar, Morvien:Ulduar, Quilderaumo:Dalaran, Riverblade:Ulduar, Rocknrolla:Razorfen Kraul, Rumbler:Dalaran, Scornhorn:Ulduar, Shyzyhra:Dalaran, Silvanara:Dalaran",
 		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:Ulduar, Keeneyes:Dalaran, Gylan:Ulduar, Silvanara:Dalaran, Riverblade:Dalaran, Valsarius:Ulduar, Wiltavian:Ulduar, Valore:Ulduar, Scornhorn:Ulduar, Morvien:Ulduar, Locofwar:Ulduar, Jukaszor:Ulduar, Vrisha:Dalaran, Rumbler:Dalaran, Dook:Ulduar, Embrr:Ulduar, Elaini:Ulduar, Midknyte:Ulduar, Quilderaumo:Dalaran",
 		["points"] = 0,
 		["system"] = "ER DKP",
 	},
-	["XT-002 Deconstructor 2009-07-21 21:28:40"] = {
+	["Freya 2009-07-23 22:22:33"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Bukthan:Ulduar, Cleophus:Ulduar, Elaini:Ulduar, Gylan:Ulduar, Infyrno:Ulduar, Inque:The Storm Peaks, Irshul:Drak'Tharon Keep, Keeneyes:Ulduar, Knyte:Borean Tundra, Midknyte:Ulduar, Morvien:Ulduar, Mzammer:Ulduar, Quilderaumo:Ulduar, Rahz:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar, Tairy:Ulduar, Traak:Hillsbrad Foothills",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:Ulduar, Morvien:Ulduar, Infyrno:Ulduar, Valsarius:Ulduar, Tairy:Ulduar, Gylan:Ulduar, Vrisha:Ulduar, Rahz:Ulduar, Wiltavian:Ulduar, Silvanara:Ulduar, Cleophus:Ulduar, Mzammer:Ulduar, Midknyte:Ulduar, Keeneyes:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Elaini:Ulduar, Selidar:Ulduar, Soulrez:Ulduar, Valore:Ulduar, Alok:Ulduar, Quilderaumo:Ulduar",
+		["Guild"] = "Ariaxx:Ulduar, Bukthan:Ulduar, Dook:Ulduar, Elaini:Ulduar, Embrr:Ulduar, Gnasha:The Storm Peaks, Gylan:Ulduar, Jukaszor:Ulduar, Keeneyes:Ulduar, Knytephal:Icecrown, Locofwar:Ulduar, Loveday:Sholazar Basin, Midknyte:Ulduar, Morvien:Ulduar, Nantucket:Ulduar, Pokit:Ulduar, Quilderaumo:Ulduar, Riverblade:Ulduar, Rocknrolla:Silverpine Forest, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar",
 		["RealmName"] = "Draka",
-		["points"] = 1,
-		["system"] = "ER DKP",
-	},
-	["Hodir 2009-07-21 23:49:31"] = {
-		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Brashnee:Howling Fjord, Bukthan:The Storm Peaks, Cleophus:The Storm Peaks, Elaini:Ulduar, Gylan:Ulduar, Keeneyes:Ulduar, Knyte:The Storm Peaks, Midknyte:The Storm Peaks, Morvien:The Storm Peaks, Quilderaumo:The Storm Peaks, Rahz:Ulduar, Riverblade:The Storm Peaks, Riçkkëz:The Storm Peaks, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:The Storm Peaks, Shyzyhra:The Storm Peaks, Silvanara:Ulduar, Soulrez:The Storm Peaks, Tairy:Ulduar, Valore:Ulduar, Valsarius:The Storm Peaks",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:The Storm Peaks, Morvien:The Storm Peaks, Rumbler:Ulduar, Valsarius:Ulduar, Tairy:Ulduar, Gylan:Ulduar, Keeneyes:Ulduar, Vrisha:Ulduar, Scornhorn:Ulduar, Rahz:Ulduar, Wiltavian:Ulduar, Silvanara:Ulduar, Cleophus:Ulduar, Midknyte:Ulduar, Valore:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Elaini:Ulduar, Selidar:Ulduar, Soulrez:Ulduar, Alok:Ulduar, Quilderaumo:The Storm Peaks",
-		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:The Conservatory of Life, Keeneyes:The Conservatory of Life, Gylan:The Conservatory of Life, Shyzyhra:The Conservatory of Life, Silvanara:The Conservatory of Life, Riverblade:The Conservatory of Life, Valsarius:The Conservatory of Life, Wiltavian:The Conservatory of Life, Valore:Ulduar, Midknyte:The Conservatory of Life, Nantucket:The Conservatory of Life, Selidar:The Conservatory of Life, Ariaxx:The Conservatory of Life, Jukaszor:The Conservatory of Life, Morvien:The Storm Peaks, Vrisha:The Conservatory of Life, Pokit:The Conservatory of Life, Rumbler:The Conservatory of Life, Dook:The Conservatory of Life, Embrr:The Conservatory of Life, Elaini:The Conservatory of Life, Soulrez:The Conservatory of Life, Locofwar:The Conservatory of Life, Scornhorn:The Conservatory of Life, Quilderaumo:The Storm Peaks",
 		["points"] = 0,
 		["system"] = "ER DKP",
 	},
-	["Hodir 2009-07-21 23:27:34"] = {
+	["Hodir 2009-07-23 23:31:34"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Brashnee:Grizzly Hills, Bukthan:The Storm Peaks, Cleophus:Ulduar, Elaini:Ulduar, Gylan:Ulduar, Keeneyes:Ulduar, Knyte:The Storm Peaks, Midknyte:The Storm Peaks, Morvien:Ulduar, Quilderaumo:The Storm Peaks, Rahz:The Storm Peaks, Riverblade:The Storm Peaks, Riçkkëz:The Storm Peaks, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:The Storm Peaks, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar, Tairy:Ulduar, Valore:The Storm Peaks, Valsarius:The Storm Peaks",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:The Storm Peaks, Morvien:Ulduar, Rumbler:Ulduar, Valsarius:Ulduar, Tairy:Ulduar, Gylan:Ulduar, Keeneyes:Ulduar, Vrisha:Ulduar, Scornhorn:Ulduar, Rahz:Ulduar, Wiltavian:Offline, Silvanara:Ulduar, Cleophus:The Storm Peaks, Midknyte:Ulduar, Valore:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Elaini:Ulduar, Selidar:Ulduar, Soulrez:Ulduar, Alok:Ulduar, Quilderaumo:The Storm Peaks",
+		["Guild"] = "Ariaxx:The Storm Peaks, Bukthan:The Storm Peaks, Dook:The Storm Peaks, Elaini:Ulduar, Embrr:The Storm Peaks, Gylan:Ulduar, Jukaszor:The Storm Peaks, Keeneyes:The Storm Peaks, Knytephal:Icecrown, Locofwar:Ulduar, Loveday:Sholazar Basin, Midknyte:The Storm Peaks, Morvien:The Storm Peaks, Nantucket:The Storm Peaks, Pokit:The Storm Peaks, Quilderaumo:The Storm Peaks, Riverblade:The Storm Peaks, Rocknrolla:Thousand Needles, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:The Storm Peaks, Shyzyhra:The Storm Peaks, Silvanara:The Storm Peaks, Soulrez:Ulduar, Tredruid:Sholazar Basin",
 		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:Ulduar, Keeneyes:Ulduar, Gylan:Ulduar, Shyzyhra:Ulduar, Silvanara:The Storm Peaks, Riverblade:Ulduar, Valsarius:Ulduar, Wiltavian:Ulduar, Valore:The Storm Peaks, Midknyte:Ulduar, Nantucket:The Storm Peaks, Selidar:Ulduar, Ariaxx:The Storm Peaks, Jukaszor:Ulduar, Morvien:Ulduar, Vrisha:Ulduar, Pokit:Ulduar, Rumbler:Ulduar, Dook:The Storm Peaks, Embrr:Ulduar, Elaini:Ulduar, Soulrez:Ulduar, Locofwar:Ulduar, Scornhorn:Ulduar, Quilderaumo:The Storm Peaks",
 		["points"] = 0,
 		["system"] = "ER DKP",
 	},
-	["Flame Leviathan 2009-07-21 21:05:23"] = {
+	["Hodir 2009-07-23 23:42:46"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Bukthan:Ulduar, Cleophus:Ulduar, Elaini:Ulduar, Gylan:Ulduar, Infyrno:Ulduar, Inque:Icecrown, Irshul:Drak'Tharon Keep, Keeneyes:Ulduar, Knyte:The Frozen Sea, Midknyte:Ulduar, Morvien:Ulduar, Mzammer:Ulduar, Nantucket:Arathi Basin, Quilderaumo:Ulduar, Rahz:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Soulrez:Ulduar, Tairy:Ulduar",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:Ulduar, Morvien:Ulduar, Infyrno:Ulduar, Alok:Ulduar, Valsarius:Ulduar, Tairy:Ulduar, Gylan:Ulduar, Vrisha:Ulduar, Rahz:Ulduar, Wiltavian:Ulduar, Silvanara:Ulduar, Cleophus:Ulduar, Mzammer:Ulduar, Midknyte:Ulduar, Keeneyes:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Elaini:Ulduar, Selidar:Ulduar, Soulrez:Ulduar, Valore:Ulduar, Quilderaumo:Ulduar",
+		["Guild"] = "Bukthan:The Storm Peaks, Dook:Ulduar, Elaini:The Storm Peaks, Embrr:The Storm Peaks, Gylan:Ulduar, Jukaszor:Ulduar, Keeneyes:Ulduar, Locofwar:Ulduar, Loveday:Sholazar Basin, Midknyte:Ulduar, Morvien:The Storm Peaks, Nantucket:Ulduar, Pokit:The Storm Peaks, Quilderaumo:The Storm Peaks, Riverblade:The Storm Peaks, Rocknrolla:Razorfen Kraul, Rumbler:Ulduar, Scornhorn:The Storm Peaks, Selidar:The Storm Peaks, Shyzyhra:The Storm Peaks, Silvanara:The Storm Peaks, Soulrez:The Storm Peaks, Tredruid:Sholazar Basin, Valore:Ulduar",
 		["RealmName"] = "Draka",
-		["points"] = 1,
-		["system"] = "ER DKP",
-	},
-	["Hodir 2009-07-21 23:40:22"] = {
-		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Brashnee:Howling Fjord, Bukthan:The Storm Peaks, Cleophus:The Storm Peaks, Elaini:The Storm Peaks, Gylan:Ulduar, Keeneyes:Ulduar, Knyte:The Storm Peaks, Midknyte:The Storm Peaks, Morvien:The Storm Peaks, Quilderaumo:The Storm Peaks, Rahz:Ulduar, Riverblade:The Storm Peaks, Riçkkëz:The Storm Peaks, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:Ulduar, Shyzyhra:The Storm Peaks, Silvanara:The Storm Peaks, Soulrez:The Storm Peaks, Tairy:Ulduar, Valore:The Storm Peaks, Valsarius:The Storm Peaks",
-		["Raid"] = "Bukthan:Ulduar, Riverblade:Ulduar, Morvien:The Storm Peaks, Rumbler:Ulduar, Valsarius:Ulduar, Tairy:Ulduar, Gylan:Ulduar, Keeneyes:Ulduar, Vrisha:The Storm Peaks, Scornhorn:Ulduar, Rahz:The Storm Peaks, Wiltavian:Ulduar, Silvanara:The Storm Peaks, Cleophus:Ulduar, Midknyte:Ulduar, Valore:Ulduar, Riçkkëz:The Storm Peaks, Shyzyhra:The Storm Peaks, Elaini:The Storm Peaks, Selidar:The Storm Peaks, Soulrez:Ulduar, Alok:Ulduar, Quilderaumo:The Storm Peaks",
-		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:Ulduar, Keeneyes:The Storm Peaks, Gylan:The Storm Peaks, Shyzyhra:Ulduar, Silvanara:The Storm Peaks, Riverblade:The Storm Peaks, Valsarius:Ulduar, Wiltavian:Ulduar, Valore:Ulduar, Midknyte:Ulduar, Nantucket:Ulduar, Selidar:The Storm Peaks, Locofwar:Ulduar, Jukaszor:Ulduar, Morvien:Ulduar, Vrisha:The Storm Peaks, Pokit:Ulduar, Rumbler:Ulduar, Dook:Ulduar, Embrr:Ulduar, Elaini:The Storm Peaks, Soulrez:Ulduar, Scornhorn:Ulduar, Quilderaumo:The Storm Peaks",
 		["points"] = 0,
 		["system"] = "ER DKP",
 	},
-	["Kologarn 2009-07-21 22:05:43"] = {
+	["Hodir 2009-07-23 23:53:56"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Bukthan:The Storm Peaks, Cleophus:Ulduar, Elaini:The Storm Peaks, Gylan:The Storm Peaks, Infyrno:The Storm Peaks, Inque:Sholazar Basin, Keeneyes:Ulduar, Knyte:The Storm Peaks, Midknyte:The Storm Peaks, Morvien:Ulduar, Mzammer:Ulduar, Quilderaumo:The Storm Peaks, Rahz:The Storm Peaks, Riverblade:The Storm Peaks, Riçkkëz:The Storm Peaks, Rumbler:The Storm Peaks, Scornhorn:Icecrown, Selidar:The Storm Peaks, Shyzyhra:Ulduar, Silvanara:The Storm Peaks, Soulrez:The Storm Peaks, Tairy:Ulduar, Valore:Ulduar",
-		["Raid"] = "Bukthan:The Storm Peaks, Riverblade:The Storm Peaks, Morvien:Ulduar, Rumbler:The Storm Peaks, Infyrno:The Storm Peaks, Valsarius:The Storm Peaks, Tairy:Ulduar, Gylan:The Storm Peaks, Vrisha:The Storm Peaks, Rahz:The Storm Peaks, Wiltavian:Ulduar, Silvanara:The Storm Peaks, Cleophus:Ulduar, Mzammer:Ulduar, Midknyte:The Storm Peaks, Keeneyes:The Storm Peaks, Riçkkëz:The Storm Peaks, Shyzyhra:Ulduar, Elaini:The Storm Peaks, Selidar:The Storm Peaks, Soulrez:The Storm Peaks, Valore:Ulduar, Alok:Ulduar, Quilderaumo:The Storm Peaks",
+		["Guild"] = "Bukthan:The Storm Peaks, Dook:The Storm Peaks, Elaini:Ulduar, Embrr:The Storm Peaks, Gylan:Ulduar, Jukaszor:Ulduar, Keeneyes:The Storm Peaks, Knytephal:Icecrown, Locofwar:The Storm Peaks, Loveday:Sholazar Basin, Midknyte:The Storm Peaks, Morvien:The Storm Peaks, Pokit:The Storm Peaks, Quilderaumo:Ulduar, Riverblade:The Storm Peaks, Rocknrolla:Razorfen Kraul, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:The Storm Peaks, Shyzyhra:The Storm Peaks, Silvanara:Ulduar, Tredruid:Sholazar Basin",
 		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:Expedition Base Camp, Keeneyes:Ulduar, Gylan:Ulduar, Shyzyhra:Expedition Base Camp, Silvanara:Ulduar, Riverblade:Ulduar, Valsarius:Ulduar, Wiltavian:Ulduar, Valore:Ulduar, Scornhorn:Ulduar, Selidar:Ulduar, Locofwar:Ulduar, Jukaszor:Ulduar, Morvien:Ulduar, Vrisha:Ulduar, Pokit:Ulduar, Rumbler:Ulduar, Dook:Ulduar, Embrr:Ulduar, Elaini:Ulduar, Midknyte:Ulduar, Quilderaumo:Ulduar",
+		["points"] = 0,
+		["system"] = "ER DKP",
+	},
+	["Freya 2009-07-23 22:52:51"] = {
+		["WaitList"] = "",
+		["Guild"] = "Ariaxx:The Storm Peaks, Bukthan:The Storm Peaks, Dook:The Storm Peaks, Elaini:The Storm Peaks, Embrr:The Storm Peaks, Gnasha:The Storm Peaks, Gylan:Ulduar, Jukaszor:Ulduar, Keeneyes:Ulduar, Klurk:The Barrens, Knytephal:Icecrown, Locofwar:Ulduar, Loveday:Sholazar Basin, Midknyte:Ulduar, Morvien:The Storm Peaks, Nantucket:Ulduar, Pokit:The Storm Peaks, Quilderaumo:The Storm Peaks, Riverblade:Ulduar, Rocknrolla:The Barrens, Rumbler:Ulduar, Scornhorn:The Storm Peaks, Selidar:The Storm Peaks, Shyzyhra:The Storm Peaks, Silvanara:Ulduar",
+		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:Ulduar, Keeneyes:The Conservatory of Life, Gylan:The Conservatory of Life, Shyzyhra:Ulduar, Silvanara:The Conservatory of Life, Riverblade:Ulduar, Valsarius:Ulduar, Wiltavian:The Storm Peaks, Valore:The Storm Peaks, Midknyte:The Storm Peaks, Nantucket:The Conservatory of Life, Selidar:Ulduar, Ariaxx:Ulduar, Jukaszor:The Conservatory of Life, Morvien:Ulduar, Vrisha:Ulduar, Pokit:Ulduar, Rumbler:The Conservatory of Life, Dook:The Storm Peaks, Embrr:Ulduar, Elaini:The Storm Peaks, Soulrez:Ulduar, Locofwar:The Conservatory of Life, Scornhorn:Ulduar, Quilderaumo:The Storm Peaks",
+		["points"] = 0,
+		["system"] = "ER DKP",
+	},
+	["Freya 2009-07-23 22:33:47"] = {
+		["WaitList"] = "",
+		["Guild"] = "Ariaxx:The Storm Peaks, Bukthan:The Storm Peaks, Dook:The Storm Peaks, Elaini:The Storm Peaks, Embrr:Ulduar, Gnasha:The Storm Peaks, Gylan:The Storm Peaks, Jukaszor:Ulduar, Keeneyes:Ulduar, Knytephal:Icecrown, Locofwar:Ulduar, Loveday:Sholazar Basin, Midknyte:The Storm Peaks, Morvien:The Storm Peaks, Nantucket:Ulduar, Pokit:The Storm Peaks, Quilderaumo:Ulduar, Riverblade:The Storm Peaks, Rocknrolla:Tirisfal Glades, Rumbler:Ulduar, Scornhorn:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Silvanara:The Storm Peaks, Soulrez:Ulduar",
+		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:Ulduar, Keeneyes:Ulduar, Gylan:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Riverblade:Ulduar, Valsarius:Ulduar, Wiltavian:Ulduar, Valore:Ulduar, Midknyte:Ulduar, Nantucket:Ulduar, Selidar:Ulduar, Ariaxx:Ulduar, Jukaszor:Ulduar, Morvien:Ulduar, Vrisha:Ulduar, Pokit:Ulduar, Rumbler:Ulduar, Dook:Ulduar, Embrr:Ulduar, Elaini:Ulduar, Soulrez:Ulduar, Locofwar:Ulduar, Scornhorn:Ulduar, Quilderaumo:Ulduar",
 		["points"] = 0,
 		["system"] = "ER DKP",
 	},
 }
 GuildRaidSnapShot_Loot = {
-	["2009-07-21"] = {
-		{
-			["player"] = "Valore",
-			["item"] = "Steamworker's Goggles",
-			["points"] = 10,
-			["date"] = "2009-07-21 21:14:04",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [1]
-		{
-			["player"] = "Morvien",
-			["item"] = "Titanguard",
-			["points"] = 2,
-			["date"] = "2009-07-21 21:14:04",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [2]
-		{
-			["player"] = "Rahz",
-			["item"] = "Mechanist's Bindings",
-			["points"] = 9,
-			["date"] = "2009-07-21 21:14:04",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [3]
-		{
-			["player"] = "Silvanara",
-			["item"] = "Mantle of Wavering Calm",
-			["points"] = 7,
-			["date"] = "2009-07-21 21:36:41",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [4]
-		{
-			["player"] = "Mzammer",
-			["item"] = "Sandals of Rash Temperament",
-			["points"] = 2,
-			["date"] = "2009-07-21 21:36:41",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [5]
-		{
-			["player"] = "Alok",
-			["item"] = "Brass-lined Boots",
-			["points"] = 15,
-			["date"] = "2009-07-21 21:36:41",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [6]
-		{
-			["player"] = "Morvien",
-			["item"] = "Saronite Plated Legguards",
-			["points"] = 2,
-			["date"] = "2009-07-21 22:25:03",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [7]
-		{
-			["player"] = "Shyzyhra",
-			["item"] = "Bracers of Unleashed Magic",
-			["points"] = 10,
-			["date"] = "2009-07-21 22:25:03",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [8]
-		{
-			["player"] = "Riverblade",
-			["item"] = "Giant's Bane",
-			["points"] = 15,
-			["date"] = "2009-07-21 22:25:03",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [9]
-		{
-			["item"] = "Amice of the Stoic Watch",
-			["date"] = "2009-07-21 23:04:34",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [10]
-		{
-			["player"] = "Midknyte",
-			["item"] = "Cloak of the Makers",
-			["points"] = 10,
-			["date"] = "2009-07-21 23:04:34",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [11]
-		{
-			["item"] = "Cowl of the Absolute",
-			["date"] = "2009-07-21 23:04:34",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [12]
-	},
 }
