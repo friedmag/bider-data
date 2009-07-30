@@ -1449,13 +1449,6 @@ GuildRaidSnapShot_Loot = {
 			["system"] = "ER DKP",
 		}, -- [2]
 		{
-			["item"] = "Titanguard",
-			["date"] = "2009-07-28 21:06:53",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [3]
-		{
 			["player"] = "Knytephal",
 			["item"] = "Rising Sun",
 			["RealmName"] = "Draka",
@@ -1464,13 +1457,6 @@ GuildRaidSnapShot_Loot = {
 			["hardpoints"] = 0,
 			["system"] = "ER DKP",
 		}, -- [4]
-		{
-			["item"] = "Crazed Construct Ring",
-			["date"] = "2009-07-28 21:23:52",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [5]
 		{
 			["player"] = "Elaini",
 			["item"] = "Mantle of Wavering Calm",
@@ -1508,13 +1494,6 @@ GuildRaidSnapShot_Loot = {
 			["system"] = "ER DKP",
 		}, -- [9]
 		{
-			["item"] = "Idol of the Crying Wind",
-			["date"] = "2009-07-28 22:01:39",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [10]
-		{
 			["player"] = "Valsarius",
 			["item"] = "Shoulderplates of the Eternal",
 			["RealmName"] = "Draka",
@@ -1542,20 +1521,6 @@ GuildRaidSnapShot_Loot = {
 			["system"] = "ER DKP",
 		}, -- [13]
 		{
-			["item"] = "Sigil of Deflection",
-			["date"] = "2009-07-28 23:29:44",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [14]
-		{
-			["item"] = "Veranus' Bane",
-			["date"] = "2009-07-28 23:29:44",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [15]
-		{
 			["player"] = "Jukaszor",
 			["item"] = "Guiding Star",
 			["RealmName"] = "Draka",
@@ -1582,12 +1547,5 @@ GuildRaidSnapShot_Loot = {
 			["hardpoints"] = 0,
 			["system"] = "ER DKP",
 		}, -- [18]
-		{
-			["item"] = "Charred Saronite Greaves",
-			["date"] = "2009-07-29 00:05:10",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [19]
 	},
 }
