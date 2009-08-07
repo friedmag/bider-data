@@ -27,6 +27,15 @@ local function GetNames(tab)
   return out
 end
 
+local function contains(tab, what)
+  for i,v in pairs(tab) do
+    if v == what then
+      return true
+    end
+  end
+  return false
+end
+
 local dkp = BidER_DKP[dkpset]
 local names = {}
 for i,v in pairs(dkp) do
@@ -38,7 +47,9 @@ file = io.open(pointfile, 'w+')
 for i,v in ipairs(names) do
   -- Don't print out alt names
   if GRSS_Alts[v:lower()] == nil then
-    file:write(v .. ": " .. dkp[v].total .. "\n")
+    local name = v
+    if not contains(BidER_DKPResets[dkpset], name) then name = "*" .. name end
+    file:write(name .. ": " .. dkp[v].total .. "\n")
   end
 end
 file:close()
