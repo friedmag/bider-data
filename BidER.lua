@@ -2,19 +2,19 @@
 BidER_DKP = {
 	["official"] = {
 		["Plaguess"] = {
-			["total"] = 17,
+			["total"] = 18,
 		},
 		["Krask"] = {
 			["total"] = 3,
 		},
 		["Elaini"] = {
-			["total"] = 8,
+			["total"] = 9,
 		},
 		["Marugar"] = {
 			["total"] = "1",
 		},
 		["Bukthyn"] = {
-			["total"] = 18,
+			["total"] = 19,
 		},
 		["Whiskeydeath"] = {
 			["total"] = "5",
@@ -23,16 +23,16 @@ BidER_DKP = {
 			["total"] = 8,
 		},
 		["Wholistic"] = {
-			["total"] = 10,
+			["total"] = 11,
 		},
 		["Midknyte"] = {
-			["total"] = 9,
+			["total"] = 10,
 		},
 		["Sheemie"] = {
 			["total"] = "4",
 		},
 		["Knytemare"] = {
-			["total"] = 9,
+			["total"] = 10,
 		},
 		["Esjuggernaut"] = {
 			["total"] = "0",
@@ -41,10 +41,10 @@ BidER_DKP = {
 			["total"] = 106,
 		},
 		["Vindicaa"] = {
-			["total"] = 17,
+			["total"] = 18,
 		},
 		["Alok"] = {
-			["total"] = 12,
+			["total"] = 13,
 		},
 		["Ginaden"] = {
 			["total"] = "12",
@@ -56,22 +56,22 @@ BidER_DKP = {
 			["total"] = 9,
 		},
 		["Wiltavian"] = {
-			["total"] = 20,
+			["total"] = 21,
 		},
 		["Knyte"] = {
-			["total"] = 9,
+			["total"] = 10,
 		},
 		["Liquideath"] = {
 			["total"] = 2,
 		},
 		["Vhelx"] = {
-			["total"] = 29,
+			["total"] = 30,
 		},
 		["Bukthan"] = {
-			["total"] = 18,
+			["total"] = 19,
 		},
 		["Rumbler"] = {
-			["total"] = 34,
+			["total"] = 35,
 		},
 		["Bradac"] = {
 			["total"] = 8,
@@ -104,7 +104,7 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Gehzry"] = {
-			["total"] = 29,
+			["total"] = 30,
 		},
 		["Baffic"] = {
 			["total"] = "86",
@@ -119,7 +119,7 @@ BidER_DKP = {
 			["total"] = "6",
 		},
 		["Gylak"] = {
-			["total"] = 35,
+			["total"] = 6,
 		},
 		["Vintarius"] = {
 			["total"] = "11",
@@ -131,16 +131,16 @@ BidER_DKP = {
 			["total"] = 5,
 		},
 		["Quilderaumo"] = {
-			["total"] = 29,
+			["total"] = 30,
 		},
 		["Namefear"] = {
 			["total"] = "10",
 		},
 		["Selidar"] = {
-			["total"] = 67,
+			["total"] = 68,
 		},
 		["Bukthun"] = {
-			["total"] = 18,
+			["total"] = 19,
 		},
 		["Thudd"] = {
 			["total"] = "86",
@@ -167,10 +167,10 @@ BidER_DKP = {
 			["total"] = 9,
 		},
 		["Kriptohr"] = {
-			["total"] = 29,
+			["total"] = 30,
 		},
 		["Tairy"] = {
-			["total"] = 24,
+			["total"] = 25,
 		},
 		["Ztyx"] = {
 			["total"] = "2",
@@ -191,7 +191,7 @@ BidER_DKP = {
 			["total"] = "16",
 		},
 		["Bukthin"] = {
-			["total"] = 18,
+			["total"] = 19,
 		},
 		["Apocyloth"] = {
 			["total"] = "0",
@@ -200,13 +200,13 @@ BidER_DKP = {
 			["total"] = "4",
 		},
 		["Shyzyhra"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Melbindi"] = {
 			["total"] = 5,
 		},
 		["Tarnaa"] = {
-			["total"] = 17,
+			["total"] = 18,
 		},
 		["Keelintaro"] = {
 			["total"] = "13",
@@ -218,10 +218,10 @@ BidER_DKP = {
 			["total"] = "0",
 		},
 		["Withal"] = {
-			["total"] = 7,
+			["total"] = 8,
 		},
 		["Vengent"] = {
-			["total"] = 22,
+			["total"] = 23,
 		},
 		["Undaunted"] = {
 			["total"] = 5,
@@ -245,7 +245,7 @@ BidER_DKP = {
 			["total"] = "1",
 		},
 		["Jukaszor"] = {
-			["total"] = 2,
+			["total"] = 3,
 		},
 		["Reallyaguy"] = {
 			["total"] = 5,
@@ -254,7 +254,7 @@ BidER_DKP = {
 			["total"] = "15",
 		},
 		["Morier"] = {
-			["total"] = 6,
+			["total"] = 7,
 		},
 		["Aenorn"] = {
 			["total"] = 1,
@@ -265,20 +265,20 @@ BidER_DKP = {
 		["Andrewid"] = {
 			["total"] = "1",
 		},
-		["Battletoad"] = {
-			["total"] = 0,
+		["Aanedin"] = {
+			["total"] = "2",
 		},
 		["Brutikus"] = {
 			["total"] = 12,
 		},
-		["Rarebird"] = {
-			["total"] = 21,
+		["Mabd"] = {
+			["total"] = 28,
 		},
 		["Twonynd"] = {
 			["total"] = "2",
 		},
 		["Valsarius"] = {
-			["total"] = 12,
+			["total"] = 13,
 		},
 		["Bildo"] = {
 			["total"] = "0",
@@ -290,7 +290,7 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Vrisha"] = {
-			["total"] = 27,
+			["total"] = 28,
 		},
 		["Banq"] = {
 			["total"] = 0,
@@ -298,29 +298,29 @@ BidER_DKP = {
 		["Jillien"] = {
 			["total"] = "0",
 		},
-		["Astoy"] = {
-			["total"] = "0",
+		["Gennosukei"] = {
+			["total"] = "3",
 		},
 		["Supressor"] = {
 			["total"] = "57",
 		},
 		["Moorgain"] = {
-			["total"] = 27,
+			["total"] = 28,
 		},
 		["Coolleen"] = {
-			["total"] = 10,
+			["total"] = 11,
 		},
 		["Thehutsman"] = {
 			["total"] = "15",
 		},
-		["Cheval"] = {
-			["total"] = 6,
+		["Numfar"] = {
+			["total"] = 30,
 		},
 		["Cleophus"] = {
 			["total"] = 5,
 		},
 		["Soulrez"] = {
-			["total"] = 22,
+			["total"] = 23,
 		},
 		["Gnasha"] = {
 			["total"] = "0",
@@ -331,29 +331,29 @@ BidER_DKP = {
 		["Allev"] = {
 			["total"] = "86",
 		},
-		["Alessan"] = {
-			["total"] = "2",
+		["Locofwar"] = {
+			["total"] = 13,
 		},
 		["Karcuss"] = {
 			["total"] = "86",
 		},
-		["Keeneyes"] = {
-			["total"] = 6,
-		},
 		["Digitalchaos"] = {
 			["total"] = "10",
 		},
-		["Pulgas"] = {
-			["total"] = "7",
+		["Keeneyes"] = {
+			["total"] = 7,
 		},
-		["Blyte"] = {
-			["total"] = "86",
+		["Alihra"] = {
+			["total"] = 7,
+		},
+		["Rocknrolla"] = {
+			["total"] = 0,
 		},
 		["Doriana"] = {
-			["total"] = 8,
+			["total"] = 9,
 		},
-		["Infyrno"] = {
-			["total"] = 11,
+		["Pokit"] = {
+			["total"] = 6,
 		},
 		["Aanelorn"] = {
 			["total"] = "2",
@@ -361,8 +361,8 @@ BidER_DKP = {
 		["Deathsun"] = {
 			["total"] = "15",
 		},
-		["Bruujo"] = {
-			["total"] = "15",
+		["Valore"] = {
+			["total"] = 7,
 		},
 		["Morvien"] = {
 			["total"] = 12,
@@ -370,8 +370,8 @@ BidER_DKP = {
 		["Simii"] = {
 			["total"] = "50",
 		},
-		["Darkarts"] = {
-			["total"] = 5,
+		["Cochata"] = {
+			["total"] = 6,
 		},
 		["Lynliss"] = {
 			["total"] = "0",
@@ -382,14 +382,14 @@ BidER_DKP = {
 		["Mikaylyn"] = {
 			["total"] = "3",
 		},
-		["Syrenna"] = {
-			["total"] = "2",
+		["Morniel"] = {
+			["total"] = 7,
 		},
 		["Zytha"] = {
 			["total"] = "0",
 		},
-		["Palytank"] = {
-			["total"] = "0",
+		["Shughar"] = {
+			["total"] = "2",
 		},
 		["Thakigg"] = {
 			["total"] = 29,
@@ -397,35 +397,35 @@ BidER_DKP = {
 		["Highplains"] = {
 			["total"] = 5,
 		},
-		["Jurion"] = {
-			["total"] = "1",
-		},
 		["Sagiv"] = {
 			["total"] = 16,
 		},
-		["Bellassiel"] = {
-			["total"] = 6,
+		["Kuurus"] = {
+			["total"] = "72",
 		},
-		["Tredruid"] = {
-			["total"] = 5,
+		["Knytephal"] = {
+			["total"] = 10,
 		},
-		["Orlanth"] = {
-			["total"] = "0",
+		["Kinu"] = {
+			["total"] = 0,
+		},
+		["Feralz"] = {
+			["total"] = 9,
 		},
 		["Morgain"] = {
-			["total"] = 27,
+			["total"] = 28,
 		},
 		["Hellswolf"] = {
-			["total"] = "2",
+			["total"] = 3,
 		},
-		["Epsilon"] = {
-			["total"] = "0",
+		["Kalestra"] = {
+			["total"] = 7,
 		},
 		["Lakajira"] = {
 			["total"] = "8",
 		},
 		["Ariaxx"] = {
-			["total"] = 16,
+			["total"] = 0,
 		},
 		["Scorndeath"] = {
 			["total"] = 9,
@@ -433,38 +433,38 @@ BidER_DKP = {
 		["Liketobubble"] = {
 			["total"] = 5,
 		},
-		["Hyduken"] = {
-			["total"] = 4,
+		["Pirojil"] = {
+			["total"] = 28,
 		},
-		["Pawmane"] = {
-			["total"] = "15",
+		["Mourngrym"] = {
+			["total"] = 12,
 		},
 		["Borialis"] = {
 			["total"] = "5",
 		},
-		["Badon"] = {
-			["total"] = 17,
+		["Hepher"] = {
+			["total"] = 8,
 		},
 		["Vannd"] = {
 			["total"] = "4",
 		},
-		["Zub"] = {
-			["total"] = "1",
+		["Clariti"] = {
+			["total"] = "5",
 		},
-		["Strumpet"] = {
-			["total"] = "10",
+		["Hachu"] = {
+			["total"] = "86",
 		},
 		["Tradora"] = {
-			["total"] = 8,
+			["total"] = 9,
 		},
 		["Maliana"] = {
-			["total"] = 8,
+			["total"] = 9,
 		},
 		["Sodaman"] = {
 			["total"] = "22",
 		},
-		["Targo"] = {
-			["total"] = 4,
+		["Gylan"] = {
+			["total"] = 6,
 		},
 		["Lenadin"] = {
 			["total"] = "14",
@@ -475,26 +475,26 @@ BidER_DKP = {
 		["Moriden"] = {
 			["total"] = 8,
 		},
-		["Riçkkëz"] = {
-			["total"] = 16,
+		["Butherface"] = {
+			["total"] = "3",
 		},
-		["Gelnon"] = {
-			["total"] = 6,
-		},
-		["Gorajai"] = {
-			["total"] = "0",
-		},
-		["Blairak"] = {
+		["Lien"] = {
 			["total"] = "2",
 		},
-		["Riverblade"] = {
-			["total"] = 16,
+		["Ahzidahaka"] = {
+			["total"] = "0",
+		},
+		["Kahlee"] = {
+			["total"] = 28,
 		},
 		["Kriptik"] = {
 			["total"] = "19",
 		},
-		["Embrr"] = {
-			["total"] = 8,
+		["Scornpally"] = {
+			["total"] = 9,
+		},
+		["Yelgrun"] = {
+			["total"] = 6,
 		},
 		["Murmullo"] = {
 			["total"] = 9,
@@ -506,58 +506,58 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Intermission"] = {
-			["total"] = 24,
-		},
-		["Yelgrun"] = {
-			["total"] = 6,
-		},
-		["Ilie"] = {
-			["total"] = "21",
-		},
-		["Dayka"] = {
-			["total"] = "28",
-		},
-		["Japen"] = {
-			["total"] = "13",
+			["total"] = 25,
 		},
 		["Vorejr"] = {
 			["total"] = "10",
 		},
-		["Scornpally"] = {
-			["total"] = 9,
+		["Ilie"] = {
+			["total"] = "21",
 		},
-		["Kahlee"] = {
-			["total"] = 27,
+		["Japen"] = {
+			["total"] = "13",
 		},
-		["Ahzidahaka"] = {
-			["total"] = "0",
+		["Dayka"] = {
+			["total"] = "28",
 		},
-		["Lien"] = {
+		["Embrr"] = {
+			["total"] = 8,
+		},
+		["Riverblade"] = {
+			["total"] = 16,
+		},
+		["Blairak"] = {
 			["total"] = "2",
 		},
-		["Butherface"] = {
-			["total"] = "3",
+		["Gorajai"] = {
+			["total"] = "0",
+		},
+		["Gelnon"] = {
+			["total"] = 6,
+		},
+		["Riçkkëz"] = {
+			["total"] = 0,
 		},
 		["Jestine"] = {
 			["total"] = "0",
 		},
-		["Gylan"] = {
-			["total"] = 35,
+		["Targo"] = {
+			["total"] = 4,
 		},
-		["Hachu"] = {
-			["total"] = "86",
+		["Strumpet"] = {
+			["total"] = "10",
 		},
-		["Clariti"] = {
-			["total"] = "5",
+		["Zub"] = {
+			["total"] = "1",
 		},
-		["Hepher"] = {
-			["total"] = 8,
+		["Badon"] = {
+			["total"] = 18,
 		},
-		["Mourngrym"] = {
-			["total"] = 12,
+		["Pawmane"] = {
+			["total"] = "15",
 		},
-		["Pirojil"] = {
-			["total"] = 27,
+		["Hyduken"] = {
+			["total"] = 4,
 		},
 		["Jetfiz"] = {
 			["total"] = "5",
@@ -565,68 +565,68 @@ BidER_DKP = {
 		["Agisha"] = {
 			["total"] = "5",
 		},
-		["Kalestra"] = {
-			["total"] = 6,
+		["Epsilon"] = {
+			["total"] = "0",
 		},
-		["Feralz"] = {
-			["total"] = 9,
+		["Tredruid"] = {
+			["total"] = 5,
 		},
-		["Kinu"] = {
-			["total"] = 0,
+		["Orlanth"] = {
+			["total"] = "0",
 		},
-		["Knytephal"] = {
-			["total"] = 9,
-		},
-		["Kuurus"] = {
-			["total"] = "72",
-		},
-		["Shughar"] = {
-			["total"] = "2",
-		},
-		["Morniel"] = {
-			["total"] = 6,
-		},
-		["Cochata"] = {
-			["total"] = 6,
-		},
-		["Valore"] = {
+		["Bellassiel"] = {
 			["total"] = 7,
 		},
-		["Pokit"] = {
-			["total"] = 6,
+		["Jurion"] = {
+			["total"] = "1",
+		},
+		["Palytank"] = {
+			["total"] = "0",
+		},
+		["Syrenna"] = {
+			["total"] = "2",
+		},
+		["Darkarts"] = {
+			["total"] = 5,
+		},
+		["Bruujo"] = {
+			["total"] = "15",
+		},
+		["Infyrno"] = {
+			["total"] = 11,
 		},
 		["Scornhorn"] = {
 			["total"] = 9,
 		},
-		["Rocknrolla"] = {
-			["total"] = 0,
+		["Blyte"] = {
+			["total"] = "86",
 		},
-		["Alihra"] = {
-			["total"] = 6,
+		["Pulgas"] = {
+			["total"] = "7",
 		},
 		["Lunastra"] = {
-			["total"] = 8,
+			["total"] = 9,
 		},
-		["Locofwar"] = {
-			["total"] = 13,
+		["Alessan"] = {
+			["total"] = "2",
 		},
 		["Rahz"] = {
 			["total"] = 9,
 		},
 		["Blunuk"] = {
-			["total"] = 29,
+			["total"] = 30,
 		},
 		["Eldamando"] = {
-			["total"] = 29,
+			["total"] = 30,
 		},
-		["Numfar"] = {
-			["total"] = 29,
+		["Cheval"] = {
+			["total"] = 7,
 		},
 		["Fishhawk"] = {
 			["total"] = 5,
 		},
-		["Gennosukei"] = {
-			["total"] = "3",
+		["Astoy"] = {
+			["total"] = "0",
 		},
 		["Darkember"] = {
 			["total"] = 8,
@@ -634,14 +634,14 @@ BidER_DKP = {
 		["Pallystra"] = {
 			["total"] = "3",
 		},
-		["Mabd"] = {
-			["total"] = 27,
+		["Rarebird"] = {
+			["total"] = 0,
 		},
 		["Saintclair"] = {
 			["total"] = 1,
 		},
-		["Aanedin"] = {
-			["total"] = "2",
+		["Battletoad"] = {
+			["total"] = 0,
 		},
 		["Silvanara"] = {
 			["total"] = 15,
@@ -662,7 +662,7 @@ BidER_DKPResets = {
 		"Tairy", -- [10]
 		"Alok", -- [11]
 		"Elaini", -- [12]
-		"Midknyte", -- [13]
+		"Knytephal", -- [13]
 		"Gelnon", -- [14]
 		"Quilderaumo", -- [15]
 		"Vrisha", -- [16]
@@ -681,13 +681,14 @@ BidER_DKPResets = {
 		"Jukaszor", -- [29]
 		"Dook", -- [30]
 		"Saintclair", -- [31]
+		"Rarebird", -- [32]
 	},
 }
 BidER_Settings = {
 	["threshold"] = 4,
 	["enchanter"] = "Shyzyhra",
-	["dkp"] = "official",
 	["channel"] = "erloot",
+	["dkp"] = "official",
 }
 BidER_MinimumBids = {
 	[239] = 20,
