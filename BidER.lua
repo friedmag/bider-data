@@ -693,10 +693,9 @@ BidER_Settings = {
 	["dkp"] = "official",
 }
 BidER_MinimumBids = {
-	[239] = 20,
-	[226] = 10,
-	[219] = 5,
-	[232] = 15,
+  ["Trophy of the Crusade"] = 10,
+	[245] = 10,
+	[258] = 15,
 }
 BidER_Raids = {
 	[1249868610] = {
