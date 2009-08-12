@@ -684,6 +684,7 @@ BidER_DKPResets = {
 		"Morvien", -- [32]
 		"Tarnaa", -- [33]
 		"Klurk", -- [34]
+		"Wholistic", -- [35]
 	},
 }
 BidER_Settings = {
