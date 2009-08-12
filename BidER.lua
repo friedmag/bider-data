@@ -2,19 +2,19 @@
 BidER_DKP = {
 	["official"] = {
 		["Plaguess"] = {
-			["total"] = 1,
+			["total"] = 6,
 		},
 		["Krask"] = {
 			["total"] = 3,
 		},
 		["Elaini"] = {
-			["total"] = 14,
+			["total"] = 4,
 		},
 		["Marugar"] = {
 			["total"] = "1",
 		},
 		["Bukthyn"] = {
-			["total"] = 24,
+			["total"] = 19,
 		},
 		["Whiskeydeath"] = {
 			["total"] = "5",
@@ -23,16 +23,16 @@ BidER_DKP = {
 			["total"] = 8,
 		},
 		["Wholistic"] = {
-			["total"] = 16,
+			["total"] = 21,
 		},
 		["Midknyte"] = {
-			["total"] = 13,
+			["total"] = 4,
 		},
 		["Sheemie"] = {
 			["total"] = "4",
 		},
 		["Knytemare"] = {
-			["total"] = 13,
+			["total"] = 4,
 		},
 		["Esjuggernaut"] = {
 			["total"] = "0",
@@ -41,10 +41,10 @@ BidER_DKP = {
 			["total"] = 1,
 		},
 		["Vindicaa"] = {
-			["total"] = 1,
+			["total"] = 6,
 		},
 		["Alok"] = {
-			["total"] = 18,
+			["total"] = 23,
 		},
 		["Ginaden"] = {
 			["total"] = "12",
@@ -53,25 +53,25 @@ BidER_DKP = {
 			["total"] = "0",
 		},
 		["Seguleh"] = {
-			["total"] = 9,
+			["total"] = 3,
 		},
 		["Wiltavian"] = {
-			["total"] = 11,
+			["total"] = 16,
 		},
 		["Knyte"] = {
-			["total"] = 13,
+			["total"] = 4,
 		},
 		["Liquideath"] = {
 			["total"] = 2,
 		},
 		["Vhelx"] = {
-			["total"] = 35,
+			["total"] = 40,
 		},
 		["Bukthan"] = {
-			["total"] = 24,
+			["total"] = 19,
 		},
 		["Rumbler"] = {
-			["total"] = 35,
+			["total"] = 40,
 		},
 		["Bradac"] = {
 			["total"] = 8,
@@ -104,7 +104,7 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Gehzry"] = {
-			["total"] = 35,
+			["total"] = 40,
 		},
 		["Baffic"] = {
 			["total"] = "86",
@@ -119,7 +119,7 @@ BidER_DKP = {
 			["total"] = "6",
 		},
 		["Gylak"] = {
-			["total"] = 11,
+			["total"] = 16,
 		},
 		["Vintarius"] = {
 			["total"] = "11",
@@ -131,16 +131,16 @@ BidER_DKP = {
 			["total"] = 5,
 		},
 		["Quilderaumo"] = {
-			["total"] = 35,
+			["total"] = 40,
 		},
 		["Namefear"] = {
 			["total"] = "10",
 		},
 		["Selidar"] = {
-			["total"] = 68,
+			["total"] = 73,
 		},
 		["Bukthun"] = {
-			["total"] = 24,
+			["total"] = 19,
 		},
 		["Thudd"] = {
 			["total"] = "86",
@@ -167,10 +167,10 @@ BidER_DKP = {
 			["total"] = 9,
 		},
 		["Kriptohr"] = {
-			["total"] = 35,
+			["total"] = 40,
 		},
 		["Tairy"] = {
-			["total"] = 25,
+			["total"] = 30,
 		},
 		["Ztyx"] = {
 			["total"] = "2",
@@ -191,7 +191,7 @@ BidER_DKP = {
 			["total"] = "16",
 		},
 		["Bukthin"] = {
-			["total"] = 24,
+			["total"] = 19,
 		},
 		["Apocyloth"] = {
 			["total"] = "0",
@@ -200,13 +200,13 @@ BidER_DKP = {
 			["total"] = "4",
 		},
 		["Shyzyhra"] = {
-			["total"] = 3,
+			["total"] = 8,
 		},
 		["Melbindi"] = {
 			["total"] = 5,
 		},
 		["Tarnaa"] = {
-			["total"] = 1,
+			["total"] = 6,
 		},
 		["Keelintaro"] = {
 			["total"] = "13",
@@ -230,7 +230,7 @@ BidER_DKP = {
 			["total"] = "20",
 		},
 		["Visslik"] = {
-			["total"] = 0,
+			["total"] = 5,
 		},
 		["Dacar"] = {
 			["total"] = "7",
@@ -248,13 +248,13 @@ BidER_DKP = {
 			["total"] = 3,
 		},
 		["Reallyaguy"] = {
-			["total"] = 5,
+			["total"] = 0,
 		},
 		["Blkshot"] = {
 			["total"] = "15",
 		},
 		["Morier"] = {
-			["total"] = 3,
+			["total"] = 8,
 		},
 		["Aenorn"] = {
 			["total"] = 1,
@@ -265,20 +265,20 @@ BidER_DKP = {
 		["Andrewid"] = {
 			["total"] = "1",
 		},
-		["Aanedin"] = {
-			["total"] = "2",
-		},
-		["Brutikus"] = {
+		["Battletoad"] = {
 			["total"] = 0,
 		},
-		["Mabd"] = {
-			["total"] = 28,
+		["Brutikus"] = {
+			["total"] = 5,
+		},
+		["Rarebird"] = {
+			["total"] = 5,
 		},
 		["Twonynd"] = {
 			["total"] = "2",
 		},
 		["Valsarius"] = {
-			["total"] = 18,
+			["total"] = 23,
 		},
 		["Bildo"] = {
 			["total"] = "0",
@@ -290,7 +290,7 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Vrisha"] = {
-			["total"] = 28,
+			["total"] = 33,
 		},
 		["Banq"] = {
 			["total"] = 0,
@@ -298,14 +298,14 @@ BidER_DKP = {
 		["Jillien"] = {
 			["total"] = "0",
 		},
-		["Gennosukei"] = {
-			["total"] = "3",
+		["Astoy"] = {
+			["total"] = "0",
 		},
 		["Supressor"] = {
 			["total"] = "57",
 		},
 		["Moorgain"] = {
-			["total"] = 28,
+			["total"] = 33,
 		},
 		["Coolleen"] = {
 			["total"] = 16,
@@ -313,11 +313,11 @@ BidER_DKP = {
 		["Thehutsman"] = {
 			["total"] = "15",
 		},
-		["Numfar"] = {
-			["total"] = 35,
+		["Cheval"] = {
+			["total"] = 0,
 		},
 		["Cleophus"] = {
-			["total"] = 5,
+			["total"] = 0,
 		},
 		["Soulrez"] = {
 			["total"] = 23,
@@ -331,29 +331,29 @@ BidER_DKP = {
 		["Allev"] = {
 			["total"] = "86",
 		},
-		["Locofwar"] = {
-			["total"] = 13,
+		["Alessan"] = {
+			["total"] = "2",
 		},
 		["Karcuss"] = {
 			["total"] = "86",
 		},
+		["Keeneyes"] = {
+			["total"] = 0,
+		},
 		["Digitalchaos"] = {
 			["total"] = "10",
 		},
-		["Keeneyes"] = {
-			["total"] = 12,
+		["Pulgas"] = {
+			["total"] = "7",
 		},
-		["Alihra"] = {
-			["total"] = 3,
-		},
-		["Rocknrolla"] = {
-			["total"] = 0,
+		["Blyte"] = {
+			["total"] = "86",
 		},
 		["Doriana"] = {
-			["total"] = 14,
+			["total"] = 4,
 		},
-		["Pokit"] = {
-			["total"] = 6,
+		["Infyrno"] = {
+			["total"] = 11,
 		},
 		["Aanelorn"] = {
 			["total"] = "2",
@@ -361,17 +361,17 @@ BidER_DKP = {
 		["Deathsun"] = {
 			["total"] = "15",
 		},
-		["Valore"] = {
-			["total"] = 12,
+		["Bruujo"] = {
+			["total"] = "15",
 		},
 		["Morvien"] = {
-			["total"] = 0,
+			["total"] = 5,
 		},
 		["Simii"] = {
 			["total"] = "50",
 		},
-		["Cochata"] = {
-			["total"] = 6,
+		["Darkarts"] = {
+			["total"] = 5,
 		},
 		["Lynliss"] = {
 			["total"] = "0",
@@ -382,14 +382,14 @@ BidER_DKP = {
 		["Mikaylyn"] = {
 			["total"] = "3",
 		},
-		["Morniel"] = {
-			["total"] = 3,
+		["Syrenna"] = {
+			["total"] = "2",
 		},
 		["Zytha"] = {
 			["total"] = "0",
 		},
-		["Shughar"] = {
-			["total"] = "2",
+		["Palytank"] = {
+			["total"] = "0",
 		},
 		["Thakigg"] = {
 			["total"] = 29,
@@ -397,74 +397,74 @@ BidER_DKP = {
 		["Highplains"] = {
 			["total"] = 5,
 		},
+		["Jurion"] = {
+			["total"] = "1",
+		},
 		["Sagiv"] = {
 			["total"] = 16,
 		},
-		["Kuurus"] = {
-			["total"] = "72",
+		["Bellassiel"] = {
+			["total"] = 8,
 		},
-		["Knytephal"] = {
-			["total"] = 13,
+		["Orlanth"] = {
+			["total"] = "0",
 		},
-		["Kinu"] = {
+		["Tredruid"] = {
 			["total"] = 0,
 		},
-		["Feralz"] = {
-			["total"] = 9,
-		},
 		["Morgain"] = {
-			["total"] = 28,
+			["total"] = 33,
 		},
 		["Hellswolf"] = {
 			["total"] = 3,
 		},
-		["Kalestra"] = {
-			["total"] = 3,
+		["Epsilon"] = {
+			["total"] = "0",
 		},
 		["Lakajira"] = {
 			["total"] = "8",
 		},
 		["Ariaxx"] = {
-			["total"] = 5,
+			["total"] = 10,
 		},
 		["Scorndeath"] = {
 			["total"] = 9,
 		},
 		["Liketobubble"] = {
-			["total"] = 5,
-		},
-		["Pirojil"] = {
-			["total"] = 28,
-		},
-		["Mourngrym"] = {
 			["total"] = 0,
+		},
+		["Hyduken"] = {
+			["total"] = 4,
+		},
+		["Pawmane"] = {
+			["total"] = "15",
 		},
 		["Borialis"] = {
 			["total"] = "5",
 		},
-		["Hepher"] = {
-			["total"] = 8,
+		["Badon"] = {
+			["total"] = 6,
 		},
 		["Vannd"] = {
 			["total"] = "4",
 		},
-		["Clariti"] = {
-			["total"] = "5",
+		["Zub"] = {
+			["total"] = "1",
 		},
-		["Hachu"] = {
-			["total"] = "86",
+		["Strumpet"] = {
+			["total"] = "10",
 		},
 		["Tradora"] = {
-			["total"] = 14,
+			["total"] = 4,
 		},
 		["Maliana"] = {
-			["total"] = 14,
+			["total"] = 4,
 		},
 		["Sodaman"] = {
 			["total"] = "22",
 		},
-		["Gylan"] = {
-			["total"] = 11,
+		["Targo"] = {
+			["total"] = 4,
 		},
 		["Lenadin"] = {
 			["total"] = "14",
@@ -475,29 +475,29 @@ BidER_DKP = {
 		["Moriden"] = {
 			["total"] = 8,
 		},
-		["Butherface"] = {
-			["total"] = "3",
+		["Riçkkëz"] = {
+			["total"] = 3,
 		},
-		["Lien"] = {
-			["total"] = "2",
+		["Gelnon"] = {
+			["total"] = 6,
 		},
-		["Ahzidahaka"] = {
+		["Gorajai"] = {
 			["total"] = "0",
 		},
-		["Kahlee"] = {
-			["total"] = 28,
+		["Blairak"] = {
+			["total"] = "2",
+		},
+		["Riverblade"] = {
+			["total"] = 10,
 		},
 		["Kriptik"] = {
 			["total"] = "19",
 		},
-		["Scornpally"] = {
-			["total"] = 9,
-		},
-		["Yelgrun"] = {
-			["total"] = 6,
+		["Embrr"] = {
+			["total"] = 8,
 		},
 		["Murmullo"] = {
-			["total"] = 9,
+			["total"] = 3,
 		},
 		["Powamage"] = {
 			["total"] = "2",
@@ -506,58 +506,58 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Intermission"] = {
-			["total"] = 25,
+			["total"] = 30,
 		},
-		["Vorejr"] = {
-			["total"] = "10",
+		["Yelgrun"] = {
+			["total"] = 6,
 		},
 		["Ilie"] = {
 			["total"] = "21",
 		},
-		["Japen"] = {
-			["total"] = "13",
-		},
 		["Dayka"] = {
 			["total"] = "28",
 		},
-		["Embrr"] = {
-			["total"] = 8,
+		["Japen"] = {
+			["total"] = "13",
 		},
-		["Riverblade"] = {
-			["total"] = 21,
+		["Vorejr"] = {
+			["total"] = "10",
 		},
-		["Blairak"] = {
-			["total"] = "2",
+		["Scornpally"] = {
+			["total"] = 9,
 		},
-		["Gorajai"] = {
+		["Kahlee"] = {
+			["total"] = 33,
+		},
+		["Ahzidahaka"] = {
 			["total"] = "0",
 		},
-		["Gelnon"] = {
-			["total"] = 6,
+		["Lien"] = {
+			["total"] = "2",
 		},
-		["Riçkkëz"] = {
-			["total"] = 3,
+		["Butherface"] = {
+			["total"] = "3",
 		},
 		["Jestine"] = {
 			["total"] = "0",
 		},
-		["Targo"] = {
-			["total"] = 4,
+		["Gylan"] = {
+			["total"] = 16,
 		},
-		["Strumpet"] = {
-			["total"] = "10",
+		["Hachu"] = {
+			["total"] = "86",
 		},
-		["Zub"] = {
-			["total"] = "1",
+		["Clariti"] = {
+			["total"] = "5",
 		},
-		["Badon"] = {
-			["total"] = 1,
+		["Hepher"] = {
+			["total"] = 8,
 		},
-		["Pawmane"] = {
-			["total"] = "15",
+		["Mourngrym"] = {
+			["total"] = 5,
 		},
-		["Hyduken"] = {
-			["total"] = 4,
+		["Pirojil"] = {
+			["total"] = 33,
 		},
 		["Jetfiz"] = {
 			["total"] = "5",
@@ -565,68 +565,68 @@ BidER_DKP = {
 		["Agisha"] = {
 			["total"] = "5",
 		},
-		["Epsilon"] = {
-			["total"] = "0",
+		["Kalestra"] = {
+			["total"] = 8,
 		},
-		["Tredruid"] = {
-			["total"] = 5,
-		},
-		["Orlanth"] = {
-			["total"] = "0",
-		},
-		["Bellassiel"] = {
+		["Feralz"] = {
 			["total"] = 3,
 		},
-		["Jurion"] = {
-			["total"] = "1",
+		["Kinu"] = {
+			["total"] = 0,
 		},
-		["Palytank"] = {
-			["total"] = "0",
+		["Knytephal"] = {
+			["total"] = 4,
 		},
-		["Syrenna"] = {
+		["Kuurus"] = {
+			["total"] = "72",
+		},
+		["Shughar"] = {
 			["total"] = "2",
 		},
-		["Darkarts"] = {
-			["total"] = 5,
+		["Morniel"] = {
+			["total"] = 8,
 		},
-		["Bruujo"] = {
-			["total"] = "15",
+		["Cochata"] = {
+			["total"] = 6,
 		},
-		["Infyrno"] = {
-			["total"] = 11,
+		["Valore"] = {
+			["total"] = 17,
+		},
+		["Pokit"] = {
+			["total"] = 6,
 		},
 		["Scornhorn"] = {
 			["total"] = 9,
 		},
-		["Blyte"] = {
-			["total"] = "86",
+		["Rocknrolla"] = {
+			["total"] = 0,
 		},
-		["Pulgas"] = {
-			["total"] = "7",
+		["Alihra"] = {
+			["total"] = 8,
 		},
 		["Lunastra"] = {
-			["total"] = 14,
+			["total"] = 19,
 		},
-		["Alessan"] = {
-			["total"] = "2",
+		["Locofwar"] = {
+			["total"] = 13,
 		},
 		["Rahz"] = {
-			["total"] = 9,
+			["total"] = 3,
 		},
 		["Blunuk"] = {
-			["total"] = 35,
+			["total"] = 40,
 		},
 		["Eldamando"] = {
-			["total"] = 35,
+			["total"] = 40,
 		},
-		["Cheval"] = {
-			["total"] = 12,
+		["Numfar"] = {
+			["total"] = 40,
 		},
 		["Fishhawk"] = {
-			["total"] = 5,
+			["total"] = 0,
 		},
-		["Astoy"] = {
-			["total"] = "0",
+		["Gennosukei"] = {
+			["total"] = "3",
 		},
 		["Darkember"] = {
 			["total"] = 8,
@@ -634,17 +634,17 @@ BidER_DKP = {
 		["Pallystra"] = {
 			["total"] = "3",
 		},
-		["Rarebird"] = {
-			["total"] = 5,
+		["Mabd"] = {
+			["total"] = 33,
 		},
 		["Saintclair"] = {
-			["total"] = 1,
+			["total"] = 6,
 		},
-		["Battletoad"] = {
-			["total"] = 0,
+		["Aanedin"] = {
+			["total"] = "2",
 		},
 		["Silvanara"] = {
-			["total"] = 20,
+			["total"] = 25,
 		},
 	},
 }
@@ -673,3334 +673,1535 @@ BidER_DKPResets = {
 		"Shyzyhra", -- [21]
 		"Silvanara", -- [22]
 		"Scornhorn", -- [23]
-		"Keeneyes", -- [25]
-		"Rahz", -- [26]
-		"Lunastra", -- [27]
-		"Cleophus", -- [28]
-		"Jukaszor", -- [29]
-		"Dook", -- [30]
-		"Saintclair", -- [31]
-		"Rarebird", -- [32]
-		"Morvien", -- [33]
-		"Tarnaa", -- [34]
-		"Klurk", -- [35]
+		"Keeneyes", -- [24]
+		"Rahz", -- [25]
+		"Lunastra", -- [26]
+		"Cleophus", -- [27]
+		"Jukaszor", -- [28]
+		"Dook", -- [29]
+		"Saintclair", -- [30]
+		"Rarebird", -- [31]
+		"Morvien", -- [32]
+		"Tarnaa", -- [33]
+		"Klurk", -- [34]
 	},
 }
 BidER_Settings = {
 	["threshold"] = 4,
 	["enchanter"] = "Shyzyhra",
-	["channel"] = "erloot",
 	["dkp"] = "official",
+	["channel"] = "erloot",
 }
 BidER_MinimumBids = {
-  ["Trophy of the Crusade"] = 10,
 	[245] = 10,
 	[258] = 15,
+	["Trophy of the Crusade"] = 10,
 }
 BidER_Raids = {
-	[1249868610] = {
-		["start_time"] = 1249868610,
+	[1250039266] = {
+		["end_time"] = 1250047116,
+		["start_time"] = 1250039266,
 		["events"] = {
-			["XT-002 Deconstructor"] = {
+			["Northrend Beasts"] = {
 				["loots"] = {
 					{
-						["amount"] = 5,
-						["item"] = "|cffa335ee|Hitem:45247:0:0:0:0:0:0:1924664448:80|h[Signet of the Earthshaker]|h|r",
-						["who"] = "Morvien",
+						["item"] = "|cffa335ee|Hitem:47251:0:0:0:0:0:0:1406276672:80|h[Cuirass of Cruel Intent]|h|r",
 					}, -- [1]
 					{
-						["item"] = "|cffa335ee|Hitem:45252:0:0:0:0:0:0:-2101867392:80|h[Horologist's Wristguards]|h|r",
+						["amount"] = 14,
+						["item"] = "|cffa335ee|Hitem:47257:0:0:0:0:0:0:1674712128:80|h[Cloak of the Untamed Predator]|h|r",
+						["who"] = "Knytephal",
 					}, -- [2]
 					{
-						["item"] = "|cffa335ee|Hitem:45260:0:0:0:0:0:0:-1833431936:80|h[Boots of Hasty Revival]|h|r",
+						["amount"] = 16,
+						["item"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:-2083384256:80|h[Trophy of the Crusade]|h|r",
+						["who"] = "Riverblade",
 					}, -- [3]
+					{
+						["amount"] = 15,
+						["item"] = "|cffa335ee|Hitem:47264:0:0:0:0:0:0:1943147584:80|h[Flowing Robes of Ascent]|h|r",
+						["who"] = "Elaini",
+					}, -- [4]
 				},
 				["attempts"] = {
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Tarnaa", -- [2]
-							"Rarebird", -- [3]
-							"Keeneyes", -- [4]
-							"Silvanara", -- [5]
-							"Valsarius", -- [6]
-							"Shyzyhra", -- [7]
-							"Alok", -- [8]
-							"Coolleen", -- [9]
-							"Riçkkëz", -- [10]
-							"Ariaxx", -- [11]
-							"Riverblade", -- [12]
-							"Elaini", -- [13]
-							"Knytephal", -- [14]
-							"Lunastra", -- [15]
-							"Wiltavian", -- [16]
-							"Wholistic", -- [17]
-							"Morvien", -- [18]
-							"Klurk", -- [19]
-							"Valore", -- [20]
-							"Gylan", -- [21]
-							"Quilderaumo", -- [22]
+							"Ariaxx", -- [2]
+							"Rahz", -- [3]
+							"Cleophus", -- [4]
+							"Gylan", -- [5]
+							"Lunastra", -- [6]
+							"Wholistic", -- [7]
+							"Keeneyes", -- [8]
+							"Elaini", -- [9]
+							"Selidar", -- [10]
+							"Valsarius", -- [11]
+							"Alok", -- [12]
+							"Knytephal", -- [13]
+							"Vrisha", -- [14]
+							"Riverblade", -- [15]
+							"Valore", -- [16]
+							"Silvanara", -- [17]
+							"Wiltavian", -- [18]
+							"Morvien", -- [19]
+							"Shyzyhra", -- [20]
+							"Tairy", -- [21]
+							"Saintclair", -- [22]
+							"Tarnaa", -- [23]
+							"Rumbler", -- [24]
+							"Quilderaumo", -- [25]
 						},
 						["buffs"] = {
 							["Quilderaumo"] = {
-								"Gift of the Wild", -- [1]
-								"Well Fed", -- [2]
-								"Guru's Elixir", -- [3]
-								"Elixir of Mighty Fortitude", -- [4]
-								"Thorns", -- [5]
-								"Leader of the Pack", -- [6]
-								"Dire Bear Form", -- [7]
+								"Thorns", -- [1]
+								"Dire Bear Form", -- [2]
+								"Enrage", -- [3]
+								"Gift of the Wild", -- [4]
+								"Leader of the Pack", -- [5]
+								"Greater Blessing of Kings", -- [6]
+								"Fire Resistance Aura", -- [7]
 								"Prayer of Fortitude", -- [8]
 								"Prayer of Spirit", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Fire Resistance Aura", -- [13]
-								"Devotion Aura", -- [14]
-								"Earth Shield", -- [15]
-								"Concentration Aura", -- [16]
-								"Retribution Aura", -- [17]
-								"Blood Pact", -- [18]
-								"Prayer of Shadow Protection", -- [19]
-								"Soulstone Resurrection", -- [20]
-								"Greater Blessing of Wisdom", -- [21]
-							},
-							["Gylan"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Greater Blessing of Sanctuary", -- [3]
-								"Greater Blessing of Kings", -- [4]
-								"Prayer of Spirit", -- [5]
-								"Arcane Brilliance", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Retribution Aura", -- [8]
-								"Fire Resistance Aura", -- [9]
-								"Concentration Aura", -- [10]
-								"Blood Pact", -- [11]
-								"Devotion Aura", -- [12]
-								"Greater Blessing of Might", -- [13]
-								"Overkill", -- [14]
-								"Flask of Endless Rage", -- [15]
-								"Sprint", -- [16]
-							},
-							["Elaini"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Retribution Aura", -- [4]
-								"Greater Blessing of Wisdom", -- [5]
-								"Greater Blessing of Kings", -- [6]
-								"Prayer of Spirit", -- [7]
-								"Prayer of Shadow Protection", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Flask of Pure Mojo", -- [11]
-								"Inner Fire", -- [12]
-								"Greater Blessing of Sanctuary", -- [13]
-								"Concentration Aura", -- [14]
-								"Blood Pact", -- [15]
-								"Lightweave", -- [16]
-							},
-							["Tarnaa"] = {
-								"Mark of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Prayer of Spirit", -- [4]
-								"Prayer of Shadow Protection", -- [5]
-								"Arcane Brilliance", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Flask of Endless Rage", -- [9]
-								"Retribution Aura", -- [10]
-								"Alchemist's Stone", -- [11]
-								"Concentration Aura", -- [12]
-								"Devotion Aura", -- [13]
-								"Fire Resistance Aura", -- [14]
-								"Overkill", -- [15]
-								"Stealth", -- [16]
-								"Greater Blessing of Kings", -- [17]
-								"Greater Blessing of Might", -- [18]
-								"Blood Pact", -- [19]
-							},
-							["Valsarius"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Flask of Endless Rage", -- [4]
-								"Prayer of Spirit", -- [5]
-								"Arcane Brilliance", -- [6]
-								"Prayer of Shadow Protection", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Seal of Corruption", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Greater Blessing of Kings", -- [11]
-								"Retribution Aura", -- [12]
-								"Concentration Aura", -- [13]
-								"Fire Resistance Aura", -- [14]
-								"Devotion Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Greater Blessing of Might", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-							},
-							["Wholistic"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Prayer of Spirit", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Prayer of Shadow Protection", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Flask of the Frost Wyrm", -- [9]
-								"Greater Blessing of Wisdom", -- [10]
-								"Water Shield", -- [11]
-								"Champion of the Kirin Tor", -- [12]
-								"Concentration Aura", -- [13]
-								"Devotion Aura", -- [14]
-								"Blood Pact", -- [15]
-								"Retribution Aura", -- [16]
-								"Fire Resistance Aura", -- [17]
-								"Greater Blessing of Might", -- [18]
-								"Greater Blessing of Kings", -- [19]
-							},
-							["Valore"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Prayer of Spirit", -- [3]
-								"Prayer of Shadow Protection", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Greater Blessing of Kings", -- [8]
-								"Well Fed", -- [9]
-								"Flask of the Frost Wyrm", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Seal of Wisdom", -- [12]
-								"Fire Resistance Aura", -- [13]
-								"Concentration Aura", -- [14]
-								"Devotion Aura", -- [15]
-								"Retribution Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Greater Blessing of Might", -- [18]
-								"Eye of the Broodmother", -- [19]
-							},
-							["Coolleen"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Greater Blessing of Wisdom", -- [4]
-								"Prayer of Spirit", -- [5]
-								"Prayer of Shadow Protection", -- [6]
-								"Arcane Brilliance", -- [7]
-								"Fire Resistance Aura", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Inner Fire", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Retribution Aura", -- [12]
-								"Champion of the Kirin Tor", -- [13]
-								"Well Fed", -- [14]
-								"Concentration Aura", -- [15]
-								"Devotion Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Greater Blessing of Kings", -- [18]
-							},
-							["Lunastra"] = {
-								"Mark of the Wild", -- [1]
-								"Prayer of Spirit", -- [2]
-								"Greater Blessing of Wisdom", -- [3]
-								"Flask of Endless Rage", -- [4]
-								"Well Fed", -- [5]
-								"Prayer of Shadow Protection", -- [6]
-								"Arcane Brilliance", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Retribution Aura", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Greater Blessing of Kings", -- [11]
-								"Aspect of the Dragonhawk", -- [12]
-								"Concentration Aura", -- [13]
-								"Devotion Aura", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Greater Blessing of Might", -- [16]
-								"Sniper Training", -- [17]
-							},
-							["Klurk"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Greater Blessing of Wisdom", -- [3]
-								"Prayer of Fortitude", -- [4]
-								"Well Fed", -- [5]
-								"Champion of the Kirin Tor", -- [6]
-								"Inner Fire", -- [7]
-								"Prayer of Spirit", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Greater Blessing of Kings", -- [10]
-								"Retribution Aura", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Shadowform", -- [13]
-								"Concentration Aura", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Prayer of Shadow Protection", -- [17]
-							},
-							["Alok"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Prayer of Spirit", -- [4]
-								"Greater Blessing of Wisdom", -- [5]
-								"Arcane Brilliance", -- [6]
-								"Prayer of Shadow Protection", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Flask of Endless Rage", -- [10]
-								"Retribution Aura", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Aspect of the Dragonhawk", -- [13]
-								"Concentration Aura", -- [14]
-								"Sniper Training", -- [15]
-								"Greater Blessing of Might", -- [16]
-							},
-							["Ariaxx"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Arcane Brilliance", -- [4]
-								"Greater Blessing of Wisdom", -- [5]
-								"Blood Pact", -- [6]
-								"Prayer of Spirit", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Flask of the Frost Wyrm", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Fel Armor", -- [12]
-								"Retribution Aura", -- [13]
-								"Fire Resistance Aura", -- [14]
-								"Concentration Aura", -- [15]
-								"Devotion Aura", -- [16]
-								"Greater Blessing of Kings", -- [17]
-							},
-							["Riçkkëz"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Blood Pact", -- [3]
-								"Well Fed", -- [4]
-								"Greater Blessing of Wisdom", -- [5]
-								"Prayer of Spirit", -- [6]
-								"Prayer of Shadow Protection", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Flask of Endless Rage", -- [10]
-								"Seal of Corruption", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Retribution Aura", -- [13]
-								"Fire Resistance Aura", -- [14]
-								"Concentration Aura", -- [15]
-								"Devotion Aura", -- [16]
-								"Greater Blessing of Might", -- [17]
-								"Greater Blessing of Sanctuary", -- [18]
-							},
-							["Bukthan"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Greater Blessing of Might", -- [3]
-								"Well Fed", -- [4]
-								"Prayer of Spirit", -- [5]
-								"Prayer of Shadow Protection", -- [6]
-								"Arcane Brilliance", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Righteous Fury", -- [10]
-								"Seal of Corruption", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Devotion Aura", -- [13]
-								"Earth Shield", -- [14]
-								"Concentration Aura", -- [15]
-								"Fire Resistance Aura", -- [16]
-								"Flask of Stoneblood", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Prayer of Mending", -- [19]
-								"Beacon of Light", -- [20]
-								"Renew", -- [21]
-								"Misdirection", -- [22]
-								"Renew", -- [23]
-								"Sacred Shield", -- [24]
-								"Retribution Aura", -- [25]
-							},
-							["Riverblade"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Greater Blessing of Wisdom", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Prayer of Shadow Protection", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Flask of Endless Rage", -- [8]
-								"Greater Blessing of Kings", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Aspect of the Dragonhawk", -- [12]
-								"Retribution Aura", -- [13]
-								"Concentration Aura", -- [14]
-								"Devotion Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Sniper Training", -- [17]
-								"Greater Blessing of Might", -- [18]
-								"Misdirection", -- [19]
-							},
-							["Keeneyes"] = {
-								"Mark of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Power Word: Fortitude", -- [4]
-								"Divine Spirit", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Well Fed", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Greater Blessing of Kings", -- [9]
-								"Aspect of the Dragonhawk", -- [10]
-								"Retribution Aura", -- [11]
-								"Blood Pact", -- [12]
+								"Prayer of Shadow Protection", -- [10]
+								"Greater Blessing of Sanctuary", -- [11]
+								"Moonkin Aura", -- [12]
 								"Greater Blessing of Wisdom", -- [13]
 								"Concentration Aura", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Sniper Training", -- [16]
-								"Greater Blessing of Might", -- [17]
-							},
-							["Wiltavian"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Greater Blessing of Wisdom", -- [4]
-								"Well Fed", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Prayer of Shadow Protection", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Water Shield", -- [11]
-								"Blood Pact", -- [12]
-								"Retribution Aura", -- [13]
-								"Concentration Aura", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Greater Blessing of Might", -- [16]
-								"Greater Blessing of Kings", -- [17]
-							},
-							["Rarebird"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Prayer of Spirit", -- [3]
-								"Prayer of Shadow Protection", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Prayer of Fortitude", -- [6]
-								"Focus Magic", -- [7]
-								"Greater Blessing of Wisdom", -- [8]
-								"Greater Blessing of Kings", -- [9]
-								"Fire Resistance Aura", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Retribution Aura", -- [12]
-								"Champion of the Kirin Tor", -- [13]
-								"Concentration Aura", -- [14]
-								"Devotion Aura", -- [15]
-								"Blood Pact", -- [16]
-							},
-							["Shyzyhra"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Prayer of Spirit", -- [4]
-								"Prayer of Shadow Protection", -- [5]
-								"Greater Blessing of Wisdom", -- [6]
-								"Arcane Brilliance", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Greater Blessing of Kings", -- [9]
-								"Focus Magic", -- [10]
-								"Flask of the Frost Wyrm", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Molten Armor", -- [13]
-								"Retribution Aura", -- [14]
-								"Concentration Aura", -- [15]
-								"Fire Resistance Aura", -- [16]
-								"Blood Pact", -- [17]
-							},
-							["Morvien"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Well Fed", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Prayer of Spirit", -- [6]
-								"Flask of Stoneblood", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Prayer of Shadow Protection", -- [9]
-								"Ebon Champion", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Righteous Fury", -- [12]
-								"Seal of Corruption", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Concentration Aura", -- [16]
+								"Arcane Brilliance", -- [15]
+								"Soulstone Resurrection", -- [16]
 								"Devotion Aura", -- [17]
 								"Retribution Aura", -- [18]
-								"Blood Pact", -- [19]
-								"Greater Blessing of Might", -- [20]
-								"Greater Blessing of Wisdom", -- [21]
-							},
-							["Silvanara"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Inner Fire", -- [3]
-								"Flask of the Frost Wyrm", -- [4]
-								"Well Fed", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Prayer of Shadow Protection", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Retribution Aura", -- [12]
-								"Fire Resistance Aura", -- [13]
-								"Concentration Aura", -- [14]
-								"Devotion Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Greater Blessing of Kings", -- [17]
-								"Holy Concentration", -- [18]
-							},
-						},
-						["time"] = 1249871199,
-						["killed"] = true,
-					}, -- [1]
-				},
-			},
-			["Ignis the Furnace Master"] = {
-				["loots"] = {
-					{
-						["amount"] = 1,
-						["item"] = "|cffa335ee|Hitem:45161:0:0:0:0:0:0:1474667648:80|h[Girdle of Embers]|h|r",
-						["who"] = "Riçkkëz",
-					}, -- [1]
-					{
-						["amount"] = 9,
-						["item"] = "|cffa335ee|Hitem:45168:0:0:0:0:0:0:1743103104:80|h[Pyrelight Circle]|h|r",
-						["who"] = "Shyzyhra",
-					}, -- [2]
-					{
-						["item"] = "|cffa335ee|Hitem:45185:0:0:0:0:0:0:2011538560:80|h[Flamewrought Cinch]|h|r",
-					}, -- [3]
-				},
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Tarnaa", -- [2]
-							"Rarebird", -- [3]
-							"Keeneyes", -- [4]
-							"Silvanara", -- [5]
-							"Valsarius", -- [6]
-							"Shyzyhra", -- [7]
-							"Alok", -- [8]
-							"Coolleen", -- [9]
-							"Riçkkëz", -- [10]
-							"Ariaxx", -- [11]
-							"Riverblade", -- [12]
-							"Elaini", -- [13]
-							"Mzammer", -- [14]
-							"Lunastra", -- [15]
-							"Wiltavian", -- [16]
-							"Wholistic", -- [17]
-							"Morvien", -- [18]
-							"Klurk", -- [19]
-							"Valore", -- [20]
-							"Gylan", -- [21]
-							"Quilderaumo", -- [22]
-						},
-						["buffs"] = {
-							["Quilderaumo"] = {
-								"Gift of the Wild", -- [1]
-								"Well Fed", -- [2]
-								"Guru's Elixir", -- [3]
-								"Elixir of Mighty Fortitude", -- [4]
-								"Thorns", -- [5]
-								"Leader of the Pack", -- [6]
-								"Dire Bear Form", -- [7]
-								"Enrage", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Soulstone Resurrection", -- [12]
-								"Concentration Aura", -- [13]
-								"Greater Blessing of Sanctuary", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Retribution Aura", -- [17]
-								"Earth Shield", -- [18]
-								"Arcane Brilliance", -- [19]
-								"Greater Blessing of Kings", -- [20]
-								"Devotion Aura", -- [21]
-								"Wrath of Air Totem", -- [22]
-								"Stoneskin", -- [23]
-								"Flametongue Totem", -- [24]
+								"Greater Blessing of Might", -- [19]
+								"Blood Pact", -- [20]
+								"Wrath of Air Totem", -- [21]
+								"Stoneskin", -- [22]
+								"Flametongue Totem", -- [23]
+								"Horn of Winter", -- [24]
 								"Windfury Totem", -- [25]
 								"Strength of Earth", -- [26]
 							},
 							["Gylan"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Fire Resistance Aura", -- [3]
-								"Concentration Aura", -- [4]
-								"Greater Blessing of Kings", -- [5]
-								"Prayer of Spirit", -- [6]
-								"Prayer of Shadow Protection", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Greater Blessing of Might", -- [10]
-								"Retribution Aura", -- [11]
-								"Devotion Aura", -- [12]
-								"Blessing of Sanctuary", -- [13]
-								"Stealth", -- [14]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Fire Resistance Aura", -- [5]
+								"Greater Blessing of Sanctuary", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Prayer of Spirit", -- [8]
+								"Prayer of Shadow Protection", -- [9]
+								"Greater Blessing of Kings", -- [10]
+								"Moonkin Aura", -- [11]
+								"Concentration Aura", -- [12]
+								"Arcane Brilliance", -- [13]
+								"Greater Blessing of Might", -- [14]
 								"Overkill", -- [15]
-								"Tricks of the Trade", -- [16]
-								"Sprint", -- [17]
+								"Horn of Winter", -- [16]
+								"Stealth", -- [17]
+								"Wrath of Air Totem", -- [18]
+								"Stoneskin", -- [19]
+								"Flametongue Totem", -- [20]
+								"Devotion Aura", -- [21]
+								"Windfury Totem", -- [22]
+								"Strength of Earth", -- [23]
+							},
+							["Rumbler"] = {
+								"Gift of the Wild", -- [1]
+								"Blood Presence", -- [2]
+								"Blood Pact", -- [3]
+								"Leader of the Pack", -- [4]
+								"Retribution Aura", -- [5]
+								"Greater Blessing of Kings", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Greater Blessing of Sanctuary", -- [8]
+								"Prayer of Fortitude", -- [9]
+								"Prayer of Spirit", -- [10]
+								"Prayer of Shadow Protection", -- [11]
+								"Well Fed", -- [12]
+								"Mighty Strength", -- [13]
+								"Greater Blessing of Might", -- [14]
+								"Moonkin Aura", -- [15]
+								"Concentration Aura", -- [16]
+								"Arcane Brilliance", -- [17]
+								"Bone Shield", -- [18]
+								"Devotion Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
 							["Elaini"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Inner Fire", -- [3]
-								"Well Fed", -- [4]
-								"Flask of Pure Mojo", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Prayer of Shadow Protection", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Greater Blessing of Kings", -- [11]
-								"Greater Blessing of Wisdom", -- [12]
-								"Concentration Aura", -- [13]
-								"Fire Resistance Aura", -- [14]
-								"Retribution Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Wrath of Air Totem", -- [17]
-								"Stoneskin", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Strength of Earth", -- [21]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Recruit", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Inner Fire", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Well Fed", -- [16]
+								"Flask of Pure Mojo", -- [17]
+								"Arcane Brilliance", -- [18]
+								"Devotion Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
-							["Mzammer"] = {
-								"Mark of the Wild", -- [1]
+							["Tarnaa"] = {
+								"Gift of the Wild", -- [1]
 								"Leader of the Pack", -- [2]
-								"Greater Blessing of Kings", -- [3]
-								"Prayer of Shadow Protection", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Prayer of Fortitude", -- [6]
-								"Molten Armor", -- [7]
-								"Prayer of Spirit", -- [8]
-								"Focus Magic", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Mighty Thoughts", -- [12]
-								"Accuracy", -- [13]
+								"Fire Resistance Aura", -- [3]
+								"Greater Blessing of Sanctuary", -- [4]
+								"Prayer of Fortitude", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Shadow Protection", -- [7]
+								"Greater Blessing of Kings", -- [8]
+								"Greater Blessing of Might", -- [9]
+								"Moonkin Aura", -- [10]
+								"Concentration Aura", -- [11]
+								"Arcane Brilliance", -- [12]
+								"Well Fed", -- [13]
+								"Flask of Endless Rage", -- [14]
+								"Horn of Winter", -- [15]
+								"Stealth", -- [16]
+								"Overkill", -- [17]
+								"Devotion Aura", -- [18]
+								"Retribution Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Blood Pact", -- [23]
+							},
+							["Vrisha"] = {
+								"Leader of the Pack", -- [1]
+								"Cat Form", -- [2]
+								"Thorns", -- [3]
+								"Gift of the Wild", -- [4]
+								"Blood Pact", -- [5]
+								"Master Shapeshifter", -- [6]
+								"Retribution Aura", -- [7]
+								"Ebon Champion", -- [8]
+								"Greater Blessing of Kings", -- [9]
+								"Fire Resistance Aura", -- [10]
+								"Prayer of Fortitude", -- [11]
+								"Prayer of Spirit", -- [12]
+								"Prayer of Shadow Protection", -- [13]
 								"Well Fed", -- [14]
-								"Blood Pact", -- [15]
-								"Retribution Aura", -- [16]
-								"Fire Resistance Aura", -- [17]
+								"Greater Blessing of Sanctuary", -- [15]
+								"Moonkin Aura", -- [16]
+								"Greater Blessing of Wisdom", -- [17]
 								"Concentration Aura", -- [18]
+								"Arcane Brilliance", -- [19]
+								"Flask of Endless Rage", -- [20]
+								"Greater Blessing of Might", -- [21]
+								"Wrath of Air Totem", -- [22]
+								"Stoneskin", -- [23]
+								"Flametongue Totem", -- [24]
+								"Horn of Winter", -- [25]
+								"Devotion Aura", -- [26]
+								"Windfury Totem", -- [27]
+								"Strength of Earth", -- [28]
+							},
+							["Valsarius"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Blood Pact", -- [3]
+								"Seal of Corruption", -- [4]
+								"Retribution Aura", -- [5]
+								"Greater Blessing of Sanctuary", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Well Fed", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Greater Blessing of Might", -- [17]
+								"Devotion Aura", -- [18]
 								"Wrath of Air Totem", -- [19]
 								"Stoneskin", -- [20]
 								"Flametongue Totem", -- [21]
-								"Windfury Totem", -- [22]
-								"Strength of Earth", -- [23]
-							},
-							["Tarnaa"] = {
-								"Mark of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Prayer of Spirit", -- [3]
-								"Prayer of Shadow Protection", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Prayer of Fortitude", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Greater Blessing of Might", -- [8]
-								"Concentration Aura", -- [9]
-								"Flask of Endless Rage", -- [10]
-								"Alchemist's Stone", -- [11]
-								"Devotion Aura", -- [12]
-								"Fire Resistance Aura", -- [13]
-								"Retribution Aura", -- [14]
-								"Well Fed", -- [15]
-								"Stealth", -- [16]
-								"Overkill", -- [17]
-								"Greater Blessing of Kings", -- [18]
-							},
-							["Valsarius"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Greater Blessing of Might", -- [3]
-								"Prayer of Spirit", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Prayer of Shadow Protection", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Seal of Corruption", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Greater Blessing of Kings", -- [10]
-								"Retribution Aura", -- [11]
-								"Concentration Aura", -- [12]
-								"Fire Resistance Aura", -- [13]
-								"Blood Pact", -- [14]
-								"Greater Blessing of Wisdom", -- [15]
-								"Well Fed", -- [16]
-								"Flask of Endless Rage", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Stoneskin", -- [19]
-								"Windfury Totem", -- [20]
-								"Strength of Earth", -- [21]
-								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [22]
+								"Windfury Totem", -- [23]
+								"Strength of Earth", -- [24]
 							},
 							["Wholistic"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Champion of the Kirin Tor", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Greater Blessing of Might", -- [5]
-								"Well Fed", -- [6]
-								"Greater Blessing of Wisdom", -- [7]
-								"Flask of the Frost Wyrm", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Water Shield", -- [13]
-								"Retribution Aura", -- [14]
+								"Champion of the Kirin Tor", -- [2]
+								"Flask of the Frost Wyrm", -- [3]
+								"Blood Pact", -- [4]
+								"Leader of the Pack", -- [5]
+								"Retribution Aura", -- [6]
+								"Greater Blessing of Kings", -- [7]
+								"Fire Resistance Aura", -- [8]
+								"Greater Blessing of Sanctuary", -- [9]
+								"Prayer of Fortitude", -- [10]
+								"Prayer of Spirit", -- [11]
+								"Prayer of Shadow Protection", -- [12]
+								"Well Fed", -- [13]
+								"Moonkin Aura", -- [14]
 								"Concentration Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Fire Resistance Aura", -- [17]
-								"Greater Blessing of Kings", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Stoneskin", -- [20]
-								"Flametongue Totem", -- [21]
-								"Windfury Totem", -- [22]
-								"Strength of Earth", -- [23]
+								"Greater Blessing of Wisdom", -- [16]
+								"Water Shield", -- [17]
+								"Arcane Brilliance", -- [18]
+								"Devotion Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
 							["Valore"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Greater Blessing of Might", -- [3]
-								"Prayer of Spirit", -- [4]
-								"Prayer of Shadow Protection", -- [5]
-								"Arcane Brilliance", -- [6]
+								"Mark of the Wild", -- [1]
+								"Seal of Wisdom", -- [2]
+								"Blood Pact", -- [3]
+								"Leader of the Pack", -- [4]
+								"Fire Resistance Aura", -- [5]
+								"Retribution Aura", -- [6]
 								"Greater Blessing of Sanctuary", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Greater Blessing of Kings", -- [9]
-								"Well Fed", -- [10]
+								"Greater Blessing of Kings", -- [8]
+								"Moonkin Aura", -- [9]
+								"Greater Blessing of Wisdom", -- [10]
 								"Concentration Aura", -- [11]
-								"Blood Pact", -- [12]
-								"Devotion Aura", -- [13]
-								"Fire Resistance Aura", -- [14]
-								"Retribution Aura", -- [15]
-								"Flask of the Frost Wyrm", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Seal of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Stoneskin", -- [20]
-								"Flametongue Totem", -- [21]
+								"Power Word: Fortitude", -- [12]
+								"Divine Spirit", -- [13]
+								"Arcane Brilliance", -- [14]
+								"Flask of the Frost Wyrm", -- [15]
+								"Devotion Aura", -- [16]
+								"Greater Blessing of Might", -- [17]
+								"Wrath of Air Totem", -- [18]
+								"Stoneskin", -- [19]
+								"Flametongue Totem", -- [20]
+								"Horn of Winter", -- [21]
 								"Windfury Totem", -- [22]
 								"Strength of Earth", -- [23]
-								"Eye of the Broodmother", -- [24]
 							},
-							["Coolleen"] = {
+							["Selidar"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Blood Pact", -- [3]
+								"Retribution Aura", -- [4]
+								"Wyrmrest Champion", -- [5]
+								"Blood Presence", -- [6]
+								"Greater Blessing of Kings", -- [7]
+								"Fire Resistance Aura", -- [8]
+								"Greater Blessing of Sanctuary", -- [9]
+								"Prayer of Fortitude", -- [10]
+								"Prayer of Spirit", -- [11]
+								"Prayer of Shadow Protection", -- [12]
+								"Well Fed", -- [13]
+								"Greater Blessing of Might", -- [14]
+								"Moonkin Aura", -- [15]
+								"Concentration Aura", -- [16]
+								"Arcane Brilliance", -- [17]
+								"Wrath of Air Totem", -- [18]
+								"Stoneskin", -- [19]
+								"Flametongue Totem", -- [20]
+								"Horn of Winter", -- [21]
+								"Devotion Aura", -- [22]
+								"Windfury Totem", -- [23]
+								"Strength of Earth", -- [24]
+							},
+							["Bukthan"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Champion of the Kirin Tor", -- [3]
-								"Inner Fire", -- [4]
+								"Seal of Corruption", -- [2]
+								"Righteous Fury", -- [3]
+								"Devotion Aura", -- [4]
 								"Greater Blessing of Sanctuary", -- [5]
 								"Well Fed", -- [6]
 								"Prayer of Fortitude", -- [7]
-								"Arcane Brilliance", -- [8]
+								"Prayer of Spirit", -- [8]
 								"Prayer of Shadow Protection", -- [9]
-								"Prayer of Spirit", -- [10]
+								"Greater Blessing of Kings", -- [10]
 								"Greater Blessing of Wisdom", -- [11]
-								"Retribution Aura", -- [12]
-								"Concentration Aura", -- [13]
-								"Blood Pact", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Greater Blessing of Kings", -- [16]
-								"Wrath of Air Totem", -- [17]
-								"Stoneskin", -- [18]
-								"Flametongue Totem", -- [19]
-								"Flask of Pure Mojo", -- [20]
-								"Windfury Totem", -- [21]
-								"Strength of Earth", -- [22]
+								"Earth Shield", -- [12]
+								"Arcane Brilliance", -- [13]
+								"Horn of Winter", -- [14]
+								"Flask of Stoneblood", -- [15]
+								"Concentration Aura", -- [16]
+								"Leader of the Pack", -- [17]
+								"Greater Blessing of Might", -- [18]
+								"Moonkin Aura", -- [19]
+								"Fire Resistance Aura", -- [20]
+								"Retribution Aura", -- [21]
+								"Wrath of Air Totem", -- [22]
+								"Stoneskin", -- [23]
+								"Flametongue Totem", -- [24]
+								"Prayer of Mending", -- [25]
+								"Strength of Earth", -- [26]
 							},
 							["Lunastra"] = {
-								"Mark of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Greater Blessing of Kings", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Well Fed", -- [5]
-								"Flask of Endless Rage", -- [6]
-								"Aspect of the Dragonhawk", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Prayer of Shadow Protection", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Greater Blessing of Might", -- [13]
-								"Concentration Aura", -- [14]
-								"Blood Pact", -- [15]
-								"Fire Resistance Aura", -- [16]
-								"Devotion Aura", -- [17]
-								"Retribution Aura", -- [18]
-								"Sniper Training", -- [19]
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Blood Pact", -- [3]
+								"Aspect of the Dragonhawk", -- [4]
+								"Fire Resistance Aura", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Prayer of Shadow Protection", -- [8]
+								"Well Fed", -- [9]
+								"Greater Blessing of Sanctuary", -- [10]
+								"Moonkin Aura", -- [11]
+								"Greater Blessing of Wisdom", -- [12]
+								"Concentration Aura", -- [13]
+								"Greater Blessing of Kings", -- [14]
+								"Arcane Brilliance", -- [15]
+								"Horn of Winter", -- [16]
+								"Flask of Endless Rage", -- [17]
+								"Devotion Aura", -- [18]
+								"Greater Blessing of Might", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Retribution Aura", -- [23]
+							},
+							["Knytephal"] = {
+								"Gift of the Wild", -- [1]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Well Fed", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Greater Blessing of Sanctuary", -- [8]
+								"Prayer of Fortitude", -- [9]
+								"Prayer of Spirit", -- [10]
+								"Prayer of Shadow Protection", -- [11]
+								"Moonkin Aura", -- [12]
+								"Concentration Aura", -- [13]
+								"Arcane Brilliance", -- [14]
+								"Greater Blessing of Might", -- [15]
+								"Devotion Aura", -- [16]
+								"Flask of Endless Rage", -- [17]
+								"Stealth", -- [18]
+								"Overkill", -- [19]
 								"Wrath of Air Totem", -- [20]
 								"Stoneskin", -- [21]
 								"Flametongue Totem", -- [22]
 								"Windfury Totem", -- [23]
 								"Strength of Earth", -- [24]
+								"Horn of Winter", -- [25]
 							},
-							["Klurk"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Greater Blessing of Wisdom", -- [3]
-								"Prayer of Fortitude", -- [4]
-								"Well Fed", -- [5]
-								"Shadowform", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Champion of the Kirin Tor", -- [8]
-								"Inner Fire", -- [9]
+							["Rahz"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Blood Pact", -- [3]
+								"Retribution Aura", -- [4]
+								"Argent Champion", -- [5]
+								"Greater Blessing of Might", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Greater Blessing of Sanctuary", -- [8]
+								"Prayer of Fortitude", -- [9]
 								"Prayer of Spirit", -- [10]
-								"Retribution Aura", -- [11]
-								"Fire Resistance Aura", -- [12]
-								"Concentration Aura", -- [13]
-								"Blood Pact", -- [14]
-								"Arcane Brilliance", -- [15]
-								"Greater Blessing of Kings", -- [16]
-								"Wrath of Air Totem", -- [17]
-								"Stoneskin", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Strength of Earth", -- [21]
+								"Prayer of Shadow Protection", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Well Fed", -- [13]
+								"Moonkin Aura", -- [14]
+								"Concentration Aura", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Flask of Endless Rage", -- [17]
+								"Devotion Aura", -- [18]
+								"Stealth", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
 							["Alok"] = {
 								"Gift of the Wild", -- [1]
 								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Well Fed", -- [4]
-								"Greater Blessing of Kings", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Aspect of the Dragonhawk", -- [7]
+								"Retribution Aura", -- [3]
+								"Aspect of the Dragonhawk", -- [4]
+								"Greater Blessing of Might", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Sniper Training", -- [7]
 								"Prayer of Fortitude", -- [8]
-								"Arcane Brilliance", -- [9]
+								"Prayer of Spirit", -- [9]
 								"Prayer of Shadow Protection", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Greater Blessing of Might", -- [13]
-								"Blood Pact", -- [14]
-								"Retribution Aura", -- [15]
-								"Concentration Aura", -- [16]
-								"Fire Resistance Aura", -- [17]
-								"Sniper Training", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Stoneskin", -- [20]
+								"Well Fed", -- [11]
+								"Greater Blessing of Sanctuary", -- [12]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Greater Blessing of Kings", -- [16]
+								"Flask of Endless Rage", -- [17]
+								"Arcane Brilliance", -- [18]
+								"Devotion Aura", -- [19]
+								"Horn of Winter", -- [20]
 								"Windfury Totem", -- [21]
 								"Strength of Earth", -- [22]
 								"Flametongue Totem", -- [23]
 							},
 							["Ariaxx"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Fel Armor", -- [3]
-								"Well Fed", -- [4]
-								"Flask of the Frost Wyrm", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Greater Blessing of Wisdom", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Prayer of Shadow Protection", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Blood Pact", -- [14]
-								"Concentration Aura", -- [15]
-								"Retribution Aura", -- [16]
-								"Fire Resistance Aura", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Stoneskin", -- [19]
-								"Windfury Totem", -- [20]
-								"Strength of Earth", -- [21]
-								"Flametongue Totem", -- [22]
-							},
-							["Bukthan"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Greater Blessing of Might", -- [4]
-								"Well Fed", -- [5]
-								"Prayer of Spirit", -- [6]
-								"Prayer of Shadow Protection", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Righteous Fury", -- [11]
-								"Seal of Corruption", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Devotion Aura", -- [14]
-								"Earth Shield", -- [15]
-								"Concentration Aura", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Misdirection", -- [18]
-								"Beacon of Light", -- [19]
-								"Sacred Shield", -- [20]
-							},
-							["Riçkkëz"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Concentration Aura", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Well Fed", -- [5]
-								"Greater Blessing of Might", -- [6]
-								"Prayer of Spirit", -- [7]
-								"Prayer of Shadow Protection", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Flask of Endless Rage", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Retribution Aura", -- [13]
-								"Blood Pact", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Devotion Aura", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Stoneskin", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-								"Strength of Earth", -- [22]
-							},
-							["Morvien"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Well Fed", -- [4]
-								"Greater Blessing of Might", -- [5]
-								"Arcane Brilliance", -- [6]
-								"Prayer of Spirit", -- [7]
-								"Flask of Stoneblood", -- [8]
+								"Fel Armor", -- [2]
+								"Retribution Aura", -- [3]
+								"Blood Pact", -- [4]
+								"Leader of the Pack", -- [5]
+								"Argent Champion", -- [6]
+								"Greater Blessing of Kings", -- [7]
+								"Fire Resistance Aura", -- [8]
 								"Greater Blessing of Sanctuary", -- [9]
 								"Prayer of Fortitude", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Ebon Champion", -- [12]
-								"Righteous Fury", -- [13]
-								"Seal of Corruption", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Fire Resistance Aura", -- [16]
-								"Devotion Aura", -- [17]
-								"Retribution Aura", -- [18]
-								"Concentration Aura", -- [19]
-								"Blood Pact", -- [20]
-								"Greater Blessing of Wisdom", -- [21]
-								"Wrath of Air Totem", -- [22]
-								"Stoneskin", -- [23]
-								"Flametongue Totem", -- [24]
+								"Prayer of Spirit", -- [11]
+								"Prayer of Shadow Protection", -- [12]
+								"Well Fed", -- [13]
+								"Moonkin Aura", -- [14]
+								"Concentration Aura", -- [15]
+								"Greater Blessing of Wisdom", -- [16]
+								"Arcane Brilliance", -- [17]
+								"Flask of the Frost Wyrm", -- [18]
+								"Devotion Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
+							},
+							["Tairy"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Retribution Aura", -- [3]
+								"Water Shield", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Moonkin Aura", -- [11]
+								"Concentration Aura", -- [12]
+								"Greater Blessing of Wisdom", -- [13]
+								"Arcane Brilliance", -- [14]
+								"Focus Magic", -- [15]
+								"Flametongue Totem", -- [16]
+								"Blood Pact", -- [17]
+								"Devotion Aura", -- [18]
+								"Windfury Totem", -- [19]
+								"Strength of Earth", -- [20]
+							},
+							["Cleophus"] = {
+								"Gift of the Wild", -- [1]
+								"Retribution Aura", -- [2]
+								"Leader of the Pack", -- [3]
+								"Blood Pact", -- [4]
+								"Argent Champion", -- [5]
+								"Greater Blessing of Kings", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Well Fed", -- [11]
+								"Greater Blessing of Sanctuary", -- [12]
+								"Moonkin Aura", -- [13]
+								"Master Shapeshifter", -- [14]
+								"Moonkin Form", -- [15]
+								"Greater Blessing of Wisdom", -- [16]
+								"Concentration Aura", -- [17]
+								"Arcane Brilliance", -- [18]
+								"Devotion Aura", -- [19]
+								"Greater Blessing of Might", -- [20]
+								"Wrath of Air Totem", -- [21]
+								"Stoneskin", -- [22]
+								"Flametongue Totem", -- [23]
+								"Horn of Winter", -- [24]
 								"Windfury Totem", -- [25]
 								"Strength of Earth", -- [26]
 							},
+							["Morvien"] = {
+								"Gift of the Wild", -- [1]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Wyrmrest Champion", -- [5]
+								"Righteous Fury", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Fire Resistance Aura", -- [8]
+								"Prayer of Fortitude", -- [9]
+								"Prayer of Spirit", -- [10]
+								"Prayer of Shadow Protection", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Earth Shield", -- [17]
+								"Flask of Stoneblood", -- [18]
+								"Well Fed", -- [19]
+								"Greater Blessing of Might", -- [20]
+								"Devotion Aura", -- [21]
+								"Wrath of Air Totem", -- [22]
+								"Stoneskin", -- [23]
+								"Flametongue Totem", -- [24]
+								"Horn of Winter", -- [25]
+								"Windfury Totem", -- [26]
+								"Strength of Earth", -- [27]
+							},
 							["Keeneyes"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Aspect of the Dragonhawk", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Greater Blessing of Might", -- [5]
-								"Well Fed", -- [6]
-								"Flask of Endless Rage", -- [7]
-								"Greater Blessing of Kings", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Greater Blessing of Wisdom", -- [12]
-								"Prayer of Spirit", -- [13]
+								"Aspect of the Dragonhawk", -- [2]
+								"Blood Pact", -- [3]
+								"Leader of the Pack", -- [4]
+								"Retribution Aura", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Prayer of Spirit", -- [8]
+								"Prayer of Shadow Protection", -- [9]
+								"Well Fed", -- [10]
+								"Greater Blessing of Sanctuary", -- [11]
+								"Moonkin Aura", -- [12]
+								"Greater Blessing of Wisdom", -- [13]
 								"Concentration Aura", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Retribution Aura", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Stoneskin", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-								"Strength of Earth", -- [22]
-							},
-							["Wiltavian"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Greater Blessing of Might", -- [4]
-								"Greater Blessing of Wisdom", -- [5]
-								"Well Fed", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Prayer of Shadow Protection", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Water Shield", -- [13]
-								"Blood Pact", -- [14]
-								"Concentration Aura", -- [15]
-								"Retribution Aura", -- [16]
-								"Fire Resistance Aura", -- [17]
-								"Greater Blessing of Kings", -- [18]
+								"Greater Blessing of Kings", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Flask of Endless Rage", -- [17]
+								"Greater Blessing of Might", -- [18]
 								"Wrath of Air Totem", -- [19]
 								"Stoneskin", -- [20]
 								"Flametongue Totem", -- [21]
-								"Illustration of the Dragon Soul", -- [22]
-								"Windfury Totem", -- [23]
-								"Strength of Earth", -- [24]
+								"Horn of Winter", -- [22]
+								"Sniper Training", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
-							["Rarebird"] = {
+							["Wiltavian"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Champion of the Kirin Tor", -- [3]
-								"Focus Magic", -- [4]
-								"Molten Armor", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Greater Blessing of Wisdom", -- [9]
-								"Prayer of Shadow Protection", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Fire Resistance Aura", -- [12]
-								"Retribution Aura", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Concentration Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Wrath of Air Totem", -- [17]
-								"Stoneskin", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Strength of Earth", -- [21]
-							},
-							["Riverblade"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Greater Blessing of Might", -- [3]
-								"Well Fed", -- [4]
-								"Aspect of the Dragonhawk", -- [5]
-								"Greater Blessing of Kings", -- [6]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Fire Resistance Aura", -- [6]
 								"Greater Blessing of Sanctuary", -- [7]
 								"Prayer of Fortitude", -- [8]
-								"Arcane Brilliance", -- [9]
+								"Prayer of Spirit", -- [9]
 								"Prayer of Shadow Protection", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Prayer of Spirit", -- [12]
+								"Well Fed", -- [11]
+								"Moonkin Aura", -- [12]
 								"Concentration Aura", -- [13]
-								"Devotion Aura", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Retribution Aura", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Stoneskin", -- [19]
-								"Flametongue Totem", -- [20]
-								"Sniper Training", -- [21]
-								"Windfury Totem", -- [22]
-								"Strength of Earth", -- [23]
-								"Misdirection", -- [24]
+								"Water Shield", -- [14]
+								"Greater Blessing of Wisdom", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Flask of Pure Mojo", -- [17]
+								"Devotion Aura", -- [18]
+								"Wrath of Air Totem", -- [19]
+								"Stoneskin", -- [20]
+								"Flametongue Totem", -- [21]
+								"Horn of Winter", -- [22]
+								"Illustration of the Dragon Soul", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
 							["Shyzyhra"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Flask of the Frost Wyrm", -- [4]
-								"Focus Magic", -- [5]
-								"Molten Armor", -- [6]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Fire Resistance Aura", -- [6]
 								"Greater Blessing of Sanctuary", -- [7]
 								"Prayer of Fortitude", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Greater Blessing of Wisdom", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Prayer of Spirit", -- [12]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Well Fed", -- [11]
+								"Moonkin Aura", -- [12]
 								"Concentration Aura", -- [13]
-								"Blood Pact", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Retribution Aura", -- [16]
-								"Greater Blessing of Kings", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Stoneskin", -- [19]
-								"Windfury Totem", -- [20]
-								"Strength of Earth", -- [21]
-								"Flametongue Totem", -- [22]
-							},
-							["Silvanara"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Inner Fire", -- [3]
-								"Flask of the Frost Wyrm", -- [4]
-								"Well Fed", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Prayer of Shadow Protection", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Concentration Aura", -- [12]
-								"Fire Resistance Aura", -- [13]
-								"Blood Pact", -- [14]
-								"Retribution Aura", -- [15]
-								"Greater Blessing of Kings", -- [16]
+								"Greater Blessing of Wisdom", -- [14]
+								"Molten Armor", -- [15]
+								"Arcane Brilliance", -- [16]
 								"Wrath of Air Totem", -- [17]
 								"Stoneskin", -- [18]
-								"Windfury Totem", -- [19]
-								"Strength of Earth", -- [20]
-								"Flametongue Totem", -- [21]
+								"Flametongue Totem", -- [19]
+								"Horn of Winter", -- [20]
+								"Devotion Aura", -- [21]
 							},
-						},
-						["time"] = 1249869855,
-						["killed"] = true,
-					}, -- [1]
-				},
-			},
-			["Auriaya"] = {
-				["loots"] = {
-					{
-						["item"] = "|cffa335ee|Hitem:45440:0:0:0:0:0:0:1756630528:80|h[Amice of the Stoic Watch]|h|r",
-					}, -- [1]
-					{
-						["amount"] = 2,
-						["item"] = "|cffa335ee|Hitem:45434:0:0:0:0:0:0:1488195072:80|h[Greaves of the Rockmender]|h|r",
-						["who"] = "Morvien",
-					}, -- [2]
-					{
-						["item"] = "|cffa335ee|Hitem:45325:0:0:0:0:0:0:1219759616:80|h[Gloves of the Stonereaper]|h|r",
-					}, -- [3]
-				},
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Tarnaa", -- [2]
-							"Rarebird", -- [3]
-							"Keeneyes", -- [4]
-							"Silvanara", -- [5]
-							"Valsarius", -- [6]
-							"Alok", -- [7]
-							"Coolleen", -- [8]
-							"Riçkkëz", -- [9]
-							"Ariaxx", -- [10]
-							"Riverblade", -- [11]
-							"Elaini", -- [12]
-							"Morvien", -- [13]
-							"Lunastra", -- [14]
-							"Wiltavian", -- [15]
-							"Wholistic", -- [16]
-							"Klurk", -- [17]
-							"Valore", -- [18]
-							"Shyzyhra", -- [19]
-							"Knytephal", -- [20]
-							"Gylan", -- [21]
-							"Quilderaumo", -- [22]
-						},
-						["buffs"] = {
-							["Quilderaumo"] = {
+							["Saintclair"] = {
 								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Dire Bear Form", -- [4]
-								"Enrage", -- [5]
-								"Arcane Brilliance", -- [6]
+								"Well Fed", -- [2]
+								"Blood Pact", -- [3]
+								"Leader of the Pack", -- [4]
+								"Retribution Aura", -- [5]
+								"Fire Resistance Aura", -- [6]
 								"Prayer of Fortitude", -- [7]
 								"Prayer of Spirit", -- [8]
 								"Prayer of Shadow Protection", -- [9]
 								"Greater Blessing of Kings", -- [10]
-								"Concentration Aura", -- [11]
+								"Inner Fire", -- [11]
 								"Greater Blessing of Sanctuary", -- [12]
-								"Soulstone Resurrection", -- [13]
-								"Earth Shield", -- [14]
-								"Devotion Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Greater Blessing of Might", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Retribution Aura", -- [21]
-								"Shadow Resistance Aura", -- [22]
-								"Prayer of Mending", -- [23]
-							},
-							["Gylan"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Concentration Aura", -- [5]
-								"Arcane Brilliance", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Greater Blessing of Might", -- [8]
-								"Prayer of Spirit", -- [9]
-								"Prayer of Shadow Protection", -- [10]
-								"Greater Blessing of Kings", -- [11]
-								"Shadow Resistance Aura", -- [12]
-								"Devotion Aura", -- [13]
-								"Blood Pact", -- [14]
-								"Wrath of Air Totem", -- [15]
-								"Stealth", -- [16]
-								"Overkill", -- [17]
-								"Windfury Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Retribution Aura", -- [20]
-							},
-							["Elaini"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Well Fed", -- [4]
-								"Concentration Aura", -- [5]
-								"Retribution Aura", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Shadow Resistance Aura", -- [9]
-								"Greater Blessing of Wisdom", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Inner Fire", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Devotion Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-							},
-							["Tarnaa"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Concentration Aura", -- [5]
-								"Well Fed", -- [6]
-								"Arcane Brilliance", -- [7]
-								"Shadow Resistance Aura", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Greater Blessing of Might", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Devotion Aura", -- [14]
-								"Blood Pact", -- [15]
-								"Wrath of Air Totem", -- [16]
-								"Flametongue Totem", -- [17]
-								"Windfury Totem", -- [18]
-								"Retribution Aura", -- [19]
-							},
-							["Valsarius"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Greater Blessing of Might", -- [3]
-								"Greater Blessing of Wisdom", -- [4]
-								"Well Fed", -- [5]
-								"Seal of Corruption", -- [6]
-								"Retribution Aura", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Concentration Aura", -- [9]
-								"Flask of Endless Rage", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Shadow Resistance Aura", -- [12]
-								"Prayer of Fortitude", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Greater Blessing of Kings", -- [16]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Arcane Brilliance", -- [16]
 								"Devotion Aura", -- [17]
-								"Blood Pact", -- [18]
-								"Wrath of Air Totem", -- [19]
+								"Windfury Totem", -- [18]
+								"Strength of Earth", -- [19]
 								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-							},
-							["Wholistic"] = {
-								"Mark of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Champion of the Kirin Tor", -- [4]
-								"Concentration Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Shadow Resistance Aura", -- [8]
-								"Arcane Intellect", -- [9]
-								"Power Word: Fortitude", -- [10]
-								"Greater Blessing of Might", -- [11]
-								"Divine Spirit", -- [12]
-								"Well Fed", -- [13]
-								"Water Shield", -- [14]
-								"Blood Pact", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Wrath of Air Totem", -- [17]
-								"Greater Blessing of Sanctuary", -- [18]
-								"Greater Blessing of Kings", -- [19]
-								"Windfury Totem", -- [20]
-								"Flametongue Totem", -- [21]
-							},
-							["Valore"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Concentration Aura", -- [3]
-								"Devotion Aura", -- [4]
-								"Retribution Aura", -- [5]
-								"Arcane Brilliance", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Seal of Wisdom", -- [8]
-								"Shadow Resistance Aura", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Greater Blessing of Wisdom", -- [14]
-								"Greater Blessing of Might", -- [15]
-								"Well Fed", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Eye of the Broodmother", -- [21]
-							},
-							["Coolleen"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Champion of the Kirin Tor", -- [4]
-								"Concentration Aura", -- [5]
-								"Retribution Aura", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Shadow Resistance Aura", -- [9]
-								"Well Fed", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Prayer of Shadow Protection", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Devotion Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Windfury Totem", -- [19]
-								"Flametongue Totem", -- [20]
-							},
-							["Lunastra"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Well Fed", -- [5]
-								"Arcane Brilliance", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Prayer of Spirit", -- [9]
-								"Prayer of Shadow Protection", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Greater Blessing of Might", -- [13]
-								"Devotion Aura", -- [14]
-								"Aspect of the Dragonhawk", -- [15]
-								"Concentration Aura", -- [16]
-								"Sniper Training", -- [17]
-								"Blood Pact", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-								"Retribution Aura", -- [22]
-							},
-							["Knytephal"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Concentration Aura", -- [5]
-								"Well Fed", -- [6]
-								"Arcane Brilliance", -- [7]
-								"Shadow Resistance Aura", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Greater Blessing of Might", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Devotion Aura", -- [14]
-								"Blood Pact", -- [15]
-								"Stealth", -- [16]
-								"Overkill", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Windfury Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Retribution Aura", -- [21]
-							},
-							["Shyzyhra"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Molten Armor", -- [4]
-								"Greater Blessing of Sanctuary", -- [5]
-								"Focus Magic", -- [6]
-								"Well Fed", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Shadow Resistance Aura", -- [9]
-								"Greater Blessing of Wisdom", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Devotion Aura", -- [15]
-								"Concentration Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Retribution Aura", -- [21]
-							},
-							["Alok"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Greater Blessing of Might", -- [4]
-								"Greater Blessing of Sanctuary", -- [5]
-								"Greater Blessing of Kings", -- [6]
-								"Aspect of the Dragonhawk", -- [7]
-								"Flask of Endless Rage", -- [8]
-								"Devotion Aura", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Shadow Resistance Aura", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Prayer of Shadow Protection", -- [14]
-								"Greater Blessing of Wisdom", -- [15]
-								"Concentration Aura", -- [16]
-								"Sniper Training", -- [17]
-								"Blood Pact", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Flametongue Totem", -- [21]
-								"Retribution Aura", -- [22]
-							},
-							["Ariaxx"] = {
-								"Mark of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Concentration Aura", -- [4]
-								"Devotion Aura", -- [5]
-								"Retribution Aura", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Fel Armor", -- [8]
-								"Arcane Intellect", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Power Word: Fortitude", -- [11]
-								"Divine Spirit", -- [12]
-								"Blood Pact", -- [13]
-								"Greater Blessing of Wisdom", -- [14]
-								"Wrath of Air Totem", -- [15]
-								"Well Fed", -- [16]
-								"Greater Blessing of Sanctuary", -- [17]
-								"Greater Blessing of Kings", -- [18]
-								"Windfury Totem", -- [19]
-								"Flametongue Totem", -- [20]
-							},
-							["Riçkkëz"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Relentless Assault", -- [3]
-								"Power Word: Fortitude", -- [4]
-								"Greater Blessing of Wisdom", -- [5]
-								"Greater Blessing of Might", -- [6]
-								"Greater Blessing of Kings", -- [7]
-								"Concentration Aura", -- [8]
-								"Arcane Intellect", -- [9]
-								"Divine Spirit", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Seal of Corruption", -- [12]
-								"Devotion Aura", -- [13]
-								"Blood Pact", -- [14]
-								"Wrath of Air Totem", -- [15]
-								"Flametongue Totem", -- [16]
-								"Windfury Totem", -- [17]
-								"Retribution Aura", -- [18]
-								"Shadow Resistance Aura", -- [19]
-							},
-							["Bukthan"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Flask of Stoneblood", -- [4]
-								"Greater Blessing of Wisdom", -- [5]
-								"Righteous Fury", -- [6]
-								"Seal of Corruption", -- [7]
-								"Greater Blessing of Kings", -- [8]
-								"Devotion Aura", -- [9]
-								"Well Fed", -- [10]
-								"Greater Blessing of Might", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Concentration Aura", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Prayer of Fortitude", -- [15]
-								"Prayer of Spirit", -- [16]
-								"Prayer of Shadow Protection", -- [17]
-								"Retribution Aura", -- [18]
-								"Earth Shield", -- [19]
-								"Shadow Resistance Aura", -- [20]
-								"Blood Pact", -- [21]
-								"Wrath of Air Totem", -- [22]
-								"Windfury Totem", -- [23]
-								"Flametongue Totem", -- [24]
-								"Prayer of Mending", -- [25]
-								"Beacon of Light", -- [26]
-								"Renew", -- [27]
-								"Divine Plea", -- [28]
-								"Sacred Shield", -- [29]
-							},
-							["Klurk"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Inner Fire", -- [3]
-								"Champion of the Kirin Tor", -- [4]
-								"Flask of the Frost Wyrm", -- [5]
-								"Retribution Aura", -- [6]
-								"Concentration Aura", -- [7]
-								"Devotion Aura", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Shadow Resistance Aura", -- [11]
-								"Greater Blessing of Wisdom", -- [12]
-								"Prayer of Fortitude", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Greater Blessing of Kings", -- [16]
-								"Shadowform", -- [17]
-								"Well Fed", -- [18]
-								"World Enlarger", -- [19]
-								"Wrath of Air Totem", -- [20]
-								"Flametongue Totem", -- [21]
-								"Blood Pact", -- [22]
-								"Windfury Totem", -- [23]
-								"Fear Ward", -- [24]
-								"Illustration of the Dragon Soul", -- [25]
-								"Power Word: Shield", -- [26]
-							},
-							["Keeneyes"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Greater Blessing of Might", -- [3]
-								"Greater Blessing of Kings", -- [4]
-								"Aspect of the Dragonhawk", -- [5]
-								"Well Fed", -- [6]
-								"Flask of Endless Rage", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Devotion Aura", -- [9]
-								"Concentration Aura", -- [10]
-								"Retribution Aura", -- [11]
-								"Arcane Brilliance", -- [12]
-								"Shadow Resistance Aura", -- [13]
-								"Prayer of Fortitude", -- [14]
-								"Prayer of Spirit", -- [15]
-								"Prayer of Shadow Protection", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Blood Pact", -- [20]
-								"Windfury Totem", -- [21]
-								"Sniper Training", -- [22]
-							},
-							["Wiltavian"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Concentration Aura", -- [5]
-								"Well Fed", -- [6]
-								"Arcane Brilliance", -- [7]
-								"Shadow Resistance Aura", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Water Shield", -- [13]
-								"Devotion Aura", -- [14]
-								"Greater Blessing of Might", -- [15]
-								"Blood Pact", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Retribution Aura", -- [21]
-							},
-							["Rarebird"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Champion of the Kirin Tor", -- [3]
-								"Flask of the Frost Wyrm", -- [4]
-								"Focus Magic", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Concentration Aura", -- [7]
-								"Well Fed", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Shadow Resistance Aura", -- [10]
-								"Greater Blessing of Wisdom", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Prayer of Shadow Protection", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Devotion Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Windfury Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Retribution Aura", -- [21]
 							},
 							["Riverblade"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Aspect of the Dragonhawk", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Retribution Aura", -- [5]
-								"Arcane Brilliance", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Well Fed", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Greater Blessing of Wisdom", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Greater Blessing of Might", -- [14]
-								"Devotion Aura", -- [15]
-								"Concentration Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Sniper Training", -- [21]
-							},
-							["Morvien"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Flask of Stoneblood", -- [4]
-								"Ebon Champion", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Righteous Fury", -- [7]
-								"Concentration Aura", -- [8]
-								"Well Fed", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Shadow Resistance Aura", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Prayer of Shadow Protection", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Greater Blessing of Might", -- [17]
-								"Seal of Corruption", -- [18]
-								"Devotion Aura", -- [19]
-								"Blood Pact", -- [20]
-								"Wrath of Air Totem", -- [21]
-								"Flametongue Totem", -- [22]
-								"Windfury Totem", -- [23]
-								"Retribution Aura", -- [24]
-								"Prayer of Mending", -- [25]
-							},
-							["Silvanara"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Devotion Aura", -- [4]
-								"Well Fed", -- [5]
-								"Retribution Aura", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Shadow Resistance Aura", -- [9]
-								"Greater Blessing of Wisdom", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Inner Fire", -- [15]
-								"Concentration Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-							},
-						},
-						["time"] = 1249873745,
-						["killed"] = false,
-					}, -- [1]
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Tarnaa", -- [2]
-							"Rarebird", -- [3]
-							"Keeneyes", -- [4]
-							"Silvanara", -- [5]
-							"Valsarius", -- [6]
-							"Alok", -- [7]
-							"Coolleen", -- [8]
-							"Riçkkëz", -- [9]
-							"Ariaxx", -- [10]
-							"Riverblade", -- [11]
-							"Elaini", -- [12]
-							"Morvien", -- [13]
-							"Lunastra", -- [14]
-							"Wiltavian", -- [15]
-							"Wholistic", -- [16]
-							"Klurk", -- [17]
-							"Valore", -- [18]
-							"Shyzyhra", -- [19]
-							"Knytephal", -- [20]
-							"Gylan", -- [21]
-							"Quilderaumo", -- [22]
-						},
-						["buffs"] = {
-							["Quilderaumo"] = {
-								"Well Fed", -- [1]
-								"Gift of the Wild", -- [2]
-								"Elixir of Mighty Fortitude", -- [3]
-								"Guru's Elixir", -- [4]
-								"Thorns", -- [5]
-								"Leader of the Pack", -- [6]
-								"Dire Bear Form", -- [7]
-								"Concentration Aura", -- [8]
-								"Blood Pact", -- [9]
-								"Retribution Aura", -- [10]
-								"Devotion Aura", -- [11]
-								"Shadow Resistance Aura", -- [12]
-								"Greater Blessing of Sanctuary", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Prayer of Fortitude", -- [16]
-								"Prayer of Shadow Protection", -- [17]
-								"Prayer of Spirit", -- [18]
-								"Greater Blessing of Might", -- [19]
-								"Earth Shield", -- [20]
-								"Wrath of Air Totem", -- [21]
-								"Flametongue Totem", -- [22]
-								"Windfury Totem", -- [23]
-							},
-							["Gylan"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Retribution Aura", -- [5]
-								"Concentration Aura", -- [6]
-								"Devotion Aura", -- [7]
-								"Blood Pact", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Well Fed", -- [11]
-								"Greater Blessing of Might", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Prayer of Fortitude", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Prayer of Spirit", -- [16]
-								"Overkill", -- [17]
-								"Stealth", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-								"Tricks of the Trade", -- [22]
-							},
-							["Elaini"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Concentration Aura", -- [4]
-								"Retribution Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Well Fed", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Greater Blessing of Kings", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Inner Fire", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-							},
-							["Tarnaa"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Devotion Aura", -- [3]
-								"Retribution Aura", -- [4]
-								"Flask of Endless Rage", -- [5]
-								"Concentration Aura", -- [6]
-								"Blood Pact", -- [7]
-								"Shadow Resistance Aura", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Well Fed", -- [11]
-								"Greater Blessing of Might", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Prayer of Fortitude", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Prayer of Spirit", -- [16]
-								"Wrath of Air Totem", -- [17]
-								"Flametongue Totem", -- [18]
-								"Stealth", -- [19]
-								"Overkill", -- [20]
-								"Windfury Totem", -- [21]
-							},
-							["Valsarius"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Seal of Corruption", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Greater Blessing of Might", -- [6]
-								"Flask of Endless Rage", -- [7]
-								"Retribution Aura", -- [8]
-								"Shadow Resistance Aura", -- [9]
-								"Devotion Aura", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Concentration Aura", -- [12]
-								"Blood Pact", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Prayer of Fortitude", -- [15]
-								"Prayer of Shadow Protection", -- [16]
-								"Prayer of Spirit", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-							},
-							["Wholistic"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Devotion Aura", -- [3]
-								"Water Shield", -- [4]
-								"Retribution Aura", -- [5]
-								"Champion of the Kirin Tor", -- [6]
-								"Flask of the Frost Wyrm", -- [7]
-								"Concentration Aura", -- [8]
-								"Blood Pact", -- [9]
-								"Shadow Resistance Aura", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Arcane Brilliance", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Well Fed", -- [14]
-								"Greater Blessing of Might", -- [15]
-								"Prayer of Fortitude", -- [16]
-								"Prayer of Shadow Protection", -- [17]
-								"Prayer of Spirit", -- [18]
-								"Greater Blessing of Wisdom", -- [19]
-								"Wrath of Air Totem", -- [20]
-								"Flametongue Totem", -- [21]
-								"Windfury Totem", -- [22]
-							},
-							["Valore"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Concentration Aura", -- [3]
-								"Blood Pact", -- [4]
-								"Seal of Wisdom", -- [5]
-								"Shadow Resistance Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Devotion Aura", -- [8]
-								"Well Fed", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Greater Blessing of Might", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Prayer of Fortitude", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Prayer of Spirit", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Flask of the Frost Wyrm", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Eye of the Broodmother", -- [21]
-								"Windfury Totem", -- [22]
-							},
-							["Coolleen"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Champion of the Kirin Tor", -- [3]
-								"Flask of Pure Mojo", -- [4]
-								"Inner Fire", -- [5]
-								"Blood Pact", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Retribution Aura", -- [8]
-								"Concentration Aura", -- [9]
-								"Devotion Aura", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Arcane Brilliance", -- [12]
-								"Well Fed", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Prayer of Fortitude", -- [15]
-								"Prayer of Shadow Protection", -- [16]
-								"Prayer of Spirit", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-							},
-							["Lunastra"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Concentration Aura", -- [4]
-								"Retribution Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Well Fed", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Aspect of the Dragonhawk", -- [11]
-								"Greater Blessing of Might", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Prayer of Fortitude", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Prayer of Spirit", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Sniper Training", -- [18]
-								"Blood Pact", -- [19]
-								"Wrath of Air Totem", -- [20]
-								"Flametongue Totem", -- [21]
-								"Windfury Totem", -- [22]
-							},
-							["Knytephal"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Devotion Aura", -- [3]
-								"Retribution Aura", -- [4]
-								"Flask of Endless Rage", -- [5]
-								"Concentration Aura", -- [6]
-								"Blood Pact", -- [7]
-								"Shadow Resistance Aura", -- [8]
-								"Well Fed", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Greater Blessing of Might", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Prayer of Fortitude", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Prayer of Spirit", -- [16]
-								"Overkill", -- [17]
-								"Stealth", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-							},
-							["Shyzyhra"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Devotion Aura", -- [3]
-								"Retribution Aura", -- [4]
-								"Molten Armor", -- [5]
-								"Shadow Resistance Aura", -- [6]
-								"Flask of the Frost Wyrm", -- [7]
-								"Focus Magic", -- [8]
-								"Well Fed", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Prayer of Fortitude", -- [13]
-								"Prayer of Shadow Protection", -- [14]
-								"Prayer of Spirit", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Concentration Aura", -- [17]
-								"Blood Pact", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-							},
-							["Alok"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Concentration Aura", -- [4]
-								"Blood Pact", -- [5]
-								"Retribution Aura", -- [6]
-								"Devotion Aura", -- [7]
-								"Shadow Resistance Aura", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Greater Blessing of Might", -- [11]
-								"Well Fed", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Aspect of the Dragonhawk", -- [14]
-								"Prayer of Fortitude", -- [15]
-								"Prayer of Shadow Protection", -- [16]
-								"Prayer of Spirit", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Sniper Training", -- [21]
-								"Windfury Totem", -- [22]
-							},
-							["Ariaxx"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Fel Armor", -- [4]
-								"Blood Pact", -- [5]
-								"Concentration Aura", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Retribution Aura", -- [8]
-								"Devotion Aura", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Greater Blessing of Kings", -- [12]
-								"Prayer of Fortitude", -- [13]
-								"Prayer of Shadow Protection", -- [14]
-								"Prayer of Spirit", -- [15]
-								"Well Fed", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-							},
-							["Riçkkëz"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Relentless Assault", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Devotion Aura", -- [5]
-								"Retribution Aura", -- [6]
-								"Concentration Aura", -- [7]
-								"Blood Pact", -- [8]
-								"Well Fed", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Greater Blessing of Might", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Prayer of Fortitude", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Prayer of Spirit", -- [16]
-								"Seal of Corruption", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-							},
-							["Bukthan"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Seal of Corruption", -- [4]
-								"Retribution Aura", -- [5]
-								"Flask of Stoneblood", -- [6]
-								"Righteous Fury", -- [7]
-								"Devotion Aura", -- [8]
-								"Well Fed", -- [9]
-								"Concentration Aura", -- [10]
-								"Blood Pact", -- [11]
-								"Shadow Resistance Aura", -- [12]
-								"Greater Blessing of Sanctuary", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Greater Blessing of Might", -- [15]
-								"Greater Blessing of Kings", -- [16]
-								"Prayer of Fortitude", -- [17]
-								"Prayer of Shadow Protection", -- [18]
-								"Prayer of Spirit", -- [19]
-								"Greater Blessing of Wisdom", -- [20]
-								"Earth Shield", -- [21]
-								"Wrath of Air Totem", -- [22]
-								"Flametongue Totem", -- [23]
-								"Windfury Totem", -- [24]
-								"Prayer of Mending", -- [25]
-								"Renew", -- [26]
-								"Divine Plea", -- [27]
-								"Beacon of Light", -- [28]
-								"Sacred Shield", -- [29]
-							},
-							["Klurk"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Inner Fire", -- [3]
-								"Shadowform", -- [4]
-								"Champion of the Kirin Tor", -- [5]
-								"Flask of the Frost Wyrm", -- [6]
-								"Blood Pact", -- [7]
-								"Concentration Aura", -- [8]
-								"Retribution Aura", -- [9]
-								"Devotion Aura", -- [10]
-								"Shadow Resistance Aura", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Arcane Brilliance", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Prayer of Fortitude", -- [15]
-								"Prayer of Shadow Protection", -- [16]
-								"Prayer of Spirit", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-							},
-							["Keeneyes"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Aspect of the Dragonhawk", -- [4]
-								"Shadow Resistance Aura", -- [5]
-								"Retribution Aura", -- [6]
-								"Concentration Aura", -- [7]
-								"Devotion Aura", -- [8]
-								"Blood Pact", -- [9]
-								"Well Fed", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Greater Blessing of Might", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Prayer of Fortitude", -- [15]
-								"Prayer of Shadow Protection", -- [16]
-								"Prayer of Spirit", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Sniper Training", -- [21]
-								"Windfury Totem", -- [22]
-							},
-							["Wiltavian"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Retribution Aura", -- [5]
-								"Concentration Aura", -- [6]
-								"Devotion Aura", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Greater Blessing of Kings", -- [10]
-								"Greater Blessing of Might", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Greater Blessing of Wisdom", -- [15]
-								"Water Shield", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-								"Illustration of the Dragon Soul", -- [21]
-							},
-							["Rarebird"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Champion of the Kirin Tor", -- [3]
-								"Flask of the Frost Wyrm", -- [4]
-								"Concentration Aura", -- [5]
-								"Blood Pact", -- [6]
-								"Retribution Aura", -- [7]
-								"Devotion Aura", -- [8]
-								"Focus Magic", -- [9]
-								"Shadow Resistance Aura", -- [10]
-								"Well Fed", -- [11]
-								"Arcane Brilliance", -- [12]
-								"Greater Blessing of Sanctuary", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Prayer of Fortitude", -- [15]
-								"Prayer of Shadow Protection", -- [16]
-								"Prayer of Spirit", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Windfury Totem", -- [21]
-							},
-							["Riverblade"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Retribution Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Aspect of the Dragonhawk", -- [7]
-								"Concentration Aura", -- [8]
-								"Blood Pact", -- [9]
-								"Well Fed", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Greater Blessing of Might", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Prayer of Fortitude", -- [15]
-								"Prayer of Shadow Protection", -- [16]
-								"Prayer of Spirit", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Sniper Training", -- [21]
-								"Windfury Totem", -- [22]
-							},
-							["Morvien"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Ebon Champion", -- [4]
-								"Flask of Stoneblood", -- [5]
-								"Devotion Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Concentration Aura", -- [8]
-								"Blood Pact", -- [9]
-								"Righteous Fury", -- [10]
-								"Shadow Resistance Aura", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Arcane Brilliance", -- [13]
-								"Greater Blessing of Might", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Prayer of Fortitude", -- [16]
-								"Prayer of Shadow Protection", -- [17]
-								"Prayer of Spirit", -- [18]
-								"Greater Blessing of Wisdom", -- [19]
-								"Wrath of Air Totem", -- [20]
-								"Flametongue Totem", -- [21]
-								"Prayer of Mending", -- [22]
-								"Windfury Totem", -- [23]
-							},
-							["Silvanara"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Concentration Aura", -- [4]
-								"Retribution Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Well Fed", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Greater Blessing of Kings", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Inner Fire", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Blood Pact", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Windfury Totem", -- [20]
-							},
-						},
-						["time"] = 1249874472,
-						["killed"] = false,
-					}, -- [2]
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Tarnaa", -- [2]
-							"Rarebird", -- [3]
-							"Keeneyes", -- [4]
-							"Silvanara", -- [5]
-							"Valsarius", -- [6]
-							"Alok", -- [7]
-							"Coolleen", -- [8]
-							"Riçkkëz", -- [9]
-							"Ariaxx", -- [10]
-							"Riverblade", -- [11]
-							"Elaini", -- [12]
-							"Morvien", -- [13]
-							"Lunastra", -- [14]
-							"Wiltavian", -- [15]
-							"Wholistic", -- [16]
-							"Klurk", -- [17]
-							"Valore", -- [18]
-							"Shyzyhra", -- [19]
-							"Knytephal", -- [20]
-							"Gylan", -- [21]
-							"Quilderaumo", -- [22]
-						},
-						["buffs"] = {
-							["Quilderaumo"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Well Fed", -- [3]
-								"Leader of the Pack", -- [4]
-								"Dire Bear Form", -- [5]
-								"Prayer of Fortitude", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Concentration Aura", -- [8]
-								"Prayer of Spirit", -- [9]
-								"Blood Pact", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Retribution Aura", -- [12]
-								"Devotion Aura", -- [13]
-								"Greater Blessing of Sanctuary", -- [14]
-								"Arcane Brilliance", -- [15]
-								"Greater Blessing of Kings", -- [16]
-								"Greater Blessing of Might", -- [17]
-								"Earth Shield", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Prayer of Mending", -- [21]
-								"Renew", -- [22]
-							},
-							["Gylan"] = {
 								"Gift of the Wild", -- [1]
 								"Leader of the Pack", -- [2]
 								"Retribution Aura", -- [3]
-								"Concentration Aura", -- [4]
-								"Shadow Resistance Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Blood Pact", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Greater Blessing of Might", -- [12]
-								"Arcane Brilliance", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Wrath of Air Totem", -- [15]
-								"Flametongue Totem", -- [16]
-								"Stealth", -- [17]
-								"Overkill", -- [18]
-							},
-							["Elaini"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Shadow Resistance Aura", -- [3]
-								"Flask of Pure Mojo", -- [4]
-								"Concentration Aura", -- [5]
-								"Well Fed", -- [6]
-								"Devotion Aura", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Retribution Aura", -- [9]
-								"Blood Pact", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Inner Fire", -- [14]
-								"Arcane Brilliance", -- [15]
-								"Greater Blessing of Kings", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-								"Lightweave", -- [20]
-							},
-							["Tarnaa"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Concentration Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Blood Pact", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Greater Blessing of Might", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Well Fed", -- [16]
-								"Overkill", -- [17]
-								"Stealth", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-							},
-							["Valsarius"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Retribution Aura", -- [4]
-								"Shadow Resistance Aura", -- [5]
-								"Concentration Aura", -- [6]
-								"Devotion Aura", -- [7]
-								"Blood Pact", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Arcane Brilliance", -- [13]
-								"Greater Blessing of Might", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Seal of Corruption", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-							},
-							["Wholistic"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Champion of the Kirin Tor", -- [3]
-								"Flask of the Frost Wyrm", -- [4]
-								"Shadow Resistance Aura", -- [5]
-								"Concentration Aura", -- [6]
-								"Devotion Aura", -- [7]
-								"Retribution Aura", -- [8]
-								"Blood Pact", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Arcane Brilliance", -- [15]
-								"Well Fed", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Water Shield", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-							},
-							["Valore"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Shadow Resistance Aura", -- [3]
-								"Flask of the Frost Wyrm", -- [4]
-								"Concentration Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Blood Pact", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Well Fed", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Greater Blessing of Might", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Greater Blessing of Kings", -- [17]
-								"Seal of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Avenging Wrath", -- [21]
-							},
-							["Coolleen"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Inner Fire", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Champion of the Kirin Tor", -- [5]
-								"Flask of Pure Mojo", -- [6]
-								"Concentration Aura", -- [7]
-								"Devotion Aura", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Retribution Aura", -- [10]
-								"Blood Pact", -- [11]
-								"Well Fed", -- [12]
-								"Prayer of Fortitude", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Arcane Brilliance", -- [16]
-								"Greater Blessing of Kings", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-							},
-							["Lunastra"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Devotion Aura", -- [4]
-								"Shadow Resistance Aura", -- [5]
-								"Concentration Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Blood Pact", -- [8]
+								"Aspect of the Dragonhawk", -- [4]
+								"Fire Resistance Aura", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Prayer of Shadow Protection", -- [8]
 								"Well Fed", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Greater Blessing of Sanctuary", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Greater Blessing of Might", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Aspect of the Dragonhawk", -- [17]
-								"Sniper Training", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-							},
-							["Knytephal"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Shadow Resistance Aura", -- [3]
-								"Flask of Endless Rage", -- [4]
-								"Concentration Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Blood Pact", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Greater Blessing of Might", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Well Fed", -- [16]
-								"Overkill", -- [17]
-								"Stealth", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-								"Tricks of the Trade", -- [21]
-							},
-							["Shyzyhra"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Molten Armor", -- [5]
-								"Concentration Aura", -- [6]
-								"Focus Magic", -- [7]
-								"Devotion Aura", -- [8]
-								"Retribution Aura", -- [9]
-								"Blood Pact", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Well Fed", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Prayer of Shadow Protection", -- [14]
-								"Greater Blessing of Sanctuary", -- [15]
-								"Arcane Brilliance", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Greater Blessing of Kings", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-							},
-							["Alok"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Devotion Aura", -- [4]
-								"Shadow Resistance Aura", -- [5]
-								"Concentration Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Blood Pact", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Arcane Brilliance", -- [13]
-								"Greater Blessing of Might", -- [14]
-								"Greater Blessing of Wisdom", -- [15]
-								"Aspect of the Dragonhawk", -- [16]
-								"Well Fed", -- [17]
-								"Sniper Training", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-							},
-							["Ariaxx"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Blood Pact", -- [4]
-								"Retribution Aura", -- [5]
-								"Shadow Resistance Aura", -- [6]
-								"Devotion Aura", -- [7]
-								"Concentration Aura", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Well Fed", -- [15]
-								"Fel Armor", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-							},
-							["Riçkkëz"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Relentless Assault", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Concentration Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Blood Pact", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Well Fed", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Greater Blessing of Might", -- [15]
-								"Greater Blessing of Kings", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
-							},
-							["Bukthan"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Flask of Stoneblood", -- [4]
-								"Devotion Aura", -- [5]
-								"Seal of Corruption", -- [6]
-								"Shadow Resistance Aura", -- [7]
-								"Concentration Aura", -- [8]
-								"Retribution Aura", -- [9]
-								"Well Fed", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Righteous Fury", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Greater Blessing of Sanctuary", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Arcane Brilliance", -- [16]
+								"Greater Blessing of Sanctuary", -- [10]
+								"Moonkin Aura", -- [11]
+								"Greater Blessing of Wisdom", -- [12]
+								"Concentration Aura", -- [13]
+								"Greater Blessing of Kings", -- [14]
+								"Arcane Brilliance", -- [15]
+								"Devotion Aura", -- [16]
 								"Greater Blessing of Might", -- [17]
-								"Greater Blessing of Kings", -- [18]
-								"Greater Blessing of Wisdom", -- [19]
-								"Blood Pact", -- [20]
-								"Wrath of Air Totem", -- [21]
-								"Flametongue Totem", -- [22]
-								"Beacon of Light", -- [23]
-								"Sacred Shield", -- [24]
-								"Divine Plea", -- [25]
-								"Earth Shield", -- [26]
-							},
-							["Klurk"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Shadow Resistance Aura", -- [3]
-								"Inner Fire", -- [4]
-								"Shadowform", -- [5]
-								"Champion of the Kirin Tor", -- [6]
-								"Concentration Aura", -- [7]
-								"Devotion Aura", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Retribution Aura", -- [10]
-								"Blood Pact", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Prayer of Shadow Protection", -- [14]
-								"Arcane Brilliance", -- [15]
-								"Greater Blessing of Kings", -- [16]
-								"Well Fed", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Flask of the Frost Wyrm", -- [19]
-								"Wrath of Air Totem", -- [20]
-								"Flametongue Totem", -- [21]
-							},
-							["Keeneyes"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Devotion Aura", -- [4]
-								"Concentration Aura", -- [5]
-								"Shadow Resistance Aura", -- [6]
-								"Retribution Aura", -- [7]
-								"Well Fed", -- [8]
-								"Prayer of Fortitude", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Arcane Brilliance", -- [13]
-								"Greater Blessing of Might", -- [14]
-								"Greater Blessing of Wisdom", -- [15]
-								"Wrath of Air Totem", -- [16]
-								"Flametongue Totem", -- [17]
-								"Blood Pact", -- [18]
-								"Sniper Training", -- [19]
-							},
-							["Wiltavian"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Retribution Aura", -- [4]
-								"Devotion Aura", -- [5]
-								"Shadow Resistance Aura", -- [6]
-								"Concentration Aura", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Blood Pact", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Prayer of Spirit", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Arcane Brilliance", -- [14]
-								"Well Fed", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Wrath of Air Totem", -- [17]
-								"Flametongue Totem", -- [18]
-								"Water Shield", -- [19]
-								"Illustration of the Dragon Soul", -- [20]
-							},
-							["Rarebird"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Shadow Resistance Aura", -- [3]
-								"Champion of the Kirin Tor", -- [4]
-								"Flask of the Frost Wyrm", -- [5]
-								"Concentration Aura", -- [6]
-								"Devotion Aura", -- [7]
-								"Focus Magic", -- [8]
-								"Retribution Aura", -- [9]
-								"Blood Pact", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Greater Blessing of Sanctuary", -- [14]
-								"Arcane Brilliance", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Greater Blessing of Kings", -- [17]
-								"Well Fed", -- [18]
-								"Molten Armor", -- [19]
-								"Wrath of Air Totem", -- [20]
-								"Flametongue Totem", -- [21]
-							},
-							["Riverblade"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Aspect of the Dragonhawk", -- [3]
-								"Flask of Endless Rage", -- [4]
-								"Shadow Resistance Aura", -- [5]
-								"Concentration Aura", -- [6]
-								"Devotion Aura", -- [7]
-								"Retribution Aura", -- [8]
-								"Blood Pact", -- [9]
-								"Well Fed", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Greater Blessing of Sanctuary", -- [14]
-								"Arcane Brilliance", -- [15]
-								"Greater Blessing of Might", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
 								"Sniper Training", -- [18]
-								"Wrath of Air Totem", -- [19]
-								"Flametongue Totem", -- [20]
-							},
-							["Morvien"] = {
-								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
-								"Leader of the Pack", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Ebon Champion", -- [5]
-								"Flask of Stoneblood", -- [6]
-								"Concentration Aura", -- [7]
-								"Devotion Aura", -- [8]
-								"Retribution Aura", -- [9]
-								"Blood Pact", -- [10]
-								"Righteous Fury", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Greater Blessing of Sanctuary", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Arcane Brilliance", -- [16]
-								"Greater Blessing of Might", -- [17]
-								"Greater Blessing of Kings", -- [18]
-								"Greater Blessing of Wisdom", -- [19]
-								"Wrath of Air Totem", -- [20]
+								"Windfury Totem", -- [19]
+								"Strength of Earth", -- [20]
 								"Flametongue Totem", -- [21]
-								"Prayer of Mending", -- [22]
-								"Seal of Corruption", -- [23]
+								"Horn of Winter", -- [22]
 							},
 							["Silvanara"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Shadow Resistance Aura", -- [4]
-								"Concentration Aura", -- [5]
-								"Devotion Aura", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Retribution Aura", -- [8]
+								"Retribution Aura", -- [2]
+								"Greater Blessing of Kings", -- [3]
+								"Fire Resistance Aura", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Prayer of Shadow Protection", -- [8]
 								"Well Fed", -- [9]
-								"Blood Pact", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Inner Fire", -- [14]
+								"Flask of Pure Mojo", -- [10]
+								"Inner Fire", -- [11]
+								"Moonkin Aura", -- [12]
+								"Greater Blessing of Wisdom", -- [13]
+								"Concentration Aura", -- [14]
 								"Arcane Brilliance", -- [15]
-								"Greater Blessing of Kings", -- [16]
-								"Greater Blessing of Wisdom", -- [17]
-								"Wrath of Air Totem", -- [18]
-								"Flametongue Totem", -- [19]
+								"Horn of Winter", -- [16]
+								"Leader of the Pack", -- [17]
+								"Windfury Totem", -- [18]
+								"Strength of Earth", -- [19]
+								"Flametongue Totem", -- [20]
 							},
 						},
-						["time"] = 1249875218,
+						["time"] = 1250041187,
 						["killed"] = true,
-					}, -- [3]
+					}, -- [1]
 				},
 			},
-			["Kologarn"] = {
+			["Lord Jaraxus"] = {
 				["loots"] = {
 					{
-						["amount"] = 22,
-						["item"] = "|cffa335ee|Hitem:45263:0:0:0:0:0:0:799970496:80|h[Wrathstone]|h|r",
-						["who"] = "Tarnaa",
-					}, -- [1]
+						["amount"] = 10,
+						["item"] = "|cffa335ee|Hitem:47277:0:0:0:0:0:0:-1480424576:80|h[Bindings of the Autumn Willow]|h|r",
+						["who"] = "Cleophus",
+					}, -- [5]
 					{
-						["amount"] = 110,
-						["item"] = "|cffa335ee|Hitem:45272:0:0:0:0:0:0:1336841408:80|h[Robes of the Umbral Brute]|h|r",
-						["who"] = "Klurk",
-					}, -- [2]
+						["amount"] = 17,
+						["item"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:-1211989120:80|h[Trophy of the Crusade]|h|r",
+						["who"] = "Keeneyes",
+					}, -- [6]
 					{
-						["item"] = "|cffa335ee|Hitem:45266:0:0:0:0:0:0:1068405952:80|h[Malice]|h|r",
-					}, -- [3]
+						["amount"] = 10,
+						["item"] = "|cffa335ee|Hitem:47273:0:0:0:0:0:0:-1748860032:80|h[Legplates of Feverish Dedication]|h|r",
+						["who"] = "Bukthan",
+					}, -- [7]
+					{
+						["amount"] = 11,
+						["item"] = "|cffa335ee|Hitem:47270:0:0:0:0:0:0:-2017295488:80|h[Vest of Calamitous Fate]|h|r",
+						["who"] = "Rahz",
+					}, -- [8]
 				},
 				["attempts"] = {
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Tarnaa", -- [2]
-							"Rarebird", -- [3]
-							"Keeneyes", -- [4]
-							"Silvanara", -- [5]
-							"Valsarius", -- [6]
-							"Shyzyhra", -- [7]
-							"Alok", -- [8]
-							"Coolleen", -- [9]
-							"Riçkkëz", -- [10]
-							"Ariaxx", -- [11]
-							"Riverblade", -- [12]
-							"Elaini", -- [13]
-							"Knytephal", -- [14]
-							"Wiltavian", -- [15]
-							"Lunastra", -- [16]
-							"Wholistic", -- [17]
-							"Morvien", -- [18]
-							"Klurk", -- [19]
-							"Valore", -- [20]
-							"Gylan", -- [21]
-							"Quilderaumo", -- [22]
+							"Ariaxx", -- [2]
+							"Rahz", -- [3]
+							"Cleophus", -- [4]
+							"Gylan", -- [5]
+							"Lunastra", -- [6]
+							"Wholistic", -- [7]
+							"Keeneyes", -- [8]
+							"Elaini", -- [9]
+							"Selidar", -- [10]
+							"Valsarius", -- [11]
+							"Alok", -- [12]
+							"Knytephal", -- [13]
+							"Vrisha", -- [14]
+							"Riverblade", -- [15]
+							"Valore", -- [16]
+							"Silvanara", -- [17]
+							"Wiltavian", -- [18]
+							"Morvien", -- [19]
+							"Shyzyhra", -- [20]
+							"Tairy", -- [21]
+							"Saintclair", -- [22]
+							"Tarnaa", -- [23]
+							"Rumbler", -- [24]
+							"Quilderaumo", -- [25]
 						},
 						["buffs"] = {
 							["Quilderaumo"] = {
 								"Thorns", -- [1]
-								"Gift of the Wild", -- [2]
-								"Leader of the Pack", -- [3]
-								"Dire Bear Form", -- [4]
-								"Enrage", -- [5]
-								"Soulstone Resurrection", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Devotion Aura", -- [8]
-								"Fire Resistance Aura", -- [9]
-								"Greater Blessing of Kings", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Greater Blessing of Might", -- [15]
-								"Earth Shield", -- [16]
-								"Concentration Aura", -- [17]
+								"Dire Bear Form", -- [2]
+								"Enrage", -- [3]
+								"Gift of the Wild", -- [4]
+								"Leader of the Pack", -- [5]
+								"Greater Blessing of Kings", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Greater Blessing of Sanctuary", -- [11]
+								"Moonkin Aura", -- [12]
+								"Greater Blessing of Wisdom", -- [13]
+								"Concentration Aura", -- [14]
+								"Arcane Brilliance", -- [15]
+								"Soulstone Resurrection", -- [16]
+								"Devotion Aura", -- [17]
 								"Retribution Aura", -- [18]
-								"Blood Pact", -- [19]
+								"Greater Blessing of Might", -- [19]
+								"Blood Pact", -- [20]
+								"Wrath of Air Totem", -- [21]
+								"Stoneskin", -- [22]
+								"Flametongue Totem", -- [23]
+								"Horn of Winter", -- [24]
+								"Windfury Totem", -- [25]
+								"Strength of Earth", -- [26]
 							},
 							["Gylan"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Concentration Aura", -- [3]
-								"Fire Resistance Aura", -- [4]
-								"Greater Blessing of Might", -- [5]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Fire Resistance Aura", -- [5]
 								"Greater Blessing of Sanctuary", -- [6]
-								"Greater Blessing of Kings", -- [7]
-								"Flask of Endless Rage", -- [8]
-								"Arcane Brilliance", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Blood Pact", -- [13]
-								"Devotion Aura", -- [14]
-								"Retribution Aura", -- [15]
-								"Overkill", -- [16]
+								"Prayer of Fortitude", -- [7]
+								"Prayer of Spirit", -- [8]
+								"Prayer of Shadow Protection", -- [9]
+								"Greater Blessing of Kings", -- [10]
+								"Moonkin Aura", -- [11]
+								"Concentration Aura", -- [12]
+								"Arcane Brilliance", -- [13]
+								"Greater Blessing of Might", -- [14]
+								"Overkill", -- [15]
+								"Horn of Winter", -- [16]
 								"Stealth", -- [17]
+								"Wrath of Air Totem", -- [18]
+								"Stoneskin", -- [19]
+								"Flametongue Totem", -- [20]
+								"Devotion Aura", -- [21]
+								"Windfury Totem", -- [22]
+								"Strength of Earth", -- [23]
+							},
+							["Rumbler"] = {
+								"Gift of the Wild", -- [1]
+								"Blood Presence", -- [2]
+								"Blood Pact", -- [3]
+								"Leader of the Pack", -- [4]
+								"Retribution Aura", -- [5]
+								"Greater Blessing of Kings", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Greater Blessing of Sanctuary", -- [8]
+								"Prayer of Fortitude", -- [9]
+								"Prayer of Spirit", -- [10]
+								"Prayer of Shadow Protection", -- [11]
+								"Well Fed", -- [12]
+								"Mighty Strength", -- [13]
+								"Greater Blessing of Might", -- [14]
+								"Moonkin Aura", -- [15]
+								"Concentration Aura", -- [16]
+								"Arcane Brilliance", -- [17]
+								"Bone Shield", -- [18]
+								"Devotion Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
 							["Elaini"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
 								"Retribution Aura", -- [4]
-								"Arcane Brilliance", -- [5]
-								"Well Fed", -- [6]
-								"Prayer of Fortitude", -- [7]
-								"Prayer of Shadow Protection", -- [8]
-								"Greater Blessing of Wisdom", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Inner Fire", -- [12]
-								"Concentration Aura", -- [13]
-								"Blood Pact", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Devotion Aura", -- [16]
-								"Greater Blessing of Kings", -- [17]
-								"Holy Concentration", -- [18]
+								"Recruit", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Inner Fire", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Well Fed", -- [16]
+								"Flask of Pure Mojo", -- [17]
+								"Arcane Brilliance", -- [18]
+								"Devotion Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
 							["Tarnaa"] = {
 								"Gift of the Wild", -- [1]
 								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Concentration Aura", -- [4]
-								"Greater Blessing of Sanctuary", -- [5]
-								"Greater Blessing of Might", -- [6]
-								"Greater Blessing of Kings", -- [7]
-								"Flask of Endless Rage", -- [8]
-								"Blood Pact", -- [9]
-								"Alchemist's Stone", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Prayer of Fortitude", -- [12]
+								"Fire Resistance Aura", -- [3]
+								"Greater Blessing of Sanctuary", -- [4]
+								"Prayer of Fortitude", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Shadow Protection", -- [7]
+								"Greater Blessing of Kings", -- [8]
+								"Greater Blessing of Might", -- [9]
+								"Moonkin Aura", -- [10]
+								"Concentration Aura", -- [11]
+								"Arcane Brilliance", -- [12]
+								"Well Fed", -- [13]
+								"Flask of Endless Rage", -- [14]
+								"Horn of Winter", -- [15]
+								"Stealth", -- [16]
+								"Overkill", -- [17]
+								"Devotion Aura", -- [18]
+								"Retribution Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Blood Pact", -- [23]
+							},
+							["Vrisha"] = {
+								"Leader of the Pack", -- [1]
+								"Cat Form", -- [2]
+								"Thorns", -- [3]
+								"Gift of the Wild", -- [4]
+								"Blood Pact", -- [5]
+								"Master Shapeshifter", -- [6]
+								"Retribution Aura", -- [7]
+								"Ebon Champion", -- [8]
+								"Greater Blessing of Kings", -- [9]
+								"Fire Resistance Aura", -- [10]
+								"Prayer of Fortitude", -- [11]
+								"Prayer of Spirit", -- [12]
 								"Prayer of Shadow Protection", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Devotion Aura", -- [16]
-								"Retribution Aura", -- [17]
+								"Well Fed", -- [14]
+								"Greater Blessing of Sanctuary", -- [15]
+								"Moonkin Aura", -- [16]
+								"Greater Blessing of Wisdom", -- [17]
+								"Concentration Aura", -- [18]
+								"Arcane Brilliance", -- [19]
+								"Flask of Endless Rage", -- [20]
+								"Greater Blessing of Might", -- [21]
+								"Wrath of Air Totem", -- [22]
+								"Stoneskin", -- [23]
+								"Flametongue Totem", -- [24]
+								"Horn of Winter", -- [25]
+								"Devotion Aura", -- [26]
+								"Windfury Totem", -- [27]
+								"Strength of Earth", -- [28]
 							},
 							["Valsarius"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Endless Rage", -- [3]
-								"Concentration Aura", -- [4]
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Blood Pact", -- [3]
+								"Seal of Corruption", -- [4]
 								"Retribution Aura", -- [5]
-								"Blood Pact", -- [6]
-								"Greater Blessing of Might", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Greater Blessing of Wisdom", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Greater Blessing of Kings", -- [14]
-								"Well Fed", -- [15]
-								"Seal of Corruption", -- [16]
-								"Fire Resistance Aura", -- [17]
+								"Greater Blessing of Sanctuary", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Well Fed", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Greater Blessing of Might", -- [17]
 								"Devotion Aura", -- [18]
+								"Wrath of Air Totem", -- [19]
+								"Stoneskin", -- [20]
+								"Flametongue Totem", -- [21]
+								"Horn of Winter", -- [22]
+								"Windfury Totem", -- [23]
+								"Strength of Earth", -- [24]
 							},
 							["Wholistic"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
+								"Champion of the Kirin Tor", -- [2]
 								"Flask of the Frost Wyrm", -- [3]
-								"Champion of the Kirin Tor", -- [4]
-								"Retribution Aura", -- [5]
-								"Greater Blessing of Kings", -- [6]
-								"Arcane Brilliance", -- [7]
-								"Prayer of Fortitude", -- [8]
-								"Greater Blessing of Wisdom", -- [9]
-								"Prayer of Shadow Protection", -- [10]
-								"Greater Blessing of Sanctuary", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Greater Blessing of Might", -- [13]
-								"Well Fed", -- [14]
+								"Blood Pact", -- [4]
+								"Leader of the Pack", -- [5]
+								"Retribution Aura", -- [6]
+								"Greater Blessing of Kings", -- [7]
+								"Fire Resistance Aura", -- [8]
+								"Greater Blessing of Sanctuary", -- [9]
+								"Prayer of Fortitude", -- [10]
+								"Prayer of Spirit", -- [11]
+								"Prayer of Shadow Protection", -- [12]
+								"Well Fed", -- [13]
+								"Moonkin Aura", -- [14]
 								"Concentration Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Devotion Aura", -- [17]
-								"Fire Resistance Aura", -- [18]
-								"Water Shield", -- [19]
+								"Greater Blessing of Wisdom", -- [16]
+								"Water Shield", -- [17]
+								"Arcane Brilliance", -- [18]
+								"Devotion Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
 							["Valore"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Flask of the Frost Wyrm", -- [4]
-								"Seal of Wisdom", -- [5]
-								"Greater Blessing of Might", -- [6]
+								"Mark of the Wild", -- [1]
+								"Seal of Wisdom", -- [2]
+								"Blood Pact", -- [3]
+								"Leader of the Pack", -- [4]
+								"Fire Resistance Aura", -- [5]
+								"Retribution Aura", -- [6]
 								"Greater Blessing of Sanctuary", -- [7]
 								"Greater Blessing of Kings", -- [8]
-								"Concentration Aura", -- [9]
-								"Fire Resistance Aura", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Greater Blessing of Wisdom", -- [14]
-								"Prayer of Spirit", -- [15]
-								"Blood Pact", -- [16]
-								"Devotion Aura", -- [17]
-								"Retribution Aura", -- [18]
+								"Moonkin Aura", -- [9]
+								"Greater Blessing of Wisdom", -- [10]
+								"Concentration Aura", -- [11]
+								"Power Word: Fortitude", -- [12]
+								"Divine Spirit", -- [13]
+								"Arcane Brilliance", -- [14]
+								"Flask of the Frost Wyrm", -- [15]
+								"Devotion Aura", -- [16]
+								"Greater Blessing of Might", -- [17]
+								"Wrath of Air Totem", -- [18]
+								"Stoneskin", -- [19]
+								"Flametongue Totem", -- [20]
+								"Horn of Winter", -- [21]
+								"Windfury Totem", -- [22]
+								"Strength of Earth", -- [23]
 							},
-							["Coolleen"] = {
+							["Selidar"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Blood Pact", -- [3]
+								"Retribution Aura", -- [4]
+								"Wyrmrest Champion", -- [5]
+								"Blood Presence", -- [6]
+								"Greater Blessing of Kings", -- [7]
+								"Fire Resistance Aura", -- [8]
+								"Greater Blessing of Sanctuary", -- [9]
+								"Prayer of Fortitude", -- [10]
+								"Prayer of Spirit", -- [11]
+								"Prayer of Shadow Protection", -- [12]
+								"Well Fed", -- [13]
+								"Greater Blessing of Might", -- [14]
+								"Moonkin Aura", -- [15]
+								"Concentration Aura", -- [16]
+								"Arcane Brilliance", -- [17]
+								"Wrath of Air Totem", -- [18]
+								"Stoneskin", -- [19]
+								"Flametongue Totem", -- [20]
+								"Horn of Winter", -- [21]
+								"Devotion Aura", -- [22]
+								"Windfury Totem", -- [23]
+								"Strength of Earth", -- [24]
+							},
+							["Bukthan"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Champion of the Kirin Tor", -- [4]
-								"Concentration Aura", -- [5]
-								"Blood Pact", -- [6]
-								"Arcane Brilliance", -- [7]
-								"Prayer of Fortitude", -- [8]
+								"Seal of Corruption", -- [2]
+								"Righteous Fury", -- [3]
+								"Devotion Aura", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Well Fed", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Prayer of Spirit", -- [8]
 								"Prayer of Shadow Protection", -- [9]
-								"Prayer of Spirit", -- [10]
-								"Inner Fire", -- [11]
-								"Greater Blessing of Sanctuary", -- [12]
-								"Retribution Aura", -- [13]
-								"Devotion Aura", -- [14]
-								"Fire Resistance Aura", -- [15]
-								"Greater Blessing of Wisdom", -- [16]
-								"Greater Blessing of Kings", -- [17]
+								"Greater Blessing of Kings", -- [10]
+								"Greater Blessing of Wisdom", -- [11]
+								"Earth Shield", -- [12]
+								"Arcane Brilliance", -- [13]
+								"Horn of Winter", -- [14]
+								"Flask of Stoneblood", -- [15]
+								"Concentration Aura", -- [16]
+								"Leader of the Pack", -- [17]
+								"Greater Blessing of Might", -- [18]
+								"Moonkin Aura", -- [19]
+								"Fire Resistance Aura", -- [20]
+								"Retribution Aura", -- [21]
+								"Wrath of Air Totem", -- [22]
+								"Stoneskin", -- [23]
+								"Flametongue Totem", -- [24]
+								"Prayer of Mending", -- [25]
+								"Strength of Earth", -- [26]
 							},
 							["Lunastra"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Fire Resistance Aura", -- [3]
-								"Greater Blessing of Wisdom", -- [4]
-								"Flask of Endless Rage", -- [5]
-								"Concentration Aura", -- [6]
-								"Greater Blessing of Might", -- [7]
-								"Greater Blessing of Sanctuary", -- [8]
-								"Greater Blessing of Kings", -- [9]
-								"Aspect of the Dragonhawk", -- [10]
-								"Well Fed", -- [11]
-								"Devotion Aura", -- [12]
-								"Arcane Brilliance", -- [13]
-								"Prayer of Fortitude", -- [14]
-								"Prayer of Shadow Protection", -- [15]
-								"Prayer of Spirit", -- [16]
-								"Retribution Aura", -- [17]
-								"Blood Pact", -- [18]
-								"Sniper Training", -- [19]
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Blood Pact", -- [3]
+								"Aspect of the Dragonhawk", -- [4]
+								"Fire Resistance Aura", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Prayer of Shadow Protection", -- [8]
+								"Well Fed", -- [9]
+								"Greater Blessing of Sanctuary", -- [10]
+								"Moonkin Aura", -- [11]
+								"Greater Blessing of Wisdom", -- [12]
+								"Concentration Aura", -- [13]
+								"Greater Blessing of Kings", -- [14]
+								"Arcane Brilliance", -- [15]
+								"Horn of Winter", -- [16]
+								"Flask of Endless Rage", -- [17]
+								"Devotion Aura", -- [18]
+								"Greater Blessing of Might", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Retribution Aura", -- [23]
 							},
 							["Knytephal"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Greater Blessing of Kings", -- [4]
-								"Greater Blessing of Sanctuary", -- [5]
-								"Fire Resistance Aura", -- [6]
-								"Concentration Aura", -- [7]
-								"Greater Blessing of Might", -- [8]
-								"Flask of Endless Rage", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Devotion Aura", -- [14]
-								"Blood Pact", -- [15]
-								"Stealth", -- [16]
-								"Overkill", -- [17]
-								"Retribution Aura", -- [18]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Well Fed", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Greater Blessing of Sanctuary", -- [8]
+								"Prayer of Fortitude", -- [9]
+								"Prayer of Spirit", -- [10]
+								"Prayer of Shadow Protection", -- [11]
+								"Moonkin Aura", -- [12]
+								"Concentration Aura", -- [13]
+								"Arcane Brilliance", -- [14]
+								"Greater Blessing of Might", -- [15]
+								"Devotion Aura", -- [16]
+								"Flask of Endless Rage", -- [17]
+								"Stealth", -- [18]
+								"Overkill", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Windfury Totem", -- [23]
+								"Strength of Earth", -- [24]
+								"Horn of Winter", -- [25]
 							},
-							["Klurk"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Well Fed", -- [4]
-								"Blood Pact", -- [5]
-								"Greater Blessing of Sanctuary", -- [6]
-								"Champion of the Kirin Tor", -- [7]
-								"Greater Blessing of Kings", -- [8]
-								"Inner Fire", -- [9]
-								"Shadowform", -- [10]
-								"Concentration Aura", -- [11]
-								"Arcane Brilliance", -- [12]
-								"Prayer of Fortitude", -- [13]
-								"Prayer of Shadow Protection", -- [14]
-								"Greater Blessing of Wisdom", -- [15]
-								"Prayer of Spirit", -- [16]
-								"Retribution Aura", -- [17]
+							["Rahz"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Blood Pact", -- [3]
+								"Retribution Aura", -- [4]
+								"Argent Champion", -- [5]
+								"Greater Blessing of Might", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Greater Blessing of Sanctuary", -- [8]
+								"Prayer of Fortitude", -- [9]
+								"Prayer of Spirit", -- [10]
+								"Prayer of Shadow Protection", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Well Fed", -- [13]
+								"Moonkin Aura", -- [14]
+								"Concentration Aura", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Flask of Endless Rage", -- [17]
 								"Devotion Aura", -- [18]
-								"Fire Resistance Aura", -- [19]
+								"Stealth", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
 							["Alok"] = {
 								"Gift of the Wild", -- [1]
 								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Greater Blessing of Wisdom", -- [4]
-								"Blood Pact", -- [5]
-								"Greater Blessing of Might", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Greater Blessing of Kings", -- [8]
-								"Aspect of the Dragonhawk", -- [9]
-								"Flask of Endless Rage", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Retribution Aura", -- [15]
-								"Fire Resistance Aura", -- [16]
-								"Concentration Aura", -- [17]
-								"Devotion Aura", -- [18]
-								"Sniper Training", -- [19]
+								"Retribution Aura", -- [3]
+								"Aspect of the Dragonhawk", -- [4]
+								"Greater Blessing of Might", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Sniper Training", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Well Fed", -- [11]
+								"Greater Blessing of Sanctuary", -- [12]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Greater Blessing of Kings", -- [16]
+								"Flask of Endless Rage", -- [17]
+								"Arcane Brilliance", -- [18]
+								"Devotion Aura", -- [19]
+								"Horn of Winter", -- [20]
+								"Windfury Totem", -- [21]
+								"Strength of Earth", -- [22]
+								"Flametongue Totem", -- [23]
 							},
 							["Ariaxx"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Concentration Aura", -- [3]
-								"Greater Blessing of Wisdom", -- [4]
-								"Greater Blessing of Sanctuary", -- [5]
-								"Blood Pact", -- [6]
+								"Fel Armor", -- [2]
+								"Retribution Aura", -- [3]
+								"Blood Pact", -- [4]
+								"Leader of the Pack", -- [5]
+								"Argent Champion", -- [6]
 								"Greater Blessing of Kings", -- [7]
-								"Fel Armor", -- [8]
-								"Well Fed", -- [9]
-								"Flask of the Frost Wyrm", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Greater Blessing of Might", -- [15]
-								"Retribution Aura", -- [16]
-								"Devotion Aura", -- [17]
-								"Fire Resistance Aura", -- [18]
-							},
-							["Riçkkëz"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Relentless Assault", -- [3]
-								"Retribution Aura", -- [4]
-								"Greater Blessing of Wisdom", -- [5]
-								"Seal of Corruption", -- [6]
-								"Greater Blessing of Might", -- [7]
-								"Arcane Brilliance", -- [8]
+								"Fire Resistance Aura", -- [8]
 								"Greater Blessing of Sanctuary", -- [9]
 								"Prayer of Fortitude", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Fire Resistance Aura", -- [14]
+								"Prayer of Spirit", -- [11]
+								"Prayer of Shadow Protection", -- [12]
+								"Well Fed", -- [13]
+								"Moonkin Aura", -- [14]
 								"Concentration Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Devotion Aura", -- [17]
+								"Greater Blessing of Wisdom", -- [16]
+								"Arcane Brilliance", -- [17]
+								"Flask of the Frost Wyrm", -- [18]
+								"Devotion Aura", -- [19]
+								"Wrath of Air Totem", -- [20]
+								"Stoneskin", -- [21]
+								"Flametongue Totem", -- [22]
+								"Horn of Winter", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
-							["Bukthan"] = {
-								"Thorns", -- [1]
+							["Tairy"] = {
+								"Leader of the Pack", -- [1]
 								"Gift of the Wild", -- [2]
-								"Leader of the Pack", -- [3]
-								"Flask of Stoneblood", -- [4]
-								"Fire Resistance Aura", -- [5]
-								"Greater Blessing of Wisdom", -- [6]
+								"Retribution Aura", -- [3]
+								"Water Shield", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Fire Resistance Aura", -- [6]
 								"Greater Blessing of Sanctuary", -- [7]
-								"Righteous Fury", -- [8]
-								"Seal of Corruption", -- [9]
-								"Greater Blessing of Kings", -- [10]
-								"Devotion Aura", -- [11]
-								"Well Fed", -- [12]
-								"Earth Shield", -- [13]
-								"Greater Blessing of Might", -- [14]
-								"Arcane Brilliance", -- [15]
-								"Prayer of Fortitude", -- [16]
-								"Prayer of Shadow Protection", -- [17]
-								"Prayer of Spirit", -- [18]
-								"Concentration Aura", -- [19]
-								"Retribution Aura", -- [20]
-								"Blood Pact", -- [21]
-								"Prayer of Mending", -- [22]
-								"Divine Plea", -- [23]
-								"Renew", -- [24]
-								"Beacon of Light", -- [25]
-								"Guardian Spirit", -- [26]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Moonkin Aura", -- [11]
+								"Concentration Aura", -- [12]
+								"Greater Blessing of Wisdom", -- [13]
+								"Arcane Brilliance", -- [14]
+								"Focus Magic", -- [15]
+								"Flametongue Totem", -- [16]
+								"Blood Pact", -- [17]
+								"Devotion Aura", -- [18]
+								"Windfury Totem", -- [19]
+								"Strength of Earth", -- [20]
+							},
+							["Cleophus"] = {
+								"Gift of the Wild", -- [1]
+								"Retribution Aura", -- [2]
+								"Leader of the Pack", -- [3]
+								"Blood Pact", -- [4]
+								"Argent Champion", -- [5]
+								"Greater Blessing of Kings", -- [6]
+								"Fire Resistance Aura", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Well Fed", -- [11]
+								"Greater Blessing of Sanctuary", -- [12]
+								"Moonkin Aura", -- [13]
+								"Master Shapeshifter", -- [14]
+								"Moonkin Form", -- [15]
+								"Greater Blessing of Wisdom", -- [16]
+								"Concentration Aura", -- [17]
+								"Arcane Brilliance", -- [18]
+								"Devotion Aura", -- [19]
+								"Greater Blessing of Might", -- [20]
+								"Wrath of Air Totem", -- [21]
+								"Stoneskin", -- [22]
+								"Flametongue Totem", -- [23]
+								"Horn of Winter", -- [24]
+								"Windfury Totem", -- [25]
+								"Strength of Earth", -- [26]
 							},
 							["Morvien"] = {
 								"Gift of the Wild", -- [1]
-								"Thorns", -- [2]
+								"Blood Pact", -- [2]
 								"Leader of the Pack", -- [3]
-								"Concentration Aura", -- [4]
-								"Well Fed", -- [5]
-								"Flask of Stoneblood", -- [6]
-								"Greater Blessing of Might", -- [7]
-								"Devotion Aura", -- [8]
-								"Ebon Champion", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Righteous Fury", -- [11]
-								"Seal of Corruption", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Fire Resistance Aura", -- [14]
-								"Arcane Brilliance", -- [15]
-								"Prayer of Fortitude", -- [16]
-								"Prayer of Shadow Protection", -- [17]
-								"Greater Blessing of Wisdom", -- [18]
-								"Prayer of Spirit", -- [19]
-								"Retribution Aura", -- [20]
-								"Blood Pact", -- [21]
+								"Retribution Aura", -- [4]
+								"Wyrmrest Champion", -- [5]
+								"Righteous Fury", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Fire Resistance Aura", -- [8]
+								"Prayer of Fortitude", -- [9]
+								"Prayer of Spirit", -- [10]
+								"Prayer of Shadow Protection", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Earth Shield", -- [17]
+								"Flask of Stoneblood", -- [18]
+								"Well Fed", -- [19]
+								"Greater Blessing of Might", -- [20]
+								"Devotion Aura", -- [21]
+								"Wrath of Air Totem", -- [22]
+								"Stoneskin", -- [23]
+								"Flametongue Totem", -- [24]
+								"Horn of Winter", -- [25]
+								"Windfury Totem", -- [26]
+								"Strength of Earth", -- [27]
 							},
 							["Keeneyes"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Fire Resistance Aura", -- [3]
-								"Greater Blessing of Might", -- [4]
-								"Greater Blessing of Kings", -- [5]
-								"Aspect of the Dragonhawk", -- [6]
-								"Greater Blessing of Sanctuary", -- [7]
-								"Greater Blessing of Wisdom", -- [8]
-								"Well Fed", -- [9]
-								"Arcane Brilliance", -- [10]
-								"Prayer of Fortitude", -- [11]
-								"Prayer of Shadow Protection", -- [12]
-								"Prayer of Spirit", -- [13]
-								"Devotion Aura", -- [14]
-								"Concentration Aura", -- [15]
-								"Blood Pact", -- [16]
-								"Sniper Training", -- [17]
-								"Retribution Aura", -- [18]
-								"Flask of Endless Rage", -- [19]
+								"Aspect of the Dragonhawk", -- [2]
+								"Blood Pact", -- [3]
+								"Leader of the Pack", -- [4]
+								"Retribution Aura", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Prayer of Spirit", -- [8]
+								"Prayer of Shadow Protection", -- [9]
+								"Well Fed", -- [10]
+								"Greater Blessing of Sanctuary", -- [11]
+								"Moonkin Aura", -- [12]
+								"Greater Blessing of Wisdom", -- [13]
+								"Concentration Aura", -- [14]
+								"Greater Blessing of Kings", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Flask of Endless Rage", -- [17]
+								"Greater Blessing of Might", -- [18]
+								"Wrath of Air Totem", -- [19]
+								"Stoneskin", -- [20]
+								"Flametongue Totem", -- [21]
+								"Horn of Winter", -- [22]
+								"Sniper Training", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
 							["Wiltavian"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of Pure Mojo", -- [3]
-								"Greater Blessing of Wisdom", -- [4]
-								"Water Shield", -- [5]
-								"Greater Blessing of Might", -- [6]
-								"Greater Blessing of Kings", -- [7]
-								"Well Fed", -- [8]
-								"Concentration Aura", -- [9]
-								"Blood Pact", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Greater Blessing of Sanctuary", -- [14]
-								"Prayer of Spirit", -- [15]
-								"Retribution Aura", -- [16]
-								"Devotion Aura", -- [17]
-								"Fire Resistance Aura", -- [18]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Well Fed", -- [11]
+								"Moonkin Aura", -- [12]
+								"Concentration Aura", -- [13]
+								"Water Shield", -- [14]
+								"Greater Blessing of Wisdom", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Flask of Pure Mojo", -- [17]
+								"Devotion Aura", -- [18]
+								"Wrath of Air Totem", -- [19]
+								"Stoneskin", -- [20]
+								"Flametongue Totem", -- [21]
+								"Horn of Winter", -- [22]
+								"Illustration of the Dragon Soul", -- [23]
+								"Windfury Totem", -- [24]
+								"Strength of Earth", -- [25]
 							},
-							["Rarebird"] = {
+							["Shyzyhra"] = {
 								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Well Fed", -- [3]
-								"Fire Resistance Aura", -- [4]
-								"Focus Magic", -- [5]
-								"Concentration Aura", -- [6]
-								"Greater Blessing of Wisdom", -- [7]
-								"Champion of the Kirin Tor", -- [8]
-								"Greater Blessing of Kings", -- [9]
-								"Greater Blessing of Sanctuary", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Devotion Aura", -- [16]
-								"Retribution Aura", -- [17]
-								"Blood Pact", -- [18]
-								"Flask of the Frost Wyrm", -- [19]
+								"Blood Pact", -- [2]
+								"Leader of the Pack", -- [3]
+								"Retribution Aura", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Prayer of Spirit", -- [9]
+								"Prayer of Shadow Protection", -- [10]
+								"Well Fed", -- [11]
+								"Moonkin Aura", -- [12]
+								"Concentration Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Molten Armor", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Wrath of Air Totem", -- [17]
+								"Stoneskin", -- [18]
+								"Flametongue Totem", -- [19]
+								"Horn of Winter", -- [20]
+								"Devotion Aura", -- [21]
+							},
+							["Saintclair"] = {
+								"Gift of the Wild", -- [1]
+								"Well Fed", -- [2]
+								"Blood Pact", -- [3]
+								"Leader of the Pack", -- [4]
+								"Retribution Aura", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Prayer of Spirit", -- [8]
+								"Prayer of Shadow Protection", -- [9]
+								"Greater Blessing of Kings", -- [10]
+								"Inner Fire", -- [11]
+								"Greater Blessing of Sanctuary", -- [12]
+								"Moonkin Aura", -- [13]
+								"Greater Blessing of Wisdom", -- [14]
+								"Concentration Aura", -- [15]
+								"Arcane Brilliance", -- [16]
+								"Devotion Aura", -- [17]
+								"Windfury Totem", -- [18]
+								"Strength of Earth", -- [19]
+								"Flametongue Totem", -- [20]
 							},
 							["Riverblade"] = {
 								"Gift of the Wild", -- [1]
 								"Leader of the Pack", -- [2]
-								"Fire Resistance Aura", -- [3]
-								"Concentration Aura", -- [4]
-								"Greater Blessing of Might", -- [5]
-								"Flask of Endless Rage", -- [6]
-								"Aspect of the Dragonhawk", -- [7]
-								"Well Fed", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Greater Blessing of Wisdom", -- [10]
-								"Arcane Brilliance", -- [11]
-								"Prayer of Fortitude", -- [12]
-								"Prayer of Shadow Protection", -- [13]
-								"Prayer of Spirit", -- [14]
-								"Greater Blessing of Kings", -- [15]
-								"Devotion Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Retribution Aura", -- [18]
-							},
-							["Shyzyhra"] = {
-								"Gift of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Concentration Aura", -- [3]
-								"Devotion Aura", -- [4]
+								"Retribution Aura", -- [3]
+								"Aspect of the Dragonhawk", -- [4]
 								"Fire Resistance Aura", -- [5]
-								"Molten Armor", -- [6]
-								"Well Fed", -- [7]
-								"Arcane Brilliance", -- [8]
-								"Greater Blessing of Sanctuary", -- [9]
-								"Prayer of Fortitude", -- [10]
-								"Prayer of Shadow Protection", -- [11]
-								"Prayer of Spirit", -- [12]
-								"Greater Blessing of Kings", -- [13]
-								"Focus Magic", -- [14]
-								"Greater Blessing of Wisdom", -- [15]
-								"Retribution Aura", -- [16]
-								"Blood Pact", -- [17]
-								"Flask of the Frost Wyrm", -- [18]
+								"Prayer of Fortitude", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Prayer of Shadow Protection", -- [8]
+								"Well Fed", -- [9]
+								"Greater Blessing of Sanctuary", -- [10]
+								"Moonkin Aura", -- [11]
+								"Greater Blessing of Wisdom", -- [12]
+								"Concentration Aura", -- [13]
+								"Greater Blessing of Kings", -- [14]
+								"Arcane Brilliance", -- [15]
+								"Devotion Aura", -- [16]
+								"Greater Blessing of Might", -- [17]
+								"Sniper Training", -- [18]
+								"Windfury Totem", -- [19]
+								"Strength of Earth", -- [20]
+								"Flametongue Totem", -- [21]
+								"Horn of Winter", -- [22]
 							},
 							["Silvanara"] = {
-								"Mark of the Wild", -- [1]
-								"Leader of the Pack", -- [2]
-								"Flask of the Frost Wyrm", -- [3]
-								"Greater Blessing of Sanctuary", -- [4]
-								"Power Word: Fortitude", -- [5]
-								"Divine Spirit", -- [6]
-								"Fire Resistance Aura", -- [7]
-								"Concentration Aura", -- [8]
-								"Inner Fire", -- [9]
-								"Devotion Aura", -- [10]
-								"Retribution Aura", -- [11]
-								"Blood Pact", -- [12]
+								"Gift of the Wild", -- [1]
+								"Retribution Aura", -- [2]
+								"Greater Blessing of Kings", -- [3]
+								"Fire Resistance Aura", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Prayer of Shadow Protection", -- [8]
+								"Well Fed", -- [9]
+								"Flask of Pure Mojo", -- [10]
+								"Inner Fire", -- [11]
+								"Moonkin Aura", -- [12]
 								"Greater Blessing of Wisdom", -- [13]
-								"Arcane Intellect", -- [14]
-								"Greater Blessing of Kings", -- [15]
+								"Concentration Aura", -- [14]
+								"Arcane Brilliance", -- [15]
+								"Horn of Winter", -- [16]
+								"Leader of the Pack", -- [17]
+								"Windfury Totem", -- [18]
+								"Strength of Earth", -- [19]
+								"Flametongue Totem", -- [20]
 							},
 						},
-						["time"] = 1249872668,
+						["time"] = 1250041187,
 						["killed"] = true,
 					}, -- [1]
 				},
 			},
 		},
-		["zone"] = "Ulduar",
+		["zone"] = "Trial of the Crusader",
 	},
 }
 GuildRaidSnapShot_SnapShots = {
-	["Auriaya 2009-08-09 23:33:38"] = {
+	["Northrend Beasts 2009-08-11 21:39:47"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Annawho:Dragonblight, Ariaxx:Ulduar, Bukthan:Ulduar, Coolleen:Ulduar, Elaini:Ulduar, Erodrela:Winterspring, Gelnon:The Storm Peaks, Gylan:Ulduar, Keeneyes:Ulduar, Klurk:Ulduar, Knytephal:Ulduar, Lunastra:Ulduar, Morvien:Ulduar, Quilderaumo:Ulduar, Rarebird:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Tarnaa:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Wholistic:Ulduar, Wiltavian:Ulduar",
+		["Guild"] = "Alok:Trial of the Crusader, Anthraxus:Hellfire Peninsula, Ariaxx:Trial of the Crusader, Brashnee:Dragonblight, Bukthan:Trial of the Crusader, Cleophus:Trial of the Crusader, Elaini:Trial of the Crusader, Gothos:Tirisfal Glades, Gylan:Trial of the Crusader, Infyrno:Icecrown, Keeneyes:Trial of the Crusader, Klurk:Undercity, Knytephal:Trial of the Crusader, Lunastra:Trial of the Crusader, Midknyte:Icecrown, Morvien:Trial of the Crusader, Nantucket:Icecrown, Quilderaumo:Trial of the Crusader, Rahz:Trial of the Crusader, Riverblade:Trial of the Crusader, Rumbler:Trial of the Crusader, Saintclair:Trial of the Crusader, Scornhorn:Icecrown, Selidar:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Silvanara:Trial of the Crusader, Tairy:Trial of the Crusader, Tarnaa:Trial of the Crusader, Traak:Grizzly Hills, Valore:Trial of the Crusader, Valsarius:Trial of the Crusader, Vrisha:Trial of the Crusader, Wholistic:Trial of the Crusader, Wiltavian:Trial of the Crusader",
 		["RealmName"] = "Draka",
-		["Raid"] = "Bukthan:Ulduar, Tarnaa:Ulduar, Rarebird:Ulduar, Keeneyes:Ulduar, Silvanara:Ulduar, Valsarius:Ulduar, Alok:Ulduar, Coolleen:Ulduar, Riçkkëz:Ulduar, Ariaxx:Ulduar, Riverblade:Ulduar, Elaini:Ulduar, Morvien:Ulduar, Lunastra:Ulduar, Wiltavian:Ulduar, Wholistic:Ulduar, Klurk:Ulduar, Valore:Ulduar, Shyzyhra:Ulduar, Knytephal:Ulduar, Gylan:Ulduar, Quilderaumo:Ulduar",
+		["Raid"] = "Bukthan:Trial of the Crusader, Ariaxx:Trial of the Crusader, Rahz:Trial of the Crusader, Cleophus:Trial of the Crusader, Gylan:Trial of the Crusader, Lunastra:Trial of the Crusader, Wholistic:Trial of the Crusader, Keeneyes:Trial of the Crusader, Elaini:Trial of the Crusader, Selidar:Trial of the Crusader, Valsarius:Trial of the Crusader, Alok:Trial of the Crusader, Knytephal:Trial of the Crusader, Vrisha:Trial of the Crusader, Riverblade:Trial of the Crusader, Valore:Trial of the Crusader, Silvanara:Trial of the Crusader, Wiltavian:Trial of the Crusader, Morvien:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Tairy:Trial of the Crusader, Saintclair:Trial of the Crusader, Tarnaa:Trial of the Crusader, Rumbler:Trial of the Crusader, Quilderaumo:Trial of the Crusader",
 		["points"] = 1,
 		["system"] = "ER DKP",
 	},
-	["Auriaya 2009-08-09 23:21:12"] = {
+	["Lord Jaraxus 2009-08-11 21:50:47"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Ulduar, Ariaxx:Ulduar, Bukthan:Ulduar, Coolleen:Ulduar, Elaini:Ulduar, Erodrela:Silvermoon City, Gylan:Ulduar, Keeneyes:Ulduar, Klurk:Ulduar, Knytephal:The Storm Peaks, Lunastra:Ulduar, Morvien:The Storm Peaks, Quilderaumo:The Storm Peaks, Rarebird:The Storm Peaks, Riverblade:Ulduar, Riçkkëz:The Storm Peaks, Shyzyhra:The Storm Peaks, Silvanara:Ulduar, Sinzan:Silvermoon City, Tarnaa:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Wholistic:Ulduar, Wiltavian:Ulduar",
+		["Guild"] = "Alok:Trial of the Crusader, Anthraxus:Hellfire Peninsula, Ariaxx:Trial of the Crusader, Brashnee:Dragonblight, Bukthan:Trial of the Crusader, Cleophus:Trial of the Crusader, Elaini:Trial of the Crusader, Gothos:Tirisfal Glades, Gylan:Trial of the Crusader, Infyrno:Icecrown, Keeneyes:Trial of the Crusader, Klurk:Undercity, Knytephal:Trial of the Crusader, Lunastra:Trial of the Crusader, Midknyte:Icecrown, Morvien:Trial of the Crusader, Nantucket:Icecrown, Quilderaumo:Trial of the Crusader, Rahz:Trial of the Crusader, Riverblade:Trial of the Crusader, Rumbler:Trial of the Crusader, Saintclair:Trial of the Crusader, Scornhorn:Icecrown, Selidar:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Silvanara:Trial of the Crusader, Tairy:Trial of the Crusader, Tarnaa:Trial of the Crusader, Traak:Grizzly Hills, Valore:Trial of the Crusader, Valsarius:Trial of the Crusader, Vrisha:Trial of the Crusader, Wholistic:Trial of the Crusader, Wiltavian:Trial of the Crusader",
 		["RealmName"] = "Draka",
-		["Raid"] = "Bukthan:Ulduar, Tarnaa:Ulduar, Rarebird:Ulduar, Keeneyes:Ulduar, Silvanara:Ulduar, Valsarius:Ulduar, Alok:Ulduar, Coolleen:Ulduar, Riçkkëz:The Storm Peaks, Ariaxx:Ulduar, Riverblade:The Storm Peaks, Elaini:Ulduar, Morvien:Ulduar, Lunastra:Ulduar, Wiltavian:The Storm Peaks, Wholistic:Ulduar, Klurk:Ulduar, Valore:Ulduar, Shyzyhra:The Storm Peaks, Knytephal:Ulduar, Gylan:Ulduar, Quilderaumo:The Storm Peaks",
-		["points"] = 0,
-		["system"] = "ER DKP",
-	},
-	["Auriaya 2009-08-09 23:09:05"] = {
-		["WaitList"] = "",
-		["Guild"] = "Ahzidahaka:Icecrown, Alok:Ulduar, Ariaxx:The Storm Peaks, Bukthan:The Storm Peaks, Coolleen:Ulduar, Elaini:Ulduar, Erodrela:The Barrens, Gylan:Ulduar, Keeneyes:The Storm Peaks, Klurk:The Storm Peaks, Knytephal:The Storm Peaks, Lunastra:The Storm Peaks, Morvien:Ulduar, Quilderaumo:Ulduar, Rarebird:Ulduar, Riverblade:Ulduar, Riçkkëz:The Storm Peaks, Shyzyhra:The Storm Peaks, Silvanara:Ulduar, Tairy:Icecrown, Tarnaa:Ulduar, Valore:The Storm Peaks, Valsarius:Ulduar, Wholistic:The Storm Peaks, Wiltavian:Ulduar",
-		["RealmName"] = "Draka",
-		["Raid"] = "Bukthan:Ulduar, Tarnaa:Ulduar, Rarebird:Ulduar, Keeneyes:Ulduar, Silvanara:Ulduar, Valsarius:Ulduar, Alok:Ulduar, Coolleen:Ulduar, Riçkkëz:Ulduar, Ariaxx:Ulduar, Riverblade:Ulduar, Elaini:Ulduar, Morvien:Ulduar, Lunastra:Ulduar, Wiltavian:Ulduar, Wholistic:Ulduar, Klurk:Ulduar, Valore:Ulduar, Shyzyhra:Ulduar, Knytephal:Ulduar, Gylan:Ulduar, Quilderaumo:Ulduar",
-		["points"] = 0,
-		["system"] = "ER DKP",
-	},
-	["Kologarn 2009-08-09 22:51:08"] = {
-		["WaitList"] = "",
-		["Guild"] = "Ahzidahaka:Icecrown, Alok:Ulduar, Ariaxx:Ulduar, Bukthan:Ulduar, Coolleen:Ulduar, Elaini:Ulduar, Gylan:Ulduar, Keeneyes:Ulduar, Klurk:Ulduar, Knytephal:Ulduar, Lien:Dalaran, Lunastra:Ulduar, Morvien:Ulduar, Quilderaumo:Ulduar, Rarebird:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Tairy:Icecrown, Tarnaa:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Wholistic:Ulduar, Wiltavian:Ulduar",
-		["RealmName"] = "Draka",
-		["Raid"] = "Bukthan:Ulduar, Tarnaa:Ulduar, Rarebird:Ulduar, Keeneyes:Ulduar, Silvanara:Ulduar, Valsarius:Ulduar, Shyzyhra:Ulduar, Alok:Ulduar, Coolleen:Ulduar, Riçkkëz:Ulduar, Ariaxx:Ulduar, Riverblade:Ulduar, Elaini:Ulduar, Knytephal:Ulduar, Wiltavian:Ulduar, Lunastra:Ulduar, Wholistic:Ulduar, Morvien:Ulduar, Klurk:Ulduar, Valore:Ulduar, Gylan:Ulduar, Quilderaumo:Ulduar",
-		["points"] = 1,
-		["system"] = "ER DKP",
-	},
-	["Ignis the Furnace Master 2009-08-09 22:04:15"] = {
-		["WaitList"] = "",
-		["Guild"] = "Ahzidahaka:Crystalsong Forest, Alok:Ulduar, Ariaxx:Ulduar, Bukthan:Ulduar, Coolleen:Ulduar, Elaini:Ulduar, Gylan:Ulduar, Keeneyes:Ulduar, Klurk:Ulduar, Lunastra:Ulduar, Morvien:Ulduar, Mzammer:Ulduar, Quilderaumo:Ulduar, Rarebird:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Sledge:Orgrimmar, Tarnaa:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Wholistic:Ulduar, Wiltavian:Ulduar, Withal:Icecrown",
-		["RealmName"] = "Draka",
-		["Raid"] = "Bukthan:Ulduar, Tarnaa:Ulduar, Rarebird:Ulduar, Keeneyes:Ulduar, Silvanara:Ulduar, Valsarius:Ulduar, Shyzyhra:Ulduar, Alok:Ulduar, Coolleen:Ulduar, Riçkkëz:Ulduar, Ariaxx:Ulduar, Riverblade:Ulduar, Elaini:Ulduar, Mzammer:Ulduar, Lunastra:Ulduar, Wiltavian:Ulduar, Wholistic:Ulduar, Morvien:Ulduar, Klurk:Ulduar, Valore:Ulduar, Gylan:Ulduar, Quilderaumo:Ulduar",
-		["points"] = 1,
-		["system"] = "ER DKP",
-	},
-	["XT-002 Deconstructor 2009-08-09 22:26:39"] = {
-		["WaitList"] = "",
-		["Guild"] = "Ahzidahaka:Icecrown, Alok:Ulduar, Ariaxx:Ulduar, Bukthan:Ulduar, Coolleen:Ulduar, Elaini:Ulduar, Gylan:Ulduar, Keeneyes:Ulduar, Klurk:Ulduar, Knytephal:The Storm Peaks, Lien:The Storm Peaks, Lunastra:Ulduar, Morvien:Ulduar, Quilderaumo:Ulduar, Rarebird:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Tarnaa:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Wholistic:Ulduar, Wiltavian:Ulduar, Withal:Icecrown",
-		["RealmName"] = "Draka",
-		["Raid"] = "Bukthan:Ulduar, Tarnaa:Ulduar, Rarebird:Ulduar, Keeneyes:Ulduar, Silvanara:Ulduar, Valsarius:Ulduar, Shyzyhra:Ulduar, Alok:Ulduar, Coolleen:Ulduar, Riçkkëz:Ulduar, Ariaxx:Ulduar, Riverblade:Ulduar, Elaini:Ulduar, Knytephal:Ulduar, Lunastra:Ulduar, Wiltavian:Ulduar, Wholistic:Ulduar, Morvien:Ulduar, Klurk:Ulduar, Valore:Ulduar, Gylan:Ulduar, Quilderaumo:Ulduar",
-		["points"] = 1,
+		["Raid"] = "Bukthan:Trial of the Crusader, Ariaxx:Trial of the Crusader, Rahz:Trial of the Crusader, Cleophus:Trial of the Crusader, Gylan:Trial of the Crusader, Lunastra:Trial of the Crusader, Wholistic:Trial of the Crusader, Keeneyes:Trial of the Crusader, Elaini:Trial of the Crusader, Selidar:Trial of the Crusader, Valsarius:Trial of the Crusader, Alok:Trial of the Crusader, Knytephal:Trial of the Crusader, Vrisha:Trial of the Crusader, Riverblade:Trial of the Crusader, Valore:Trial of the Crusader, Silvanara:Trial of the Crusader, Wiltavian:Trial of the Crusader, Morvien:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Tairy:Trial of the Crusader, Saintclair:Trial of the Crusader, Tarnaa:Trial of the Crusader, Rumbler:Trial of the Crusader, Quilderaumo:Trial of the Crusader",
+		["points"] = 4,
 		["system"] = "ER DKP",
 	},
 }
 GuildRaidSnapShot_Loot = {
-	["2009-08-09"] = {
+	["2009-08-11"] = {
 		{
-			["player"] = "Riçkkëz",
-			["item"] = "Girdle of Embers",
+			["player"] = "Knytephal",
+			["item"] = "Cloak of the Untamed Predator",
 			["RealmName"] = "Draka",
-			["date"] = "2009-08-09 22:08:20",
-			["points"] = 1,
+			["date"] = "2009-08-11 21:47:39",
+			["points"] = 14,
 			["hardpoints"] = 0,
 			["system"] = "ER DKP",
 		}, -- [1]
 		{
-			["player"] = "Shyzyhra",
-			["item"] = "Pyrelight Circle",
+			["player"] = "Riverblade",
+			["item"] = "Trophy of the Crusade",
 			["RealmName"] = "Draka",
-			["date"] = "2009-08-09 22:08:20",
-			["points"] = 9,
+			["date"] = "2009-08-11 21:47:39",
+			["points"] = 16,
 			["hardpoints"] = 0,
 			["system"] = "ER DKP",
 		}, -- [2]
 		{
-			["player"] = "Morvien",
-			["item"] = "Signet of the Earthshaker",
+			["player"] = "Elaini",
+			["item"] = "Flowing Robes of Ascent",
 			["RealmName"] = "Draka",
-			["date"] = "2009-08-09 22:30:12",
-			["points"] = 5,
+			["date"] = "2009-08-11 21:47:39",
+			["points"] = 15,
 			["hardpoints"] = 0,
 			["system"] = "ER DKP",
 		}, -- [3]
 		{
-			["player"] = "Tarnaa",
-			["item"] = "Wrathstone",
+			["player"] = "Cleophus",
+			["item"] = "Bindings of the Autumn Willow",
 			["RealmName"] = "Draka",
-			["date"] = "2009-08-09 22:58:06",
-			["points"] = 22,
+			["date"] = "2009-08-11 23:16:20",
+			["points"] = 10,
 			["hardpoints"] = 0,
 			["system"] = "ER DKP",
 		}, -- [4]
 		{
-			["player"] = "Klurk",
-			["item"] = "Robes of the Umbral Brute",
+			["player"] = "Keeneyes",
+			["item"] = "Trophy of the Crusade",
 			["RealmName"] = "Draka",
-			["date"] = "2009-08-09 22:58:06",
-			["points"] = 110,
+			["date"] = "2009-08-11 23:16:20",
+			["points"] = 17,
 			["hardpoints"] = 0,
 			["system"] = "ER DKP",
 		}, -- [5]
 		{
-			["player"] = "Morvien",
-			["item"] = "Greaves of the Rockmender",
+			["player"] = "Bukthan",
+			["item"] = "Legplates of Feverish Dedication",
 			["RealmName"] = "Draka",
-			["date"] = "2009-08-09 23:38:15",
-			["points"] = 2,
+			["date"] = "2009-08-11 23:16:20",
+			["points"] = 10,
 			["hardpoints"] = 0,
 			["system"] = "ER DKP",
 		}, -- [6]
+		{
+			["player"] = "Rahz",
+			["item"] = "Vest of Calamitous Fate",
+			["RealmName"] = "Draka",
+			["date"] = "2009-08-11 23:16:20",
+			["points"] = 11,
+			["hardpoints"] = 0,
+			["system"] = "ER DKP",
+		}, -- [7]
 	},
 }
