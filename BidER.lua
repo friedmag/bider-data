@@ -2,19 +2,19 @@
 BidER_DKP = {
 	["official"] = {
 		["Plaguess"] = {
-			["total"] = 25,
+			["total"] = 27,
 		},
 		["Krask"] = {
 			["total"] = 3,
 		},
 		["Elaini"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Marugar"] = {
 			["total"] = "1",
 		},
 		["Bukthyn"] = {
-			["total"] = 24,
+			["total"] = 27,
 		},
 		["Whiskeydeath"] = {
 			["total"] = "5",
@@ -23,16 +23,16 @@ BidER_DKP = {
 			["total"] = 6,
 		},
 		["Wholistic"] = {
-			["total"] = 27,
+			["total"] = 29,
 		},
 		["Midknyte"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Sheemie"] = {
 			["total"] = "4",
 		},
 		["Knytemare"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Esjuggernaut"] = {
 			["total"] = "0",
@@ -41,10 +41,10 @@ BidER_DKP = {
 			["total"] = 1,
 		},
 		["Vindicaa"] = {
-			["total"] = 25,
+			["total"] = 27,
 		},
 		["Alok"] = {
-			["total"] = 27,
+			["total"] = 28,
 		},
 		["Ginaden"] = {
 			["total"] = "12",
@@ -56,19 +56,19 @@ BidER_DKP = {
 			["total"] = 16,
 		},
 		["Wiltavian"] = {
-			["total"] = 21,
+			["total"] = 24,
 		},
 		["Knyte"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Liquideath"] = {
 			["total"] = 2,
 		},
 		["Vhelx"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Bukthan"] = {
-			["total"] = 24,
+			["total"] = 27,
 		},
 		["Rumbler"] = {
 			["total"] = 6,
@@ -89,7 +89,7 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Nantucket"] = {
-			["total"] = 19,
+			["total"] = 1,
 		},
 		["Artein"] = {
 			["total"] = "2",
@@ -104,7 +104,7 @@ BidER_DKP = {
 			["total"] = "2",
 		},
 		["Gehzry"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Baffic"] = {
 			["total"] = "86",
@@ -119,7 +119,7 @@ BidER_DKP = {
 			["total"] = "6",
 		},
 		["Gylak"] = {
-			["total"] = 38,
+			["total"] = 41,
 		},
 		["Vintarius"] = {
 			["total"] = "11",
@@ -131,16 +131,16 @@ BidER_DKP = {
 			["total"] = 5,
 		},
 		["Quilderaumo"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Namefear"] = {
 			["total"] = "10",
 		},
 		["Selidar"] = {
-			["total"] = 1,
+			["total"] = 2,
 		},
 		["Bukthun"] = {
-			["total"] = 24,
+			["total"] = 27,
 		},
 		["Thudd"] = {
 			["total"] = "86",
@@ -167,7 +167,7 @@ BidER_DKP = {
 			["total"] = 4,
 		},
 		["Kriptohr"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Tairy"] = {
 			["total"] = 33,
@@ -191,7 +191,7 @@ BidER_DKP = {
 			["total"] = "16",
 		},
 		["Bukthin"] = {
-			["total"] = 24,
+			["total"] = 27,
 		},
 		["Apocyloth"] = {
 			["total"] = "0",
@@ -200,25 +200,28 @@ BidER_DKP = {
 			["total"] = "4",
 		},
 		["Shyzyhra"] = {
-			["total"] = 11,
+			["total"] = 14,
+		},
+		["nantucket"] = {
+			["total"] = 0,
 		},
 		["Melbindi"] = {
 			["total"] = 5,
 		},
 		["Knytephal"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Daiyze"] = {
-			["total"] = 8,
+			["total"] = 10,
 		},
 		["Tarnaa"] = {
-			["total"] = 25,
+			["total"] = 27,
 		},
 		["Keelintaro"] = {
 			["total"] = "13",
 		},
 		["Battletoad"] = {
-			["total"] = 0,
+			["total"] = 3,
 		},
 		["Rarebird"] = {
 			["total"] = 5,
@@ -233,10 +236,10 @@ BidER_DKP = {
 			["total"] = "0",
 		},
 		["Withal"] = {
-			["total"] = 10,
+			["total"] = 13,
 		},
 		["Primavera"] = {
-			["total"] = 8,
+			["total"] = 10,
 		},
 		["Aanedin"] = {
 			["total"] = "2",
@@ -251,7 +254,7 @@ BidER_DKP = {
 			["total"] = "20",
 		},
 		["Visslik"] = {
-			["total"] = 17,
+			["total"] = 20,
 		},
 		["Dacar"] = {
 			["total"] = "7",
@@ -278,10 +281,10 @@ BidER_DKP = {
 			["total"] = "15",
 		},
 		["Morier"] = {
-			["total"] = 11,
+			["total"] = 14,
 		},
 		["Ggnofight"] = {
-			["total"] = 1,
+			["total"] = 4,
 		},
 		["Eydolon"] = {
 			["total"] = "0",
@@ -290,19 +293,19 @@ BidER_DKP = {
 			["total"] = "1",
 		},
 		["Zoelitha"] = {
-			["total"] = 8,
+			["total"] = 10,
 		},
 		["Cheval"] = {
 			["total"] = 12,
 		},
 		["Euphel"] = {
-			["total"] = 9,
+			["total"] = 10,
 		},
 		["Valsarius"] = {
-			["total"] = 8,
+			["total"] = 10,
 		},
 		["Brutikus"] = {
-			["total"] = 17,
+			["total"] = 20,
 		},
 		["Bildo"] = {
 			["total"] = "0",
@@ -386,10 +389,10 @@ BidER_DKP = {
 			["total"] = "15",
 		},
 		["Bellassiel"] = {
-			["total"] = 11,
+			["total"] = 14,
 		},
 		["Morvien"] = {
-			["total"] = 17,
+			["total"] = 20,
 		},
 		["Simii"] = {
 			["total"] = "50",
@@ -413,7 +416,7 @@ BidER_DKP = {
 			["total"] = "0",
 		},
 		["Kinu"] = {
-			["total"] = 0,
+			["total"] = 3,
 		},
 		["Thakigg"] = {
 			["total"] = 29,
@@ -421,11 +424,11 @@ BidER_DKP = {
 		["Highplains"] = {
 			["total"] = 5,
 		},
-		["Ggnopork"] = {
-			["total"] = 1,
-		},
 		["Sagiv"] = {
 			["total"] = 16,
+		},
+		["Kuurus"] = {
+			["total"] = "72",
 		},
 		["Pawmane"] = {
 			["total"] = "15",
@@ -443,13 +446,13 @@ BidER_DKP = {
 			["total"] = 3,
 		},
 		["Badon"] = {
-			["total"] = 25,
+			["total"] = 27,
 		},
 		["Lakajira"] = {
 			["total"] = "8",
 		},
-		["Ariaxx"] = {
-			["total"] = 12,
+		["Liketobubble"] = {
+			["total"] = 10,
 		},
 		["Tredruid"] = {
 			["total"] = 10,
@@ -458,13 +461,13 @@ BidER_DKP = {
 			["total"] = "10",
 		},
 		["Ggnotalent"] = {
-			["total"] = 1,
+			["total"] = 4,
 		},
 		["Targo"] = {
 			["total"] = 4,
 		},
 		["Borialis"] = {
-			["total"] = "5",
+			["total"] = 0,
 		},
 		["Hepher"] = {
 			["total"] = 8,
@@ -473,19 +476,19 @@ BidER_DKP = {
 			["total"] = "4",
 		},
 		["Riçkkëz"] = {
-			["total"] = 5,
+			["total"] = 3,
 		},
 		["Blairak"] = {
 			["total"] = "2",
 		},
 		["Tradora"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Maliana"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
-		["Sodaman"] = {
-			["total"] = "22",
+		["Gylan"] = {
+			["total"] = 41,
 		},
 		["Gorajai"] = {
 			["total"] = "0",
@@ -500,7 +503,7 @@ BidER_DKP = {
 			["total"] = 6,
 		},
 		["Riverblade"] = {
-			["total"] = 32,
+			["total"] = 34,
 		},
 		["Embrr"] = {
 			["total"] = 6,
@@ -553,8 +556,8 @@ BidER_DKP = {
 		["Kahlee"] = {
 			["total"] = 54,
 		},
-		["Gylan"] = {
-			["total"] = 38,
+		["Sodaman"] = {
+			["total"] = "22",
 		},
 		["Hachu"] = {
 			["total"] = "86",
@@ -568,20 +571,20 @@ BidER_DKP = {
 		["Feralz"] = {
 			["total"] = 16,
 		},
-		["Liketobubble"] = {
-			["total"] = 10,
+		["Ariaxx"] = {
+			["total"] = 12,
 		},
 		["Clariti"] = {
 			["total"] = "5",
 		},
 		["Kalestra"] = {
-			["total"] = 11,
+			["total"] = 14,
 		},
 		["Mourngrym"] = {
-			["total"] = 17,
+			["total"] = 20,
 		},
-		["Kuurus"] = {
-			["total"] = "72",
+		["Ggnopork"] = {
+			["total"] = 4,
 		},
 		["Jetfiz"] = {
 			["total"] = "5",
@@ -590,13 +593,13 @@ BidER_DKP = {
 			["total"] = "5",
 		},
 		["Traak"] = {
-			["total"] = 17,
+			["total"] = 20,
 		},
 		["Shughar"] = {
 			["total"] = "2",
 		},
 		["Doriana"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Cochata"] = {
 			["total"] = 6,
@@ -608,13 +611,13 @@ BidER_DKP = {
 			["total"] = 12,
 		},
 		["Morniel"] = {
-			["total"] = 11,
+			["total"] = 14,
 		},
 		["Locofwar"] = {
 			["total"] = 13,
 		},
 		["Valore"] = {
-			["total"] = 1,
+			["total"] = 4,
 		},
 		["Pokit"] = {
 			["total"] = 6,
@@ -626,22 +629,22 @@ BidER_DKP = {
 			["total"] = 0,
 		},
 		["Alihra"] = {
-			["total"] = 11,
+			["total"] = 14,
 		},
 		["Lunastra"] = {
-			["total"] = 8,
+			["total"] = 10,
 		},
 		["Numfar"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Rahz"] = {
 			["total"] = 16,
 		},
 		["Blunuk"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Eldamando"] = {
-			["total"] = 26,
+			["total"] = 29,
 		},
 		["Twonynd"] = {
 			["total"] = "2",
@@ -668,7 +671,7 @@ BidER_DKP = {
 			["total"] = 54,
 		},
 		["Silvanara"] = {
-			["total"] = 29,
+			["total"] = 32,
 		},
 	},
 }
@@ -713,6 +716,9 @@ BidER_DKPResets = {
 		"Traak", -- [37]
 		"Rumbler", -- [38]
 		"Selidar", -- [39]
+		"Nantucket", -- [40]
+		"Kinu", -- [41]
+		"Borialis", -- [42]
 	},
 }
 BidER_Settings = {
@@ -728,180 +734,10 @@ BidER_MinimumBids = {
 	["Trophy of the Crusade"] = 10,
 }
 BidER_Raids = {
-	[1251248949] = {
-		["start_time"] = 1251248949,
+	[1251423895] = {
+		["end_time"] = 1251428266,
+		["start_time"] = 1251423895,
 		["events"] = {
-			["Northrend Beasts"] = {
-				["loots"] = {
-					{
-						["who"] = "Shyzyhra",
-						["item"] = "[Trophy of the Crusade]",
-						["amount"] = 16,
-					}, -- [1]
-					{
-						["who"] = "Silvanara",
-						["item"] = "[Belt of the Tenebrous Mist]",
-						["amount"] = 15,
-					}, -- [1]
-					{
-						["who"] = "Embrr",
-						["item"] = "[Flowing Robes of Ascent]",
-						["amount"] = 9,
-					}, -- [1]
-					{
-						["who"] = "Rumbler",
-						["item"] = "[Boneshatter Vambraces]",
-						["amount"] = 51,
-					}, -- [1]
-				},
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Saintclair", -- [2]
-							"Tarnaa", -- [3]
-							"Morvien", -- [4]
-							"Knytephal", -- [5]
-							"Traak", -- [6]
-							"Vrisha", -- [7]
-							"Rumbler", -- [8]
-							"Selidar", -- [9]
-							"Shyzyhra", -- [10]
-							"Silvanara", -- [11]
-							"Elaini", -- [12]
-							"Wiltavian", -- [13]
-							"Valsarius", -- [14]
-							"Gylan", -- [15]
-							"Lunastra", -- [16]
-							"Riverblade", -- [17]
-							"Keeneyes", -- [18]
-							"Alok", -- [19]
-							"Wholistic", -- [20]
-							"Embrr", -- [21]
-							"Valore", -- [22]
-							"Rahz", -- [23]
-							"Riçkkëz", -- [24]
-							"Quilderaumo", -- [25]
-						},
-						["time"] = 1251249653,
-						["killed"] = true,
-					}, -- [1]
-				},
-			},
-			["Lord Jaraxxus"] = {
-				["loots"] = {
-					{
-						["who"] = "Bukthan",
-						["item"] = "[Trophy of the Crusade]",
-						["amount"] = 17,
-					}, -- [1]
-					{
-						["who"] = "Wholistic",
-						["item"] = "[Wristwraps of Cloudy Omen]",
-						["amount"] = 10,
-					}, -- [1]
-					{
-						["who"] = "Keeneyes",
-						["item"] = "[Charge of the Eredar]",
-						["amount"] = 10,
-					}, -- [1]
-					{
-						["who"] = "Riçkkëz",
-						["item"] = "[Bloodbath Girdle]",
-						["amount"] = 16,
-					}, -- [1]
-				},
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Saintclair", -- [2]
-							"Tarnaa", -- [3]
-							"Morvien", -- [4]
-							"Knytephal", -- [5]
-							"Traak", -- [6]
-							"Vrisha", -- [7]
-							"Rumbler", -- [8]
-							"Selidar", -- [9]
-							"Shyzyhra", -- [10]
-							"Silvanara", -- [11]
-							"Elaini", -- [12]
-							"Wiltavian", -- [13]
-							"Valsarius", -- [14]
-							"Gylan", -- [15]
-							"Lunastra", -- [16]
-							"Riverblade", -- [17]
-							"Keeneyes", -- [18]
-							"Alok", -- [19]
-							"Wholistic", -- [20]
-							"Embrr", -- [21]
-							"Valore", -- [22]
-							"Rahz", -- [23]
-							"Riçkkëz", -- [24]
-							"Quilderaumo", -- [25]
-						},
-						["time"] = 1251249753,
-						["killed"] = true,
-					}, -- [1]
-				},
-			},
-			["Faction Champions"] = {
-				["loots"] = {
-					{
-						["who"] = "Valsarius",
-						["item"] = "[Trophy of the Crusade]",
-						["amount"] = 20,
-					}, -- [1]
-					{
-						["who"] = "Valore",
-						["item"] = "[Bracers of the Broken Bond]",
-						["amount"] = 0,
-					}, -- [1]
-					{
-						["who"] = "Valore",
-						["item"] = "[Bastion of Resolve]",
-						["amount"] = 6,
-					}, -- [1]
-					{
-						["who"] = "Selidar",
-						["item"] = "[Dual-blade Butcher]",
-						["amount"] = 6,
-					}, -- [1]
-				},
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Bukthan", -- [1]
-							"Saintclair", -- [2]
-							"Tarnaa", -- [3]
-							"Morvien", -- [4]
-							"Knytephal", -- [5]
-							"Traak", -- [6]
-							"Vrisha", -- [7]
-							"Rumbler", -- [8]
-							"Selidar", -- [9]
-							"Shyzyhra", -- [10]
-							"Silvanara", -- [11]
-							"Elaini", -- [12]
-							"Wiltavian", -- [13]
-							"Valsarius", -- [14]
-							"Gylan", -- [15]
-							"Lunastra", -- [16]
-							"Riverblade", -- [17]
-							"Keeneyes", -- [18]
-							"Alok", -- [19]
-							"Wholistic", -- [20]
-							"Embrr", -- [21]
-							"Valore", -- [22]
-							"Rahz", -- [23]
-							"Riçkkëz", -- [24]
-							"Quilderaumo", -- [25]
-						},
-						["time"] = 1251249853,
-						["killed"] = true,
-					}, -- [1]
-				},
-			},
 			["Twins"] = {
 				["loots"] = {
 				},
@@ -909,33 +745,794 @@ BidER_Raids = {
 					{
 						["attendance"] = {
 							"Bukthan", -- [1]
-							"Saintclair", -- [2]
-							"Tarnaa", -- [3]
+							"Tarnaa", -- [2]
+							"Shyzyhra", -- [3]
 							"Morvien", -- [4]
-							"Knytephal", -- [5]
-							"Traak", -- [6]
-							"Vrisha", -- [7]
-							"Rumbler", -- [8]
-							"Selidar", -- [9]
-							"Shyzyhra", -- [10]
-							"Silvanara", -- [11]
-							"Elaini", -- [12]
-							"Wiltavian", -- [13]
-							"Valsarius", -- [14]
-							"Gylan", -- [15]
-							"Lunastra", -- [16]
-							"Riverblade", -- [17]
-							"Keeneyes", -- [18]
-							"Alok", -- [19]
-							"Wholistic", -- [20]
-							"Embrr", -- [21]
-							"Valore", -- [22]
-							"Rahz", -- [23]
-							"Riçkkëz", -- [24]
+							"Traak", -- [5]
+							"Riçkkëz", -- [6]
+							"Wholistic", -- [7]
+							"Selidar", -- [8]
+							"Gylan", -- [9]
+							"Lunastra", -- [10]
+							"Borialis", -- [11]
+							"Wiltavian", -- [12]
+							"Alok", -- [13]
+							"Kinu", -- [14]
+							"Knytephal", -- [15]
+							"Valore", -- [16]
+							"Silvanara", -- [17]
+							"Withal", -- [18]
+							"Valsarius", -- [19]
+							"Nantucket", -- [20]
+							"Elaini", -- [21]
+							"Euphel", -- [22]
+							"Riverblade", -- [23]
 							"Quilderaumo", -- [25]
 						},
-						["time"] = 1251249953,
-						["killed"] = false,
+						["buffs"] = {
+						},
+						["time"] = 1251424394,
+						["killed"] = true,
+					}, -- [1]
+				},
+			},
+			["XT-002 Deconstructor"] = {
+				["loots"] = {
+					{
+						["amount"] = 0,
+						["item"] = "|cffa335ee|Hitem:45255:0:0:0:0:0:0:1001782976:80|h[Thunderfall Totem]|h|r",
+						["who"] = "Wholistic",
+					}, -- [1]
+					{
+						["amount"] = 8,
+						["item"] = "|cffa335ee|Hitem:45258:0:0:0:0:0:0:1270218432:80|h[Sandals of Rash Temperament]|h|r",
+						["who"] = "Borialis",
+					}, -- [2]
+					{
+						["amount"] = 1,
+						["item"] = "|cffa335ee|Hitem:45246:0:0:0:0:0:0:733347520:80|h[Golem-Shard Sticker]|h|r",
+						["who"] = "Tarnaa",
+					}, -- [3]
+				},
+				["attempts"] = {
+					{
+						["attendance"] = {
+							"Bukthan", -- [1]
+							"Tarnaa", -- [2]
+							"Shyzyhra", -- [3]
+							"Morvien", -- [4]
+							"Traak", -- [5]
+							"Riçkkëz", -- [6]
+							"Wholistic", -- [7]
+							"Gylan", -- [8]
+							"Borialis", -- [9]
+							"Wiltavian", -- [10]
+							"Kinu", -- [11]
+							"Knytephal", -- [12]
+							"Valore", -- [13]
+							"Silvanara", -- [14]
+							"Withal", -- [15]
+							"Valsarius", -- [16]
+							"Nantucket", -- [17]
+							"Elaini", -- [18]
+							"Riverblade", -- [19]
+							"Quilderaumo", -- [20]
+						},
+						["buffs"] = {
+							["Quilderaumo"] = {
+								"Well Fed", -- [1]
+								"Thorns", -- [2]
+								"Guru's Elixir", -- [3]
+								"Elixir of Mighty Fortitude", -- [4]
+								"Leader of the Pack", -- [5]
+								"Dire Bear Form", -- [6]
+								"Gift of the Wild", -- [7]
+								"Arcane Brilliance", -- [8]
+								"Tree of Life", -- [9]
+								"Retribution Aura", -- [10]
+								"Greater Blessing of Sanctuary", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Greater Blessing of Wisdom", -- [13]
+								"Concentration Aura", -- [14]
+								"Fire Resistance Aura", -- [15]
+								"Blood Pact", -- [16]
+								"Prayer of Fortitude", -- [17]
+								"Earth Shield", -- [18]
+								"Prayer of Spirit", -- [19]
+								"Prayer of Shadow Protection", -- [20]
+								"Greater Blessing of Might", -- [21]
+							},
+							["Shyzyhra"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Greater Blessing of Wisdom", -- [3]
+								"Greater Blessing of Kings", -- [4]
+								"Arcane Brilliance", -- [5]
+								"Focus Magic", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Well Fed", -- [8]
+								"Retribution Aura", -- [9]
+								"Molten Armor", -- [10]
+								"Concentration Aura", -- [11]
+								"Tree of Life", -- [12]
+								"Prayer of Fortitude", -- [13]
+								"Prayer of Spirit", -- [14]
+								"Prayer of Shadow Protection", -- [15]
+								"Fire Resistance Aura", -- [16]
+								"Blood Pact", -- [17]
+							},
+							["Elaini"] = {
+								"Mark of the Wild", -- [1]
+								"Leader of the Pack", -- [2]
+								"Fire Resistance Aura", -- [3]
+								"Retribution Aura", -- [4]
+								"Concentration Aura", -- [5]
+								"Devotion Aura", -- [6]
+								"Shadow Resistance Aura", -- [7]
+								"Greater Blessing of Sanctuary", -- [8]
+								"Tree of Life", -- [9]
+								"Greater Blessing of Kings", -- [10]
+								"Well Fed", -- [11]
+								"Blood Pact", -- [12]
+								"Prayer of Fortitude", -- [13]
+								"Prayer of Spirit", -- [14]
+								"Prayer of Shadow Protection", -- [15]
+								"Flask of Pure Mojo", -- [16]
+								"Greater Blessing of Wisdom", -- [17]
+								"Inner Fire", -- [18]
+							},
+							["Traak"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Retribution Aura", -- [3]
+								"Greater Blessing of Kings", -- [4]
+								"Greater Blessing of Wisdom", -- [5]
+								"Master Shapeshifter", -- [6]
+								"Tree of Life", -- [7]
+								"Wyrmrest Champion", -- [8]
+								"Greater Blessing of Sanctuary", -- [9]
+								"Well Fed", -- [10]
+								"Arcane Brilliance", -- [11]
+								"Alchemist's Stone", -- [12]
+								"Tree of Life", -- [13]
+								"Concentration Aura", -- [14]
+								"Fire Resistance Aura", -- [15]
+								"Flask of the Frost Wyrm", -- [16]
+								"Blood Pact", -- [17]
+								"Prayer of Fortitude", -- [18]
+								"Prayer of Spirit", -- [19]
+								"Prayer of Shadow Protection", -- [20]
+								"Greater Blessing of Might", -- [21]
+							},
+							["Tarnaa"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Greater Blessing of Kings", -- [3]
+								"Retribution Aura", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Arcane Brilliance", -- [6]
+								"Tree of Life", -- [7]
+								"Well Fed", -- [8]
+								"Greater Blessing of Might", -- [9]
+								"Flask of Endless Rage", -- [10]
+								"Devotion Aura", -- [11]
+								"Fire Resistance Aura", -- [12]
+								"Concentration Aura", -- [13]
+								"Shadow Resistance Aura", -- [14]
+								"Overkill", -- [15]
+								"Stealth", -- [16]
+								"Blood Pact", -- [17]
+								"Prayer of Fortitude", -- [18]
+								"Prayer of Spirit", -- [19]
+								"Prayer of Shadow Protection", -- [20]
+								"Sprint", -- [21]
+							},
+							["Valsarius"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Greater Blessing of Wisdom", -- [3]
+								"Greater Blessing of Sanctuary", -- [4]
+								"Arcane Brilliance", -- [5]
+								"Greater Blessing of Might", -- [6]
+								"Tree of Life", -- [7]
+								"Well Fed", -- [8]
+								"Retribution Aura", -- [9]
+								"Seal of Corruption", -- [10]
+								"Fire Resistance Aura", -- [11]
+								"Concentration Aura", -- [12]
+								"Devotion Aura", -- [13]
+								"Shadow Resistance Aura", -- [14]
+								"Greater Blessing of Kings", -- [15]
+								"Blood Pact", -- [16]
+								"Prayer of Fortitude", -- [17]
+								"Prayer of Spirit", -- [18]
+								"Prayer of Shadow Protection", -- [19]
+							},
+							["Wholistic"] = {
+								"Mark of the Wild", -- [1]
+								"Leader of the Pack", -- [2]
+								"Champion of the Kirin Tor", -- [3]
+								"Flask of the Frost Wyrm", -- [4]
+								"Retribution Aura", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Concentration Aura", -- [7]
+								"Devotion Aura", -- [8]
+								"Shadow Resistance Aura", -- [9]
+								"Tree of Life", -- [10]
+								"Greater Blessing of Sanctuary", -- [11]
+								"Water Shield", -- [12]
+								"Greater Blessing of Kings", -- [13]
+								"Blood Pact", -- [14]
+								"Prayer of Fortitude", -- [15]
+								"Prayer of Spirit", -- [16]
+								"Prayer of Shadow Protection", -- [17]
+								"Greater Blessing of Wisdom", -- [18]
+								"Greater Blessing of Might", -- [19]
+							},
+							["Valore"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Greater Blessing of Might", -- [3]
+								"Greater Blessing of Kings", -- [4]
+								"Greater Blessing of Wisdom", -- [5]
+								"Retribution Aura", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Arcane Brilliance", -- [8]
+								"Tree of Life", -- [9]
+								"Concentration Aura", -- [10]
+								"Devotion Aura", -- [11]
+								"Fire Resistance Aura", -- [12]
+								"Flask of Pure Mojo", -- [13]
+								"Well Fed", -- [14]
+								"Seal of Wisdom", -- [15]
+								"Shadow Resistance Aura", -- [16]
+								"Blood Pact", -- [17]
+								"Prayer of Fortitude", -- [18]
+								"Prayer of Spirit", -- [19]
+								"Prayer of Shadow Protection", -- [20]
+								"Eye of the Broodmother", -- [21]
+							},
+							["Withal"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Greater Blessing of Might", -- [3]
+								"Greater Blessing of Kings", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Ebon Champion", -- [6]
+								"Arcane Brilliance", -- [7]
+								"Well Fed", -- [8]
+								"Concentration Aura", -- [9]
+								"Blood Presence", -- [10]
+								"Flask of Endless Rage", -- [11]
+								"Tree of Life", -- [12]
+								"Retribution Aura", -- [13]
+								"Fire Resistance Aura", -- [14]
+								"Bone Shield", -- [15]
+								"Blood Pact", -- [16]
+								"Prayer of Fortitude", -- [17]
+								"Prayer of Spirit", -- [18]
+								"Prayer of Shadow Protection", -- [19]
+							},
+							["Knytephal"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Tree of Life", -- [3]
+								"Concentration Aura", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Fire Resistance Aura", -- [6]
+								"Arcane Brilliance", -- [7]
+								"Greater Blessing of Might", -- [8]
+								"Well Fed", -- [9]
+								"Greater Blessing of Sanctuary", -- [10]
+								"Retribution Aura", -- [11]
+								"Devotion Aura", -- [12]
+								"Shadow Resistance Aura", -- [13]
+								"Prayer of Fortitude", -- [14]
+								"Prayer of Spirit", -- [15]
+								"Prayer of Shadow Protection", -- [16]
+								"Stealth", -- [17]
+								"Overkill", -- [18]
+							},
+							["Kinu"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Greater Blessing of Kings", -- [3]
+								"Greater Blessing of Wisdom", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Arcane Brilliance", -- [6]
+								"Fel Armor", -- [7]
+								"Blood Pact", -- [8]
+								"Fire Resistance Aura", -- [9]
+								"Concentration Aura", -- [10]
+								"Tree of Life", -- [11]
+								"Retribution Aura", -- [12]
+								"Prayer of Fortitude", -- [13]
+								"Prayer of Spirit", -- [14]
+								"Prayer of Shadow Protection", -- [15]
+							},
+							["Gylan"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Greater Blessing of Might", -- [3]
+								"Tree of Life", -- [4]
+								"Well Fed", -- [5]
+								"Retribution Aura", -- [6]
+								"Arcane Brilliance", -- [7]
+								"Fire Resistance Aura", -- [8]
+								"Greater Blessing of Sanctuary", -- [9]
+								"Devotion Aura", -- [10]
+								"Concentration Aura", -- [11]
+								"Shadow Resistance Aura", -- [12]
+								"Greater Blessing of Kings", -- [13]
+								"Prayer of Fortitude", -- [14]
+								"Prayer of Spirit", -- [15]
+								"Prayer of Shadow Protection", -- [16]
+								"Overkill", -- [17]
+								"Blood Pact", -- [18]
+								"Flask of Endless Rage", -- [19]
+								"Sprint", -- [20]
+								"Stealth", -- [21]
+							},
+							["Nantucket"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Flask of Endless Rage", -- [3]
+								"Greater Blessing of Wisdom", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Greater Blessing of Might", -- [6]
+								"Tree of Life", -- [7]
+								"Retribution Aura", -- [8]
+								"Fire Resistance Aura", -- [9]
+								"Aspect of the Dragonhawk", -- [10]
+								"Concentration Aura", -- [11]
+								"Greater Blessing of Kings", -- [12]
+								"Blood Pact", -- [13]
+								"Prayer of Fortitude", -- [14]
+								"Prayer of Spirit", -- [15]
+								"Prayer of Shadow Protection", -- [16]
+								"Sniper Training", -- [17]
+							},
+							["Morvien"] = {
+								"Thorns", -- [1]
+								"Gift of the Wild", -- [2]
+								"Wyrmrest Champion", -- [3]
+								"Greater Blessing of Kings", -- [4]
+								"Shadow Resistance Aura", -- [5]
+								"Arcane Brilliance", -- [6]
+								"Greater Blessing of Might", -- [7]
+								"Greater Blessing of Wisdom", -- [8]
+								"Well Fed", -- [9]
+								"Greater Blessing of Sanctuary", -- [10]
+								"Flask of Stoneblood", -- [11]
+								"Righteous Fury", -- [12]
+								"Seal of Corruption", -- [13]
+								"Retribution Aura", -- [14]
+								"Devotion Aura", -- [15]
+								"Fire Resistance Aura", -- [16]
+								"Concentration Aura", -- [17]
+								"Prayer of Fortitude", -- [18]
+								"Prayer of Spirit", -- [19]
+								"Prayer of Shadow Protection", -- [20]
+							},
+							["Borialis"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Focus Magic", -- [3]
+								"Greater Blessing of Sanctuary", -- [4]
+								"Greater Blessing of Kings", -- [5]
+								"Arcane Brilliance", -- [6]
+								"Noggenfogger Elixir", -- [7]
+								"Noggenfogger Elixir", -- [8]
+								"Tree of Life", -- [9]
+								"Retribution Aura", -- [10]
+								"Concentration Aura", -- [11]
+								"Greater Blessing of Wisdom", -- [12]
+								"Well Fed", -- [13]
+								"Flask of the Frost Wyrm", -- [14]
+								"Molten Armor", -- [15]
+								"Fire Resistance Aura", -- [16]
+								"Blood Pact", -- [17]
+								"Prayer of Fortitude", -- [18]
+								"Prayer of Spirit", -- [19]
+								"Prayer of Shadow Protection", -- [20]
+							},
+							["Wiltavian"] = {
+								"Mark of the Wild", -- [1]
+								"Leader of the Pack", -- [2]
+								"Fire Resistance Aura", -- [3]
+								"Concentration Aura", -- [4]
+								"Tree of Life", -- [5]
+								"Retribution Aura", -- [6]
+								"Flask of Pure Mojo", -- [7]
+								"Greater Blessing of Sanctuary", -- [8]
+								"Water Shield", -- [9]
+								"Greater Blessing of Kings", -- [10]
+								"Blood Pact", -- [11]
+								"Prayer of Fortitude", -- [12]
+								"Prayer of Spirit", -- [13]
+								"Prayer of Shadow Protection", -- [14]
+								"Greater Blessing of Wisdom", -- [15]
+								"Greater Blessing of Might", -- [16]
+							},
+							["Bukthan"] = {
+								"Thorns", -- [1]
+								"Leader of the Pack", -- [2]
+								"Gift of the Wild", -- [3]
+								"Greater Blessing of Might", -- [4]
+								"Greater Blessing of Wisdom", -- [5]
+								"Greater Blessing of Kings", -- [6]
+								"Well Fed", -- [7]
+								"Righteous Fury", -- [8]
+								"Greater Blessing of Sanctuary", -- [9]
+								"Seal of Corruption", -- [10]
+								"Arcane Brilliance", -- [11]
+								"Devotion Aura", -- [12]
+								"Retribution Aura", -- [13]
+								"Concentration Aura", -- [14]
+								"Fire Resistance Aura", -- [15]
+								"Flask of Stoneblood", -- [16]
+								"Earth Shield", -- [17]
+								"Shadow Resistance Aura", -- [18]
+								"Prayer of Fortitude", -- [19]
+								"Prayer of Spirit", -- [20]
+								"Prayer of Shadow Protection", -- [21]
+								"Prayer of Mending", -- [22]
+								"Guardian Spirit", -- [23]
+								"Misdirection", -- [24]
+								"Divine Plea", -- [25]
+								"Beacon of Light", -- [26]
+								"Renew", -- [27]
+								"Sacred Shield", -- [28]
+								"Avenging Wrath", -- [29]
+							},
+							["Riçkkëz"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Greater Blessing of Might", -- [3]
+								"Greater Blessing of Wisdom", -- [4]
+								"Arcane Brilliance", -- [5]
+								"Tree of Life", -- [6]
+								"Well Fed", -- [7]
+								"Greater Blessing of Sanctuary", -- [8]
+								"Concentration Aura", -- [9]
+								"Seal of Corruption", -- [10]
+								"Retribution Aura", -- [11]
+								"Devotion Aura", -- [12]
+								"Fire Resistance Aura", -- [13]
+								"Flask of Endless Rage", -- [14]
+								"Shadow Resistance Aura", -- [15]
+								"Greater Blessing of Kings", -- [16]
+								"Blood Pact", -- [17]
+								"Prayer of Fortitude", -- [18]
+								"Prayer of Spirit", -- [19]
+								"Prayer of Shadow Protection", -- [20]
+							},
+							["Riverblade"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Greater Blessing of Might", -- [3]
+								"Greater Blessing of Wisdom", -- [4]
+								"Arcane Brilliance", -- [5]
+								"Greater Blessing of Kings", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Devotion Aura", -- [8]
+								"Tree of Life", -- [9]
+								"Concentration Aura", -- [10]
+								"Aspect of the Dragonhawk", -- [11]
+								"Fire Resistance Aura", -- [12]
+								"Retribution Aura", -- [13]
+								"Shadow Resistance Aura", -- [14]
+								"Well Fed", -- [15]
+								"Flask of Endless Rage", -- [16]
+								"Blood Pact", -- [17]
+								"Prayer of Fortitude", -- [18]
+								"Prayer of Spirit", -- [19]
+								"Prayer of Shadow Protection", -- [20]
+								"Misdirection", -- [21]
+							},
+							["Silvanara"] = {
+								"Leader of the Pack", -- [1]
+								"Gift of the Wild", -- [2]
+								"Retribution Aura", -- [3]
+								"Greater Blessing of Kings", -- [4]
+								"Fire Resistance Aura", -- [5]
+								"Tree of Life", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Arcane Brilliance", -- [8]
+								"Concentration Aura", -- [9]
+								"Well Fed", -- [10]
+								"Flask of the Frost Wyrm", -- [11]
+								"Shadow Resistance Aura", -- [12]
+								"Devotion Aura", -- [13]
+								"Inner Fire", -- [14]
+								"Blood Pact", -- [15]
+								"Prayer of Fortitude", -- [16]
+								"Prayer of Spirit", -- [17]
+								"Prayer of Shadow Protection", -- [18]
+								"Greater Blessing of Wisdom", -- [19]
+							},
+						},
+						["time"] = 1251427217,
+						["killed"] = true,
+					}, -- [1]
+				},
+			},
+			["Flame Leviathan"] = {
+				["loots"] = {
+					{
+						["amount"] = 1,
+						["item"] = "|cffa335ee|Hitem:45110:0:0:0:0:0:0:-1710722432:80|h[Titanguard]|h|r",
+						["who"] = "Valsarius",
+					}, -- [1]
+					{
+						["amount"] = 1,
+						["item"] = "|cffa335ee|Hitem:45116:0:0:0:0:0:0:-1442286976:80|h[Freya's Choker of Warding]|h|r",
+						["who"] = "Wholistic",
+					}, -- [2]
+					{
+						["amount"] = 21,
+						["item"] = "|cffa335ee|Hitem:45109:0:0:0:0:0:0:-1979157888:80|h[Gloves of the Fiery Behemoth]|h|r",
+						["who"] = "Nantucket",
+					}, -- [3]
+				},
+				["attempts"] = {
+					{
+						["attendance"] = {
+							"Bukthan", -- [1]
+							"Tarnaa", -- [2]
+							"Shyzyhra", -- [3]
+							"Morvien", -- [4]
+							"Traak", -- [5]
+							"Riçkkëz", -- [6]
+							"Wholistic", -- [7]
+							"Gylan", -- [8]
+							"Lunastra", -- [9]
+							"Borialis", -- [10]
+							"Wiltavian", -- [11]
+							"Kinu", -- [12]
+							"Knytephal", -- [13]
+							"Valore", -- [14]
+							"Silvanara", -- [15]
+							"Withal", -- [16]
+							"Valsarius", -- [17]
+							"Nantucket", -- [18]
+							"Elaini", -- [19]
+							"Riverblade", -- [20]
+							"Quilderaumo", -- [21]
+						},
+						["buffs"] = {
+							["Quilderaumo"] = {
+								"Well Fed", -- [1]
+								"Flask of Stoneblood", -- [2]
+								"Gift of the Wild", -- [3]
+								"Arcane Brilliance", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Greater Blessing of Kings", -- [8]
+								"Greater Blessing of Wisdom", -- [9]
+							},
+							["Shyzyhra"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Greater Blessing of Sanctuary", -- [3]
+								"Arcane Brilliance", -- [4]
+								"Well Fed", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Molten Armor", -- [8]
+								"Flask of the Frost Wyrm", -- [9]
+							},
+							["Elaini"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Inner Fire", -- [3]
+								"Arcane Brilliance", -- [4]
+								"Well Fed", -- [5]
+								"Greater Blessing of Sanctuary", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Flask of Pure Mojo", -- [9]
+							},
+							["Traak"] = {
+								"Gift of the Wild", -- [1]
+								"Wyrmrest Champion", -- [2]
+								"Arcane Brilliance", -- [3]
+								"Well Fed", -- [4]
+								"Prayer of Spirit", -- [5]
+								"Alchemist's Stone", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Greater Blessing of Kings", -- [8]
+								"Greater Blessing of Wisdom", -- [9]
+								"Prayer of Fortitude", -- [10]
+								"Flask of the Frost Wyrm", -- [11]
+							},
+							["Tarnaa"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Prayer of Shadow Protection", -- [3]
+								"Prayer of Spirit", -- [4]
+								"Well Fed", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Arcane Brilliance", -- [8]
+								"Flask of Endless Rage", -- [9]
+							},
+							["Valsarius"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Greater Blessing of Wisdom", -- [3]
+								"Arcane Brilliance", -- [4]
+								"Greater Blessing of Might", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Well Fed", -- [8]
+								"Greater Blessing of Sanctuary", -- [9]
+								"Crusader Aura", -- [10]
+							},
+							["Wholistic"] = {
+								"Gift of the Wild", -- [1]
+								"Champion of the Kirin Tor", -- [2]
+								"Greater Blessing of Kings", -- [3]
+								"Greater Blessing of Sanctuary", -- [4]
+								"Arcane Brilliance", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Flask of the Frost Wyrm", -- [8]
+							},
+							["Valore"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Arcane Brilliance", -- [3]
+								"Greater Blessing of Might", -- [4]
+								"Well Fed", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Righteous Fury", -- [8]
+								"Greater Blessing of Wisdom", -- [9]
+								"Greater Blessing of Sanctuary", -- [10]
+								"Seal of Wisdom", -- [11]
+								"Devotion Aura", -- [12]
+							},
+							["Withal"] = {
+								"Gift of the Wild", -- [1]
+								"Ebon Champion", -- [2]
+								"Greater Blessing of Sanctuary", -- [3]
+								"Arcane Brilliance", -- [4]
+								"Well Fed", -- [5]
+								"Greater Blessing of Kings", -- [6]
+								"Prayer of Spirit", -- [7]
+								"Prayer of Fortitude", -- [8]
+								"Flask of Endless Rage", -- [9]
+								"Blood Presence", -- [10]
+							},
+							["Lunastra"] = {
+								"Flask of Endless Rage", -- [1]
+								"Aspect of the Dragonhawk", -- [2]
+								"Well Fed", -- [3]
+								"Essence of Wintergrasp", -- [4]
+								"Sniper Training", -- [5]
+							},
+							["Knytephal"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Well Fed", -- [3]
+								"Prayer of Fortitude", -- [4]
+								"Prayer of Spirit", -- [5]
+								"Arcane Brilliance", -- [6]
+								"Greater Blessing of Sanctuary", -- [7]
+								"Flask of Endless Rage", -- [8]
+							},
+							["Kinu"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Fel Armor", -- [3]
+								"Greater Blessing of Sanctuary", -- [4]
+								"Arcane Brilliance", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Fortitude", -- [7]
+							},
+							["Wiltavian"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Sanctuary", -- [2]
+								"Well Fed", -- [3]
+								"Arcane Brilliance", -- [4]
+								"Prayer of Spirit", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Greater Blessing of Kings", -- [7]
+								"Prayer of Shadow Protection", -- [8]
+							},
+							["Gylan"] = {
+								"Gift of the Wild", -- [1]
+								"Well Fed", -- [2]
+								"Greater Blessing of Kings", -- [3]
+								"Arcane Brilliance", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Fortitude", -- [7]
+							},
+							["Riverblade"] = {
+								"Greater Blessing of Kings", -- [1]
+								"Greater Blessing of Sanctuary", -- [2]
+								"Divine Spirit", -- [3]
+								"Power Word: Fortitude", -- [4]
+								"Aspect of the Dragonhawk", -- [5]
+							},
+							["Morvien"] = {
+								"Gift of the Wild", -- [1]
+								"Crusader Aura", -- [2]
+								"Arcane Brilliance", -- [3]
+								"Greater Blessing of Kings", -- [4]
+								"Prayer of Fortitude", -- [5]
+								"Greater Blessing of Wisdom", -- [6]
+								"Wyrmrest Champion", -- [7]
+								"Well Fed", -- [8]
+								"Greater Blessing of Might", -- [9]
+								"Prayer of Spirit", -- [10]
+								"Greater Blessing of Sanctuary", -- [11]
+								"Flask of the Frost Wyrm", -- [12]
+							},
+							["Borialis"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Well Fed", -- [3]
+								"Greater Blessing of Sanctuary", -- [4]
+								"Arcane Brilliance", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Fortitude", -- [7]
+							},
+							["Riçkkëz"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Greater Blessing of Wisdom", -- [3]
+								"Arcane Brilliance", -- [4]
+								"Greater Blessing of Might", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Well Fed", -- [8]
+								"Greater Blessing of Sanctuary", -- [9]
+								"Seal of Corruption", -- [10]
+								"Crusader Aura", -- [11]
+							},
+							["Bukthan"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Greater Blessing of Wisdom", -- [3]
+								"Well Fed", -- [4]
+								"Arcane Brilliance", -- [5]
+								"Greater Blessing of Might", -- [6]
+								"Prayer of Shadow Protection", -- [7]
+								"Prayer of Spirit", -- [8]
+								"Prayer of Fortitude", -- [9]
+								"Righteous Fury", -- [10]
+								"Flask of Stoneblood", -- [11]
+								"Greater Blessing of Sanctuary", -- [12]
+								"Devotion Aura", -- [13]
+							},
+							["Nantucket"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Greater Blessing of Sanctuary", -- [3]
+								"Arcane Brilliance", -- [4]
+								"Prayer of Spirit", -- [5]
+								"Prayer of Fortitude", -- [6]
+								"Greater Blessing of Wisdom", -- [7]
+								"Flask of Endless Rage", -- [8]
+							},
+							["Silvanara"] = {
+								"Gift of the Wild", -- [1]
+								"Greater Blessing of Kings", -- [2]
+								"Arcane Brilliance", -- [3]
+								"Inner Fire", -- [4]
+								"Greater Blessing of Sanctuary", -- [5]
+								"Prayer of Spirit", -- [6]
+								"Prayer of Fortitude", -- [7]
+								"Well Fed", -- [8]
+								"Flask of the Frost Wyrm", -- [9]
+							},
+						},
+						["time"] = 1251425576,
+						["killed"] = true,
 					}, -- [1]
 				},
 			},
@@ -944,148 +1541,86 @@ BidER_Raids = {
 	},
 }
 GuildRaidSnapShot_SnapShots = {
-	["Northrend Beasts 2009-08-25 22:43:00"] = {
+	["Twins 2009-08-27 21:53:14"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Naxxramas, Coolleen:Naxxramas, Cyllest:Naxxramas, Grip:Naxxramas, Inque:Icecrown, Intermission:Naxxramas, Knytephal:Dragonblight, Lunastra:Naxxramas, Melbindi:The Storm Peaks, Moriden:Dragonblight, Morvien:Dragonblight, Mzammer:Undercity, Plaguess:Dragonblight, Quilderaumo:Naxxramas, Sagiv:Dragonblight, Thakigg:Naxxramas, Traak:Felwood, Valore:Naxxramas, Wholistic:Dragonblight",
-		["Raid"] = "Bukthan:Coliseum, Saintclair:Coliseum, Tarnaa:Coliseum, Morvien:Coliseum, Knytephal:Coliseum, Traak:Coliseum, Vrisha:Coliseum, Rumbler:Coliseum, Selidar:Coliseum, Shyzyhra:Coliseum, Silvanara:Coliseum, Elaini:Coliseum, Wiltavian:Coliseum, Valsarius:Coliseum, Gylan:Coliseum, Lunastra:Coliseum, Riverblade:Coliseum, Keeneyes:Coliseum, Alok:Coliseum, Wholistic:Coliseum, Embrr:Coliseum, Valore:Coliseum, Rahz:Coliseum, Riçkkëz:Coliseum, Quilderaumo:Coliseum",
+		["Guild"] = "Borialis:Trial of the Crusader, Brashnee:Crystalsong Forest, Bukthan:Trial of the Crusader, Elaini:Trial of the Crusader, Euphel:Trial of the Crusader, Ginaden:Sholazar Basin, Gylan:Trial of the Crusader, Kinu:Trial of the Crusader, Klurk:Orgrimmar, Knytephal:Trial of the Crusader, Lunastra:Trial of the Crusader, Mathel:Tirisfal Glades, Morvien:Trial of the Crusader, Mzammer:Azjol-Nerub, Nantucket:Trial of the Crusader, Necrofeel:Winterspring, Quilderaumo:Trial of the Crusader, Riverblade:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Silvanara:Trial of the Crusader, Tarnaa:Trial of the Crusader, Traak:Trial of the Crusader, Valore:Trial of the Crusader, Valsarius:Trial of the Crusader, Wholistic:Trial of the Crusader, Wiltavian:Trial of the Crusader, Withal:Trial of the Crusader",
 		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:Trial of the Crusader, Tarnaa:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Morvien:Trial of the Crusader, Traak:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Wholistic:Trial of the Crusader, Selidar:Trial of the Crusader, Gylan:Trial of the Crusader, Lunastra:Trial of the Crusader, Borialis:Trial of the Crusader, Wiltavian:Trial of the Crusader, Alok:Offline, Kinu:Trial of the Crusader, Knytephal:Trial of the Crusader, Valore:Trial of the Crusader, Silvanara:Trial of the Crusader, Withal:Trial of the Crusader, Valsarius:Trial of the Crusader, Nantucket:Trial of the Crusader, Elaini:Trial of the Crusader, Euphel:Trial of the Crusader, Riverblade:Trial of the Crusader, Quilderaumo:Trial of the Crusader",
 		["points"] = 1,
 		["system"] = "ER DKP",
 	},
-	["Lord Jaraxxus 2009-08-25 22:45:00"] = {
+	["Flame Leviathan 2009-08-27 22:12:56"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Naxxramas, Coolleen:Naxxramas, Cyllest:Naxxramas, Grip:Naxxramas, Inque:Icecrown, Intermission:Naxxramas, Knytephal:Dragonblight, Lunastra:Naxxramas, Melbindi:The Storm Peaks, Moriden:Dragonblight, Morvien:Dragonblight, Mzammer:Undercity, Plaguess:Dragonblight, Quilderaumo:Naxxramas, Sagiv:Dragonblight, Thakigg:Naxxramas, Traak:Felwood, Valore:Naxxramas, Wholistic:Dragonblight",
-		["Raid"] = "Bukthan:Coliseum, Saintclair:Coliseum, Tarnaa:Coliseum, Morvien:Coliseum, Knytephal:Coliseum, Traak:Coliseum, Vrisha:Coliseum, Rumbler:Coliseum, Selidar:Coliseum, Shyzyhra:Coliseum, Silvanara:Coliseum, Elaini:Coliseum, Wiltavian:Coliseum, Valsarius:Coliseum, Gylan:Coliseum, Lunastra:Coliseum, Riverblade:Coliseum, Keeneyes:Coliseum, Alok:Coliseum, Wholistic:Coliseum, Embrr:Coliseum, Valore:Coliseum, Rahz:Coliseum, Riçkkëz:Coliseum, Quilderaumo:Coliseum",
+		["Guild"] = "Borialis:Ulduar, Brashnee:Icecrown, Bukthan:Ulduar, Elaini:Ulduar, Ginaden:Sholazar Basin, Gylan:Ulduar, Kinu:Ulduar, Klurk:Eye of the Storm, Knytephal:Ulduar, Lunastra:Dalaran, Mathel:Stranglethorn Vale, Morvien:Ulduar, Mzammer:Dalaran, Nantucket:Ulduar, Necrofeel:Winterspring, Quilderaumo:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Shyzyhra:Ulduar, Silvanara:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Wholistic:Ulduar, Wiltavian:Ulduar, Withal:Ulduar",
 		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:Ulduar, Tarnaa:Ulduar, Shyzyhra:Ulduar, Morvien:Ulduar, Traak:Ulduar, Riçkkëz:Ulduar, Wholistic:Ulduar, Gylan:Ulduar, Lunastra:Sunreaver's Sanctuary, Borialis:Ulduar, Wiltavian:Ulduar, Kinu:Ulduar, Knytephal:Ulduar, Valore:Ulduar, Silvanara:Ulduar, Withal:Ulduar, Valsarius:Ulduar, Nantucket:Ulduar, Elaini:Ulduar, Riverblade:Ulduar, Quilderaumo:Ulduar",
 		["points"] = 1,
 		["system"] = "ER DKP",
 	},
-	["Faction Champions 2009-08-25 22:48:00"] = {
+	["XT-002 Deconstructor 2009-08-27 22:40:17"] = {
 		["WaitList"] = "",
-		["Guild"] = "Alok:Naxxramas, Coolleen:Naxxramas, Cyllest:Naxxramas, Grip:Naxxramas, Inque:Icecrown, Intermission:Naxxramas, Knytephal:Dragonblight, Lunastra:Naxxramas, Melbindi:The Storm Peaks, Moriden:Dragonblight, Morvien:Dragonblight, Mzammer:Undercity, Plaguess:Dragonblight, Quilderaumo:Naxxramas, Sagiv:Dragonblight, Thakigg:Naxxramas, Traak:Felwood, Valore:Naxxramas, Wholistic:Dragonblight",
-		["Raid"] = "Bukthan:Coliseum, Saintclair:Coliseum, Tarnaa:Coliseum, Morvien:Coliseum, Knytephal:Coliseum, Traak:Coliseum, Vrisha:Coliseum, Rumbler:Coliseum, Selidar:Coliseum, Shyzyhra:Coliseum, Silvanara:Coliseum, Elaini:Coliseum, Wiltavian:Coliseum, Valsarius:Coliseum, Gylan:Coliseum, Lunastra:Coliseum, Riverblade:Coliseum, Keeneyes:Coliseum, Alok:Coliseum, Wholistic:Coliseum, Embrr:Coliseum, Valore:Coliseum, Rahz:Coliseum, Riçkkëz:Coliseum, Quilderaumo:Coliseum",
+		["Guild"] = "Borialis:Ulduar, Brashnee:Icecrown, Bukthan:Ulduar, Elaini:Ulduar, Euphel:The Storm Peaks, Feralz:Hellfire Ramparts, Ginaden:Sholazar Basin, Gylan:Ulduar, Kinu:Ulduar, Klurk:Durotar, Knytephal:Ulduar, Mathel:Stranglethorn Vale, Morvien:Ulduar, Nantucket:Ulduar, Necrofeel:Winterspring, Quilderaumo:Ulduar, Riverblade:Ulduar, Riçkkëz:Ulduar, Saintclair:Dalaran, Shyzyhra:Ulduar, Silvanara:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Wholistic:Ulduar, Wiltavian:Ulduar, Withal:Ulduar",
 		["RealmName"] = "Draka",
-		["points"] = 4,
-		["system"] = "ER DKP",
-	},
-	["Twins 2009-08-25 22:50:00"] = {
-		["WaitList"] = "",
-		["Guild"] = "Alok:Naxxramas, Coolleen:Naxxramas, Cyllest:Naxxramas, Grip:Naxxramas, Inque:Icecrown, Intermission:Naxxramas, Knytephal:Dragonblight, Lunastra:Naxxramas, Melbindi:The Storm Peaks, Moriden:Dragonblight, Morvien:Dragonblight, Mzammer:Undercity, Plaguess:Dragonblight, Quilderaumo:Naxxramas, Sagiv:Dragonblight, Thakigg:Naxxramas, Traak:Felwood, Valore:Naxxramas, Wholistic:Dragonblight",
-		["Raid"] = "Bukthan:Coliseum, Saintclair:Coliseum, Tarnaa:Coliseum, Morvien:Coliseum, Knytephal:Coliseum, Traak:Coliseum, Vrisha:Coliseum, Rumbler:Coliseum, Selidar:Coliseum, Shyzyhra:Coliseum, Silvanara:Coliseum, Elaini:Coliseum, Wiltavian:Coliseum, Valsarius:Coliseum, Gylan:Coliseum, Lunastra:Coliseum, Riverblade:Coliseum, Keeneyes:Coliseum, Alok:Coliseum, Wholistic:Coliseum, Embrr:Coliseum, Valore:Coliseum, Rahz:Coliseum, Riçkkëz:Coliseum, Quilderaumo:Coliseum",
-		["RealmName"] = "Draka",
+		["Raid"] = "Bukthan:Ulduar, Tarnaa:Ulduar, Shyzyhra:Ulduar, Morvien:Ulduar, Traak:Ulduar, Riçkkëz:Ulduar, Wholistic:Ulduar, Gylan:Ulduar, Borialis:Ulduar, Wiltavian:Ulduar, Kinu:Ulduar, Knytephal:Ulduar, Valore:Ulduar, Silvanara:Ulduar, Withal:Ulduar, Valsarius:Ulduar, Nantucket:Ulduar, Elaini:Ulduar, Riverblade:Ulduar, Quilderaumo:Ulduar",
 		["points"] = 1,
 		["system"] = "ER DKP",
 	},
 }
 GuildRaidSnapShot_Loot = {
-	["2009-08-25"] = {
+	["2009-08-27"] = {
 		{
-			["player"] = "Wholistic",
-			["item"] = "Wristwraps of Cloudy Omen",
-			["points"] = 10,
-			["date"] = "2009-08-25 21:58:27",
+			["player"] = "Valsarius",
+			["item"] = "Titanguard",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 10,
+			["date"] = "2009-08-27 22:19:56",
+			["points"] = 1,
+			["hardpoints"] = 1,
 			["system"] = "ER DKP",
 		}, -- [1]
 		{
-			["player"] = "Shyzyhra",
-			["item"] = "Trophy of the Crusade",
-			["points"] = 16,
-			["date"] = "2009-08-25 21:58:27",
+			["player"] = "Wholistic",
+			["item"] = "Freya's Choker of Warding",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 16,
+			["date"] = "2009-08-27 22:19:56",
+			["points"] = 1,
+			["hardpoints"] = 1,
 			["system"] = "ER DKP",
 		}, -- [2]
 		{
-			["player"] = "Bukthan",
-			["item"] = "Trophy of the Crusade",
-			["points"] = 17,
-			["date"] = "2009-08-25 21:58:27",
+			["player"] = "Nantucket",
+			["item"] = "Gloves of the Fiery Behemoth",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 17,
+			["date"] = "2009-08-27 22:19:56",
+			["points"] = 21,
+			["hardpoints"] = 21,
 			["system"] = "ER DKP",
 		}, -- [3]
 		{
-			["player"] = "Silvanara",
-			["item"] = "Belt of the Tenebrous Mist",
-			["points"] = 15,
-			["date"] = "2009-08-25 21:58:27",
+			["player"] = "Wholistic",
+			["item"] = "Thunderfall Totem",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 15,
+			["date"] = "2009-08-27 22:44:35",
+			["points"] = 0,
+			["hardpoints"] = 0,
 			["system"] = "ER DKP",
 		}, -- [4]
 		{
-			["player"] = "Embrr",
-			["item"] = "Flowing Robes of Ascent",
-			["points"] = 9,
-			["date"] = "2009-08-25 21:58:27",
+			["player"] = "Borialis",
+			["item"] = "Sandals of Rash Temperament",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 9,
+			["date"] = "2009-08-27 22:44:35",
+			["points"] = 8,
+			["hardpoints"] = 8,
 			["system"] = "ER DKP",
 		}, -- [5]
 		{
-			["player"] = "Rumbler",
-			["item"] = "Boneshatter Vambraces",
-			["points"] = 51,
-			["date"] = "2009-08-25 21:58:27",
+			["player"] = "Tarnaa",
+			["item"] = "Golem-Shard Sticker",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 51,
+			["date"] = "2009-08-27 22:44:35",
+			["points"] = 1,
+			["hardpoints"] = 1,
 			["system"] = "ER DKP",
 		}, -- [6]
-		{
-			["player"] = "Valsarius",
-			["item"] = "Trophy of the Crusade",
-			["points"] = 20,
-			["date"] = "2009-08-25 21:58:27",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 20,
-			["system"] = "ER DKP",
-		}, -- [7]
-		{
-			["player"] = "Valore",
-			["item"] = "Bracers of the Broken Bond",
-			["points"] = 0,
-			["date"] = "2009-08-25 21:58:27",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
-			["system"] = "ER DKP",
-		}, -- [8]
-		{
-			["player"] = "Valore",
-			["item"] = "Bastion of Resolve",
-			["points"] = 6,
-			["date"] = "2009-08-25 21:58:27",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 6,
-			["system"] = "ER DKP",
-		}, -- [9]
-		{
-			["player"] = "Selidar",
-			["item"] = "Dual-blade Butcher",
-			["points"] = 94,
-			["date"] = "2009-08-25 21:58:27",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 94,
-			["system"] = "ER DKP",
-		}, -- [10]
-		{
-			["player"] = "Riçkkëz",
-			["item"] = "Bloodbath Girdle",
-			["points"] = 16,
-			["date"] = "2009-08-25 21:58:27",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 16,
-			["system"] = "ER DKP",
-		}, -- [11]
-		{
-			["player"] = "Keeneyes",
-			["item"] = "Charge of the Eredar",
-			["points"] = 10,
-			["date"] = "2009-08-25 21:58:27",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 10,
-			["system"] = "ER DKP",
-		}, -- [12]
-  },
+	},
 }
