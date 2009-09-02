@@ -4,8 +4,10 @@ require('BidER')
 require('GRSS_Data')
 
 local dkpset = "official"
+local grss_set = "ER DKP"
 local pointfile = "points.txt"
 local lootfile = "loots.txt"
+local grssfile = "grss.txt"
 if arg[1] ~= nil then
   pointfile = arg[1]
 end
@@ -113,5 +115,32 @@ for i,raid in pairs(BidER_Raids) do
       file:write("\n")
     end
   end
+end
+file:close()
+
+file = io.open(grssfile, 'w+')
+local unmatched = {}
+local grss_dkp = GRSS_Full_DKP[grss_set]
+for i,v in ipairs(names) do
+  -- Don't print out alt names
+  if GRSS_Alts[v:lower()] == nil then
+    local name = v
+    local found = false
+    for j,w in ipairs(grss_dkp) do
+      if w.name == name then
+        local total = w.earned - w.spent + w.adj
+        if total ~= tonumber(dkp[name].total) then
+          file:write("ERROR: " .. name .. " " .. dkp[name].total .. " <=> " .. total .. "\n")
+        end
+        found = true
+      end
+    end
+    if not found then
+      table.insert(unmatched, name)
+    end
+  end
+end
+for i,v in ipairs(unmatched) do
+  file:write("Unmatched: " .. v .. "\n")
 end
 file:close()
