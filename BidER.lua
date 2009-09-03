@@ -1,6 +1,6 @@
 
 BidER_DKP = {
-	["official"] = {
+	["ER DKP"] = {
 		["Plaguess"] = {
 			["total"] = 34,
 		},
@@ -191,7 +191,7 @@ BidER_DKP = {
 			["total"] = "16",
 		},
 		["Annawho"] = {
-			["total"] = 5,
+			["total"] = 26,
 		},
 		["Bukthin"] = {
 			["total"] = 34,
@@ -538,9 +538,6 @@ BidER_DKP = {
 		["Yelgrun"] = {
 			["total"] = 6,
 		},
-		["Ilie"] = {
-			["total"] = "21",
-		},
 		["Riverblade"] = {
 			["total"] = 41,
 		},
@@ -676,7 +673,7 @@ BidER_DKP = {
 	},
 }
 BidER_DKPResets = {
-	["official"] = {
+	["ER DKP"] = {
 		"Valore", -- [1]
 		"Riverblade", -- [2]
 		"Mzammer", -- [3]
@@ -724,7 +721,7 @@ BidER_DKPResets = {
 BidER_Settings = {
 	["threshold"] = 4,
 	["last_call"] = "Last call!",
-	["dkp"] = "official",
+	["dkp"] = "ER DKP",
 	["enchanter"] = "Shyzyhra",
 	["channel"] = "erloot",
 }
