@@ -1180,24 +1180,6 @@ GuildRaidSnapShot_Loot = {
 			["system"] = "ER DKP",
 		}, -- [10]
 		{
-			["player"] = "Silvanara",
-			["item"] = "Sandals of the Mourning Widow",
-			["points"] = 7,
-			["date"] = "2009-09-15 23:21:30",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 7,
-			["system"] = "ER DKP",
-		}, -- [11]
-		{
-			["player"] = "Keeneyes",
-			["item"] = "Trophy of the Crusade",
-			["points"] = 21,
-			["date"] = "2009-09-15 23:21:30",
-			["RealmName"] = "Draka",
-			["hardpoints"] = 21,
-			["system"] = "ER DKP",
-		}, -- [12]
-		{
 			["player"] = "Verinda",
 			["item"] = "Belt of Biting Cold",
 			["points"] = 3,
