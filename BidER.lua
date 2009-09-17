@@ -802,413 +802,454 @@ BidER_MinimumBids = {
 	["Trophy of the Crusade"] = 10,
 }
 BidER_Raids = {
-	[1252631709] = {
-		["start_time"] = 1252631709,
-		["end_time"] = 1252643598,
+	[1253063358] = {
+		["start_time"] = 1253063358,
+		["end_time"] = 1253075328,
 		["events"] = {
-			["Assembly of Iron"] = {
+			["Twin Valkyr"] = {
 				["attempts"] = {
 					{
 						["attendance"] = {
-							"Morvien", -- [1]
-							"Shyzyhra", -- [2]
-							"Aanelorn", -- [3]
-							"Valore", -- [4]
-							"Keeneyes", -- [5]
-							"Borialis", -- [6]
-							"Elaini", -- [7]
-							"Alok", -- [8]
-							"Vrisha", -- [9]
-							"Embrr", -- [10]
-							"Wiltavian", -- [11]
-							"Selidar", -- [12]
-							"Tarnaa", -- [13]
-							"Traak", -- [14]
-							"Vyndesmyr", -- [15]
-							"Rahz", -- [16]
-							"Beastlybeers", -- [17]
-							"Nantucket", -- [18]
-							"Dragoog", -- [19]
-							"Scornmage", -- [20]
-							"Ariaxx", -- [21]
-							"Binder", -- [22]
-							"Valsarius", -- [23]
-							"Quilderaumo", -- [24]
+							"Wiltavian", -- [1]
+							"Morvien", -- [2]
+							"Vrisha", -- [3]
+							"Elaini", -- [4]
+							"Traak", -- [5]
+							"Riçkkëz", -- [6]
+							"Silvanara", -- [7]
+							"Keeneyes", -- [8]
+							"Valsarius", -- [9]
+							"Riverblade", -- [10]
+							"Rahz", -- [11]
+							"Vyndesmyr", -- [12]
+							"Wholistic", -- [13]
+							"Verinda", -- [14]
+							"Shyzyhra", -- [15]
+							"Embrr", -- [16]
+							"Alok", -- [17]
+							"Irshul", -- [18]
+							"Ariaxx", -- [19]
+							"Beastlybeers", -- [20]
+							"Scornmage", -- [21]
+							"Selidar", -- [22]
+							"Quilderaumo", -- [23]
 						},
 						["buffs"] = {
 						},
-						["time"] = 1252638542,
+						["time"] = 1253073965,
 						["killed"] = true,
 					}, -- [1]
 				},
 				["loots"] = {
 					{
 						["who"] = "Morvien",
-						["item"] = "|cffa335ee|Hitem:45228:0:0:0:0:0:0:-1674989952:80|h[Handguards of the Enclave]|h|r",
+						["item"] = "|cffa335ee|Hitem:47298:0:0:0:0:0:0:887505672:80|h[Armguards of the Shieldmaiden]|h|r",
+						["amount"] = 10,
+					}, -- [1]
+					{
+						["who"] = "Valsarius",
+						["item"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:-1900114176:80|h[Trophy of the Crusade]|h|r",
+						["amount"] = 22,
+					}, -- [2]
+					{
+						["who"] = "Shyzyhra",
+						["item"] = "|cffa335ee|Hitem:47306:0:0:0:0:0:0:2126417664:80|h[Dark Essence Bindings]|h|r",
+						["amount"] = 11,
+					}, -- [3]
+					{
+						["who"] = "Vrisha",
+						["item"] = "|cffa335ee|Hitem:47305:0:0:0:0:0:0:1155941128:80|h[Legionnaire's Gorget]|h|r",
+						["amount"] = 10,
+					}, -- [4]
+				},
+			},
+			["Faction Champions"] = {
+				["attempts"] = {
+					{
+						["attendance"] = {
+							"Wiltavian", -- [1]
+							"Morvien", -- [2]
+							"Vrisha", -- [3]
+							"Elaini", -- [4]
+							"Traak", -- [5]
+							"Riçkkëz", -- [6]
+							"Silvanara", -- [7]
+							"Saintclair", -- [8]
+							"Keeneyes", -- [9]
+							"Valsarius", -- [10]
+							"Riverblade", -- [11]
+							"Rahz", -- [12]
+							"Vyndesmyr", -- [13]
+							"Wholistic", -- [14]
+							"Verinda", -- [15]
+							"Shyzyhra", -- [16]
+							"Embrr", -- [17]
+							"Alok", -- [18]
+							"Irshul", -- [19]
+							"Ariaxx", -- [20]
+							"Beastlybeers", -- [21]
+							"Scornmage", -- [22]
+							"Selidar", -- [23]
+							"Quilderaumo", -- [24]
+						},
+						["buffs"] = {
+						},
+						["time"] = 1253070721,
+						["killed"] = true,
+					}, -- [1]
+				},
+				["loots"] = {
+					{
+						["who"] = "Silvanara",
+						["item"] = "|cffa335ee|Hitem:47293:0:0:0:0:0:0:-1702741568:80|h[Sandals of the Mourning Widow]|h|r",
+						["amount"] = 25,
+					}, -- [1]
+					{
+						["who"] = "Keeneyes",
+						["item"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:-1434306112:80|h[Trophy of the Crusade]|h|r",
+						["amount"] = 22,
+					}, -- [2]
+					{
+						["who"] = "Silvanara",
+						["item"] = "|cffa335ee|Hitem:47293:0:0:0:0:0:0:-1702741568:80|h[Sandals of the Mourning Widow]|h|r",
+						["amount"] = 7,
+					}, -- [3]
+					{
+						["who"] = "Keeneyes",
+						["item"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:-1434306112:80|h[Trophy of the Crusade]|h|r",
+						["amount"] = 21,
+					}, -- [4]
+					{
+						["who"] = "Verinda",
+						["item"] = "|cffa335ee|Hitem:47286:0:0:0:0:0:0:-1971177024:80|h[Belt of Biting Cold]|h|r",
+						["amount"] = 3,
+					}, -- [5]
+					{
+						["who"] = "Riçkkëz",
+						["item"] = "|cffa335ee|Hitem:47285:0:0:0:0:0:0:2055354816:80|h[Dual-blade Butcher]|h|r",
+						["amount"] = 10,
+					}, -- [6]
+				},
+			},
+			["Lord Jaraxxus"] = {
+				["attempts"] = {
+					{
+						["attendance"] = {
+							"Wiltavian", -- [1]
+							"Morvien", -- [2]
+							"Vrisha", -- [3]
+							"Elaini", -- [4]
+							"Traak", -- [5]
+							"Riçkkëz", -- [6]
+							"Silvanara", -- [7]
+							"Saintclair", -- [8]
+							"Keeneyes", -- [9]
+							"Valsarius", -- [10]
+							"Riverblade", -- [11]
+							"Rahz", -- [12]
+							"Vyndesmyr", -- [13]
+							"Wholistic", -- [14]
+							"Verinda", -- [15]
+							"Shyzyhra", -- [16]
+							"Embrr", -- [17]
+							"Alok", -- [18]
+							"Irshul", -- [19]
+							"Ariaxx", -- [20]
+							"Beastlybeers", -- [21]
+							"Euphel", -- [22]
+							"Scornmage", -- [23]
+							"Selidar", -- [24]
+							"Quilderaumo", -- [25]
+						},
+						["buffs"] = {
+						},
+						["time"] = 1253067011,
+						["killed"] = true,
+					}, -- [1]
+				},
+				["loots"] = {
+					{
+						["who"] = "Morvien",
+						["item"] = "|cffa335ee|Hitem:47275:0:0:0:0:0:0:-1935781504:80|h[Pride of the Demon Lord]|h|r",
+						["amount"] = 11,
+					}, -- [1]
+					{
+						["who"] = "Alok",
+						["item"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:-1398910592:80|h[Trophy of the Crusade]|h|r",
+						["amount"] = 21,
+					}, -- [2]
+					{
+						["who"] = "Selidar",
+						["item"] = "|cffa335ee|Hitem:47268:0:0:0:0:0:0:2090750336:80|h[Bloodbath Girdle]|h|r",
+						["amount"] = 10,
+					}, -- [3]
+					{
+						["who"] = "Wiltavian",
+						["item"] = "|cffa335ee|Hitem:47278:0:0:0:0:0:0:-1667346048:80|h[Circle of the Darkmender]|h|r",
+						["amount"] = 13,
+					}, -- [4]
+				},
+			},
+			["Northrend Beasts"] = {
+				["attempts"] = {
+					{
+						["attendance"] = {
+							"Wiltavian", -- [1]
+							"Morvien", -- [2]
+							"Vrisha", -- [3]
+							"Elaini", -- [4]
+							"Traak", -- [5]
+							"Riçkkëz", -- [6]
+							"Silvanara", -- [7]
+							"Saintclair", -- [8]
+							"Keeneyes", -- [9]
+							"Valsarius", -- [10]
+							"Riverblade", -- [11]
+							"Rahz", -- [12]
+							"Vyndesmyr", -- [13]
+							"Wholistic", -- [14]
+							"Verinda", -- [15]
+							"Shyzyhra", -- [16]
+							"Embrr", -- [17]
+							"Alok", -- [18]
+							"Irshul", -- [19]
+							"Ariaxx", -- [20]
+							"Beastlybeers", -- [21]
+							"Euphel", -- [22]
+							"Scornmage", -- [23]
+							"Selidar", -- [24]
+							"Quilderaumo", -- [25]
+						},
+						["buffs"] = {
+						},
+						["time"] = 1253065889,
+						["killed"] = true,
+					}, -- [1]
+				},
+				["loots"] = {
+					{
+						["who"] = "Irshul",
+						["item"] = "|cffa335ee|Hitem:47265:0:0:0:0:0:0:-952269696:80|h[Binding of the Ice Burrower]|h|r",
 						["amount"] = 1,
 					}, -- [1]
 					{
-						["who"] = "Scornmage",
-						["item"] = "|cffa335ee|Hitem:45236:0:0:0:0:0:0:-1406554496:80|h[Unblinking Eye]|h|r",
-						["amount"] = 1,
+						["who"] = "Embrr",
+						["item"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:-683834240:80|h[Trophy of the Crusade]|h|r",
+						["amount"] = 21,
 					}, -- [2]
 					{
 						["who"] = "Vyndesmyr",
-						["item"] = "|cffa335ee|Hitem:45227:0:0:0:0:0:0:-1943425408:80|h[Iron-studded Mantle]|h|r",
-						["amount"] = 4,
+						["item"] = "|cffa335ee|Hitem:47251:0:0:0:0:0:0:-1489140608:80|h[Cuirass of Cruel Intent]|h|r",
+						["amount"] = 2,
 					}, -- [3]
-				},
-			},
-			["Flame Leviathan"] = {
-				["loots"] = {
-					{
-						["amount"] = 3,
-						["item"] = "|cffa335ee|Hitem:45112:0:0:0:0:0:0:1480350464:80|h[The Leviathan's Coil]|h|r",
-						["who"] = "Aanelorn",
-					}, -- [1]
-					{
-						["amount"] = 1,
-						["item"] = "|cffa335ee|Hitem:45108:0:0:0:0:0:0:1211915008:80|h[Mechanist's Bindings]|h|r",
-						["who"] = "Vrisha",
-					}, -- [2]
-					{
-						["amount"] = 0,
-						["item"] = "|cffa335ee|Hitem:45118:0:0:0:0:0:0:1748785920:80|h[Steamworker's Goggles]|h|r",
-						["who"] = "Valsarius",
-					}, -- [3]
-				},
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Morvien", -- [1]
-							"Shyzyhra", -- [2]
-							"Aanelorn", -- [3]
-							"Valore", -- [4]
-							"Keeneyes", -- [5]
-							"Beastlybeers", -- [6]
-							"Elaini", -- [7]
-							"Alok", -- [8]
-							"Vrisha", -- [9]
-							"Ariaxx", -- [10]
-							"Wiltavian", -- [11]
-							"Selidar", -- [12]
-							"Tarnaa", -- [13]
-							"Traak", -- [14]
-							"Vyndesmyr", -- [15]
-							"Rahz", -- [16]
-							"Nantucket", -- [17]
-							"Scornmage", -- [18]
-							"Valsarius", -- [19]
-							"Quilderaumo", -- [20]
-						},
-						["buffs"] = {
-						},
-						["time"] = 1252632959,
-						["killed"] = true,
-					}, -- [1]
-				},
-			},
-			["Kologarn"] = {
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Morvien", -- [1]
-							"Shyzyhra", -- [2]
-							"Aanelorn", -- [3]
-							"Scornmage", -- [4]
-							"Keeneyes", -- [5]
-							"Borialis", -- [6]
-							"Elaini", -- [7]
-							"Alok", -- [8]
-							"Vrisha", -- [9]
-							"Embrr", -- [10]
-							"Wiltavian", -- [11]
-							"Selidar", -- [12]
-							"Tarnaa", -- [13]
-							"Traak", -- [14]
-							"Vyndesmyr", -- [15]
-							"Rahz", -- [16]
-							"Beastlybeers", -- [17]
-							"Binder", -- [18]
-							"Valore", -- [19]
-							"Ariaxx", -- [20]
-							"Dragoog", -- [21]
-							"Valsarius", -- [22]
-							"Quilderaumo", -- [23]
-						},
-						["buffs"] = {
-						},
-						["time"] = 1252641491,
-						["killed"] = true,
-					}, -- [1]
-				},
-				["loots"] = {
-					{
-						["who"] = "Scornmage",
-						["item"] = "|cffa335ee|Hitem:45271:0:0:0:0:0:0:974400320:80|h[Ironmender]|h|r",
-						["amount"] = 8,
-					}, -- [1]
 					{
 						["who"] = "Rahz",
-						["item"] = "|cffa335ee|Hitem:45266:0:0:0:0:0:0:705964864:80|h[Malice]|h|r",
-						["amount"] = 8,
-					}, -- [2]
-					{
-						["item"] = "|cffa335ee|Hitem:45265:0:0:0:0:0:0:437529408:80|h[Shoulderpads of the Monolith]|h|r",
-					}, -- [3]
-				},
-			},
-			["Deconstructor"] = {
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Morvien", -- [1]
-							"Shyzyhra", -- [2]
-							"Aanelorn", -- [3]
-							"Valore", -- [4]
-							"Keeneyes", -- [5]
-							"Borialis", -- [6]
-							"Elaini", -- [7]
-							"Alok", -- [8]
-							"Vrisha", -- [9]
-							"Ariaxx", -- [10]
-							"Wiltavian", -- [11]
-							"Selidar", -- [12]
-							"Tarnaa", -- [13]
-							"Traak", -- [14]
-							"Vyndesmyr", -- [15]
-							"Rahz", -- [16]
-							"Beastlybeers", -- [17]
-							"Nantucket", -- [18]
-							"Scornmage", -- [19]
-							"Valsarius", -- [20]
-							"Quilderaumo", -- [21]
-						},
-						["buffs"] = {
-						},
-						["time"] = 1252635614,
-						["killed"] = true,
-					}, -- [1]
-				},
-				["loots"] = {
-					{
-						["who"] = "Valore",
-						["item"] = "|cffa335ee|Hitem:45247:0:0:0:0:0:0:-2018555776:80|h[Signet of the Earthshaker]|h|r",
-						["amount"] = 0,
-					}, -- [1]
-					{
-						["item"] = "|cffa335ee|Hitem:45260:0:0:0:0:0:0:-1481684864:80|h[Boots of Hasty Revival]|h|r",
-					}, -- [2]
-					{
-						["item"] = "|cffa335ee|Hitem:45255:0:0:0:0:0:0:-1750120320:80|h[Thunderfall Totem]|h|r",
-					}, -- [3]
-				},
-			},
-			["Razorscale"] = {
-				["loots"] = {
-					{
-						["amount"] = 5,
-						["item"] = "|cffa335ee|Hitem:45142:0:0:0:0:0:0:2121561088:80|h[Remorse]|h|r",
-						["who"] = "Rahz",
-					}, -- [1]
-					{
-						["amount"] = 0,
-						["item"] = "|cffa335ee|Hitem:45149:0:0:0:0:0:0:-1904970752:80|h[Bracers of the Broodmother]|h|r",
-						["who"] = "Quilderaumo",
-					}, -- [2]
-					{
-						["amount"] = 1,
-						["item"] = "|cffa335ee|Hitem:45137:0:0:0:0:0:0:1853125632:80|h[Veranus' Bane]|h|r",
-						["who"] = "Nantucket",
-					}, -- [3]
-				},
-				["attempts"] = {
-					{
-						["attendance"] = {
-							"Morvien", -- [1]
-							"Shyzyhra", -- [2]
-							"Aanelorn", -- [3]
-							"Valore", -- [4]
-							"Keeneyes", -- [5]
-							"Borialis", -- [6]
-							"Elaini", -- [7]
-							"Alok", -- [8]
-							"Vrisha", -- [9]
-							"Ariaxx", -- [10]
-							"Wiltavian", -- [11]
-							"Selidar", -- [12]
-							"Tarnaa", -- [13]
-							"Traak", -- [14]
-							"Vyndesmyr", -- [15]
-							"Rahz", -- [16]
-							"Beastlybeers", -- [17]
-							"Nantucket", -- [18]
-							"Scornmage", -- [19]
-							"Valsarius", -- [20]
-							"Quilderaumo", -- [21]
-						},
-						["buffs"] = {
-						},
-						["time"] = 1252634137,
-						["killed"] = true,
-					}, -- [1]
+						["item"] = "|cffa335ee|Hitem:47257:0:0:0:0:0:0:-1220705152:80|h[Cloak of the Untamed Predator]|h|r",
+						["amount"] = 12,
+					}, -- [4]
 				},
 			},
 		},
-		["zone"] = "Ulduar",
+		["zone"] = "Trial of the Crusader",
 	},
 }
 GuildRaidSnapShot_SnapShots = {
-	["Deconstructor 2009-09-10 21:20:14"] = {
+	["Northrend Beasts 2009-09-15 21:51:29"] = {
 		["WaitList"] = "",
-		["Guild"] = "Vyndesmyr:Ulduar, Necrofeel:Howling Fjord, Beastlybeers:Ulduar, Jestik:Isle of Quel'Danas, Vane:Alterac Valley, Aanelorn:Ulduar, Ariaxx:Ulduar, Borialis:Ulduar, Inque:Dragonblight, Nantucket:Ulduar, Ridea:Magisters' Terrace, Scornmage:Ulduar, Alok:Ulduar, Elaini:Ulduar, Rahz:Ulduar, Selidar:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Vrisha:Ulduar, Quilderaumo:Ulduar, Wiltavian:Ulduar, Morvien:Ulduar, Shyzyhra:Ulduar, Keeneyes:Ulduar",
-		["Raid"] = "Morvien:Ulduar, Shyzyhra:Ulduar, Aanelorn:Ulduar, Valore:Ulduar, Keeneyes:Ulduar, Borialis:Ulduar, Elaini:Ulduar, Alok:Ulduar, Vrisha:Ulduar, Ariaxx:Ulduar, Wiltavian:Ulduar, Selidar:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Vyndesmyr:Ulduar, Rahz:Ulduar, Beastlybeers:Ulduar, Nantucket:Ulduar, Scornhorn:Ulduar, Valsarius:Ulduar, Quilderaumo:Ulduar",
+		["Guild"] = "Alok:Trial of the Crusader, Ariaxx:Trial of the Crusader, Beastlybeers:Trial of the Crusader, Blyte:Zul'Drak, Bonecrusher:Alterac Mountains, Elaini:Trial of the Crusader, Embrr:Trial of the Crusader, Euphel:Trial of the Crusader, Inque:Sholazar Basin, Irshul:Trial of the Crusader, Jestik:Stranglethorn Vale, Keeneyes:Trial of the Crusader, Morvien:Trial of the Crusader, Nantucket:Vault of Archavon, Quilderaumo:Trial of the Crusader, Rahz:Trial of the Crusader, Riverblade:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Saintclair:Trial of the Crusader, Scornmage:Trial of the Crusader, Selidar:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Silvanara:Trial of the Crusader, Traak:Trial of the Crusader, Valsarius:Trial of the Crusader, Verinda:Trial of the Crusader, Vore:Isle of Conquest, Vrisha:Trial of the Crusader, Vyndesmyr:Trial of the Crusader, Wholistic:Trial of the Crusader, Wiltavian:Trial of the Crusader",
+		["Raid"] = "Wiltavian:Trial of the Crusader, Morvien:Trial of the Crusader, Vrisha:Trial of the Crusader, Elaini:Trial of the Crusader, Traak:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Silvanara:Trial of the Crusader, Saintclair:Trial of the Crusader, Keeneyes:Trial of the Crusader, Valsarius:Trial of the Crusader, Riverblade:Trial of the Crusader, Rahz:Trial of the Crusader, Vyndesmyr:Trial of the Crusader, Wholistic:Trial of the Crusader, Verinda:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Embrr:Trial of the Crusader, Alok:Trial of the Crusader, Irshul:Trial of the Crusader, Ariaxx:Trial of the Crusader, Beastlybeers:Trial of the Crusader, Euphel:Trial of the Crusader, Scornmage:Trial of the Crusader, Selidar:Trial of the Crusader, Quilderaumo:Trial of the Crusader",
 		["RealmName"] = "Draka",
 		["points"] = 1,
 		["system"] = "ER DKP",
 	},
-	["Assembly of Iron 2009-09-10 22:09:02"] = {
+	["Lord Jaraxxus 2009-09-15 22:10:11"] = {
 		["WaitList"] = "",
-		["Guild"] = "Vyndesmyr:Ulduar, Beastlybeers:Ulduar, Dragoog:Ulduar, Raidan:Durotar, Gindus:Orgrimmar, Vane:Alterac Valley, Aanelorn:Ulduar, Ariaxx:Ulduar, Binder:Icecrown, Borialis:Ulduar, Gnasha:The Storm Peaks, Lien:Icecrown, Nantucket:Ulduar, Scornmage:Ulduar, Alok:Ulduar, Elaini:Ulduar, Embrr:Ulduar, Rahz:Ulduar, Selidar:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Vrisha:Ulduar, Quilderaumo:Ulduar, Wiltavian:Ulduar, Morvien:Ulduar, Shyzyhra:Ulduar, Keeneyes:Ulduar",
-		["Raid"] = "Morvien:Ulduar, Shyzyhra:Ulduar, Aanelorn:Ulduar, Valore:Ulduar, Keeneyes:Ulduar, Borialis:Ulduar, Elaini:Ulduar, Alok:Ulduar, Vrisha:Ulduar, Embrr:Ulduar, Wiltavian:Ulduar, Selidar:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Vyndesmyr:Ulduar, Rahz:Ulduar, Beastlybeers:Ulduar, Nantucket:Ulduar, Dragoog:Ulduar, Scornhorn:Ulduar, Ariaxx:Ulduar, Binder:Argent Tournament Grounds, Valsarius:Ulduar, Quilderaumo:Ulduar",
+		["Guild"] = "Alok:Trial of the Crusader, Ariaxx:Trial of the Crusader, Beastlybeers:Trial of the Crusader, Blyte:Zul'Drak, Bonecrusher:Alterac Mountains, Elaini:Trial of the Crusader, Embrr:Trial of the Crusader, Euphel:Trial of the Crusader, Inque:Sholazar Basin, Irshul:Trial of the Crusader, Jestik:Dalaran, Keeneyes:Trial of the Crusader, Morvien:Trial of the Crusader, Nantucket:Vault of Archavon, Necrofeel:Dragonblight, Quilderaumo:Trial of the Crusader, Rahz:Trial of the Crusader, Ridea:Icecrown, Riverblade:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Saintclair:Trial of the Crusader, Scornmage:Trial of the Crusader, Selidar:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Silvanara:Trial of the Crusader, Traak:Trial of the Crusader, Valsarius:Trial of the Crusader, Verinda:Trial of the Crusader, Vore:Dalaran, Vrisha:Trial of the Crusader, Vyndesmyr:Trial of the Crusader, Wholistic:Trial of the Crusader, Wiltavian:Trial of the Crusader",
+		["Raid"] = "Wiltavian:Trial of the Crusader, Morvien:Trial of the Crusader, Vrisha:Trial of the Crusader, Elaini:Trial of the Crusader, Traak:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Silvanara:Trial of the Crusader, Saintclair:Trial of the Crusader, Keeneyes:Trial of the Crusader, Valsarius:Trial of the Crusader, Riverblade:Trial of the Crusader, Rahz:Trial of the Crusader, Vyndesmyr:Trial of the Crusader, Wholistic:Trial of the Crusader, Verinda:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Embrr:Trial of the Crusader, Alok:Trial of the Crusader, Irshul:Trial of the Crusader, Ariaxx:Trial of the Crusader, Beastlybeers:Trial of the Crusader, Euphel:Trial of the Crusader, Scornmage:Trial of the Crusader, Selidar:Trial of the Crusader, Quilderaumo:Trial of the Crusader",
 		["RealmName"] = "Draka",
 		["points"] = 1,
 		["system"] = "ER DKP",
 	},
-	["Kologarn 2009-09-10 22:58:11"] = {
+	["Faction Champions 2009-09-15 23:12:01"] = {
 		["WaitList"] = "",
-		["Guild"] = "Vyndesmyr:Ulduar, Necrofeel:Howling Fjord, Beastlybeers:Ulduar, Dragoog:Ulduar, Raidan:Durotar, Gindus:Hellfire Peninsula, Vane:Alterac Valley, Aanelorn:Ulduar, Annawho:Dustwallow Marsh, Ariaxx:Ulduar, Binder:Ulduar, Borialis:Ulduar, Lien:Sholazar Basin, Loveday:The Storm Peaks, Scornmage:Ulduar, Alok:Ulduar, Elaini:Ulduar, Embrr:Ulduar, Rahz:Ulduar, Selidar:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Vrisha:Ulduar, Quilderaumo:Ulduar, Wiltavian:Ulduar, Morvien:Ulduar, Shyzyhra:Ulduar, Keeneyes:Ulduar",
-		["Raid"] = "Morvien:Ulduar, Shyzyhra:Ulduar, Aanelorn:Ulduar, Scornhorn:Ulduar, Keeneyes:Ulduar, Borialis:Ulduar, Elaini:Ulduar, Alok:Ulduar, Vrisha:Ulduar, Embrr:Ulduar, Wiltavian:Ulduar, Selidar:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Vyndesmyr:Ulduar, Rahz:Ulduar, Beastlybeers:Ulduar, Binder:Ulduar, Valore:Ulduar, Ariaxx:Ulduar, Dragoog:Ulduar, Valsarius:Ulduar, Quilderaumo:Ulduar",
+		["Guild"] = "Alok:Trial of the Crusader, Ariaxx:Trial of the Crusader, Beastlybeers:Trial of the Crusader, Deathblooms:Icecrown, Elaini:Trial of the Crusader, Embrr:Trial of the Crusader, Gnasha:Icecrown, Inque:The Storm Peaks, Irshul:Trial of the Crusader, Keeneyes:Trial of the Crusader, Loveday:Dalaran, Morvien:Trial of the Crusader, Necrofeel:Dragonblight, Quilderaumo:Trial of the Crusader, Rahz:Trial of the Crusader, Ridea:Icecrown, Riverblade:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Saintclair:Trial of the Crusader, Scornmage:Trial of the Crusader, Selidar:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Silvanara:Trial of the Crusader, Traak:Trial of the Crusader, Valsarius:Trial of the Crusader, Verinda:Trial of the Crusader, Vore:Icecrown, Vrisha:Trial of the Crusader, Vyndesmyr:Trial of the Crusader, Wholistic:Trial of the Crusader, Wiltavian:Trial of the Crusader",
+		["Raid"] = "Wiltavian:Trial of the Crusader, Morvien:Trial of the Crusader, Vrisha:Trial of the Crusader, Elaini:Trial of the Crusader, Traak:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Silvanara:Trial of the Crusader, Saintclair:Trial of the Crusader, Keeneyes:Trial of the Crusader, Valsarius:Trial of the Crusader, Riverblade:Trial of the Crusader, Rahz:Trial of the Crusader, Vyndesmyr:Trial of the Crusader, Wholistic:Trial of the Crusader, Verinda:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Embrr:Trial of the Crusader, Alok:Trial of the Crusader, Irshul:Trial of the Crusader, Ariaxx:Trial of the Crusader, Beastlybeers:Trial of the Crusader, Scornmage:Trial of the Crusader, Selidar:Trial of the Crusader, Quilderaumo:Trial of the Crusader",
 		["RealmName"] = "Draka",
 		["points"] = 1,
 		["system"] = "ER DKP",
 	},
-	["Flame Leviathan 2009-09-10 20:35:59"] = {
+	["Twin Valkyr 2009-09-16 00:06:05"] = {
 		["WaitList"] = "",
-		["Guild"] = "Aanelorn:Ulduar, Alok:Ulduar, Ariaxx:Ulduar, Assoil:Undercity, Beastlybeers:Ulduar, Elaini:Ulduar, Inque:The Storm Peaks, Jestik:Magisters' Terrace, Keeneyes:Ulduar, Morvien:Ulduar, Nantucket:Ulduar, Nianye:Zul'Farrak, Quilderaumo:Ulduar, Rahz:Ulduar, Scornmage:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Vrisha:Ulduar, Vyndesmyr:Ulduar, Wiltavian:Ulduar",
+		["Guild"] = "Alok:Trial of the Crusader, Ariaxx:Trial of the Crusader, Beastlybeers:Trial of the Crusader, Dayka:Dalaran, Elaini:Trial of the Crusader, Embrr:Trial of the Crusader, Irshul:Trial of the Crusader, Keeneyes:Trial of the Crusader, Morvien:Trial of the Crusader, Quilderaumo:Trial of the Crusader, Rahz:Trial of the Crusader, Ridea:Icecrown, Riverblade:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Scornmage:Trial of the Crusader, Selidar:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Silvanara:Trial of the Crusader, Traak:Trial of the Crusader, Valsarius:Trial of the Crusader, Verinda:Trial of the Crusader, Vore:Icecrown, Vrisha:Trial of the Crusader, Vyndesmyr:Trial of the Crusader, Wholistic:Trial of the Crusader, Wiltavian:Trial of the Crusader",
+		["Raid"] = "Wiltavian:Trial of the Crusader, Morvien:Trial of the Crusader, Vrisha:Trial of the Crusader, Elaini:Trial of the Crusader, Traak:Trial of the Crusader, Riçkkëz:Trial of the Crusader, Silvanara:Trial of the Crusader, Keeneyes:Trial of the Crusader, Valsarius:Trial of the Crusader, Riverblade:Trial of the Crusader, Rahz:Trial of the Crusader, Vyndesmyr:Trial of the Crusader, Wholistic:Trial of the Crusader, Verinda:Trial of the Crusader, Shyzyhra:Trial of the Crusader, Embrr:Trial of the Crusader, Alok:Trial of the Crusader, Irshul:Trial of the Crusader, Ariaxx:Trial of the Crusader, Beastlybeers:Trial of the Crusader, Scornmage:Trial of the Crusader, Selidar:Trial of the Crusader, Quilderaumo:Trial of the Crusader",
 		["RealmName"] = "Draka",
-		["Raid"] = "Morvien:Ulduar, Shyzyhra:Ulduar, Aanelorn:Ulduar, Valore:Ulduar, Keeneyes:Ulduar, Beastlybeers:Ulduar, Elaini:Ulduar, Alok:Ulduar, Vrisha:Ulduar, Ariaxx:Ulduar, Wiltavian:Ulduar, Selidar:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Vyndesmyr:Ulduar, Rahz:Ulduar, Nantucket:Ulduar, Scornhorn:Ulduar, Valsarius:Ulduar, Quilderaumo:Ulduar",
-		["points"] = 1,
-		["system"] = "ER DKP",
-	},
-	["Razorscale 2009-09-10 20:55:37"] = {
-		["WaitList"] = "",
-		["Guild"] = "Aanelorn:Ulduar, Alok:Ulduar, Ariaxx:Ulduar, Beastlybeers:Ulduar, Borialis:Ulduar, Elaini:Ulduar, Inque:Sholazar Basin, Jestik:Magisters' Terrace, Keeneyes:Ulduar, Morvien:Ulduar, Nantucket:Ulduar, Nianye:Zul'Farrak, Quilderaumo:Ulduar, Rahz:Ulduar, Scornmage:Ulduar, Selidar:Ulduar, Shyzyhra:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Valore:Ulduar, Valsarius:Ulduar, Vane:Hellfire Peninsula, Vrisha:Ulduar, Vyndesmyr:Ulduar, Wiltavian:Ulduar",
-		["RealmName"] = "Draka",
-		["Raid"] = "Morvien:Ulduar, Shyzyhra:Ulduar, Aanelorn:Ulduar, Valore:Ulduar, Keeneyes:Ulduar, Borialis:Ulduar, Elaini:Ulduar, Alok:Ulduar, Vrisha:Ulduar, Ariaxx:Ulduar, Wiltavian:Ulduar, Selidar:Ulduar, Tarnaa:Ulduar, Traak:Ulduar, Vyndesmyr:Ulduar, Rahz:Ulduar, Beastlybeers:Ulduar, Nantucket:Ulduar, Scornhorn:Ulduar, Valsarius:Ulduar, Quilderaumo:Ulduar",
 		["points"] = 1,
 		["system"] = "ER DKP",
 	},
 }
 GuildRaidSnapShot_Loot = {
-	["2009-09-10"] = {
+	["2009-09-15"] = {
 		{
-			["player"] = "Aanelorn",
-			["item"] = "The Leviathan's Coil",
+			["player"] = "Irshul",
+			["item"] = "Binding of the Ice Burrower",
+			["points"] = 1,
+			["date"] = "2009-09-15 21:56:17",
 			["RealmName"] = "Draka",
-			["date"] = "2009-09-10 20:38:54",
-			["points"] = 3,
-			["hardpoints"] = 3,
+			["hardpoints"] = 1,
 			["system"] = "ER DKP",
 		}, -- [1]
 		{
-			["player"] = "Vrisha",
-			["item"] = "Mechanist's Bindings",
+			["player"] = "Embrr",
+			["item"] = "Trophy of the Crusade",
+			["points"] = 21,
+			["date"] = "2009-09-15 21:56:17",
 			["RealmName"] = "Draka",
-			["date"] = "2009-09-10 20:38:54",
-			["points"] = 1,
-			["hardpoints"] = 1,
+			["hardpoints"] = 21,
 			["system"] = "ER DKP",
 		}, -- [2]
 		{
-			["player"] = "Valsarius",
-			["item"] = "Steamworker's Goggles",
+			["player"] = "Vyndesmyr",
+			["item"] = "Cuirass of Cruel Intent",
+			["points"] = 2,
+			["date"] = "2009-09-15 21:56:17",
 			["RealmName"] = "Draka",
-			["date"] = "2009-09-10 20:38:54",
-			["points"] = 0,
-			["hardpoints"] = 0,
+			["hardpoints"] = 2,
 			["system"] = "ER DKP",
 		}, -- [3]
 		{
 			["player"] = "Rahz",
-			["item"] = "Remorse",
+			["item"] = "Cloak of the Untamed Predator",
+			["points"] = 12,
+			["date"] = "2009-09-15 21:56:17",
 			["RealmName"] = "Draka",
-			["date"] = "2009-09-10 20:59:43",
-			["points"] = 5,
-			["hardpoints"] = 5,
+			["hardpoints"] = 12,
 			["system"] = "ER DKP",
 		}, -- [4]
 		{
-			["player"] = "Quilderaumo",
-			["item"] = "Bracers of the Broodmother",
+			["player"] = "Morvien",
+			["item"] = "Pride of the Demon Lord",
+			["points"] = 11,
+			["date"] = "2009-09-15 22:15:49",
 			["RealmName"] = "Draka",
-			["date"] = "2009-09-10 20:59:43",
-			["points"] = 0,
-			["hardpoints"] = 0,
+			["hardpoints"] = 11,
 			["system"] = "ER DKP",
 		}, -- [5]
 		{
-			["player"] = "Nantucket",
-			["item"] = "Veranus' Bane",
+			["player"] = "Alok",
+			["item"] = "Trophy of the Crusade",
+			["points"] = 21,
+			["date"] = "2009-09-15 22:15:49",
 			["RealmName"] = "Draka",
-			["date"] = "2009-09-10 20:59:43",
-			["points"] = 1,
-			["hardpoints"] = 1,
+			["hardpoints"] = 21,
 			["system"] = "ER DKP",
 		}, -- [6]
 		{
-			["player"] = "Valore",
-			["item"] = "Signet of the Earthshaker",
-			["points"] = 0,
-			["date"] = "2009-09-10 21:23:24",
+			["player"] = "Selidar",
+			["item"] = "Bloodbath Girdle",
+			["points"] = 10,
+			["date"] = "2009-09-15 22:15:49",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 0,
+			["hardpoints"] = 10,
 			["system"] = "ER DKP",
 		}, -- [7]
 		{
-			["player"] = "Morvien",
-			["item"] = "Handguards of the Enclave",
-			["points"] = 1,
-			["date"] = "2009-09-10 22:11:39",
+			["player"] = "Wiltavian",
+			["item"] = "Circle of the Darkmender",
+			["points"] = 13,
+			["date"] = "2009-09-15 22:15:49",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 1,
+			["hardpoints"] = 13,
 			["system"] = "ER DKP",
 		}, -- [8]
 		{
-			["player"] = "Scornmage",
-			["item"] = "Unblinking Eye",
-			["points"] = 1,
-			["date"] = "2009-09-10 22:11:39",
+			["player"] = "Silvanara",
+			["item"] = "Sandals of the Mourning Widow",
+			["points"] = 25,
+			["date"] = "2009-09-15 23:17:31",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 1,
+			["hardpoints"] = 25,
 			["system"] = "ER DKP",
 		}, -- [9]
 		{
-			["player"] = "Vyndesmyr",
-			["item"] = "Iron-studded Mantle",
-			["points"] = 4,
-			["date"] = "2009-09-10 22:11:39",
+			["player"] = "Keeneyes",
+			["item"] = "Trophy of the Crusade",
+			["points"] = 22,
+			["date"] = "2009-09-15 23:17:31",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 4,
+			["hardpoints"] = 22,
 			["system"] = "ER DKP",
 		}, -- [10]
 		{
-			["player"] = "Scornmage",
-			["item"] = "Ironmender",
-			["points"] = 8,
-			["date"] = "2009-09-10 23:09:48",
+			["player"] = "Silvanara",
+			["item"] = "Sandals of the Mourning Widow",
+			["points"] = 7,
+			["date"] = "2009-09-15 23:21:30",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 8,
+			["hardpoints"] = 7,
 			["system"] = "ER DKP",
 		}, -- [11]
 		{
-			["player"] = "Rahz",
-			["item"] = "Malice",
-			["points"] = 8,
-			["date"] = "2009-09-10 23:09:48",
+			["player"] = "Keeneyes",
+			["item"] = "Trophy of the Crusade",
+			["points"] = 21,
+			["date"] = "2009-09-15 23:21:30",
 			["RealmName"] = "Draka",
-			["hardpoints"] = 8,
+			["hardpoints"] = 21,
 			["system"] = "ER DKP",
 		}, -- [12]
+		{
+			["player"] = "Verinda",
+			["item"] = "Belt of Biting Cold",
+			["points"] = 3,
+			["date"] = "2009-09-15 23:21:30",
+			["RealmName"] = "Draka",
+			["hardpoints"] = 3,
+			["system"] = "ER DKP",
+		}, -- [13]
+		{
+			["player"] = "Riçkkëz",
+			["item"] = "Dual-blade Butcher",
+			["points"] = 10,
+			["date"] = "2009-09-15 23:21:30",
+			["RealmName"] = "Draka",
+			["hardpoints"] = 10,
+			["system"] = "ER DKP",
+		}, -- [14]
+		{
+			["player"] = "Morvien",
+			["item"] = "Armguards of the Shieldmaiden",
+			["points"] = 10,
+			["date"] = "2009-09-16 00:14:16",
+			["RealmName"] = "Draka",
+			["hardpoints"] = 10,
+			["system"] = "ER DKP",
+		}, -- [15]
+		{
+			["player"] = "Valsarius",
+			["item"] = "Trophy of the Crusade",
+			["points"] = 22,
+			["date"] = "2009-09-16 00:14:16",
+			["RealmName"] = "Draka",
+			["hardpoints"] = 22,
+			["system"] = "ER DKP",
+		}, -- [16]
+		{
+			["player"] = "Shyzyhra",
+			["item"] = "Dark Essence Bindings",
+			["points"] = 11,
+			["date"] = "2009-09-16 00:14:16",
+			["RealmName"] = "Draka",
+			["hardpoints"] = 11,
+			["system"] = "ER DKP",
+		}, -- [17]
+		{
+			["player"] = "Vrisha",
+			["item"] = "Legionnaire's Gorget",
+			["points"] = 10,
+			["date"] = "2009-09-16 00:14:16",
+			["RealmName"] = "Draka",
+			["hardpoints"] = 10,
+			["system"] = "ER DKP",
+		}, -- [18]
 	},
 }
