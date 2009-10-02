@@ -101,7 +101,7 @@ BidER_DKP = {
 			["total"] = "3",
 		},
 		["Rumbler"] = {
-			["total"] = 5,
+			["total"] = 8,
 		},
 		["Twonynd"] = {
 			["total"] = "2",
